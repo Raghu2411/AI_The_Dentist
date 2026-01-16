@@ -1,0 +1,28 @@
+**Teeth-Specific Observations**  
+1. **General Condition**  
+   - A total of 24 teeth are visualized with clear anatomical localization. No wisdom teeth are detected bilaterally.  
+   - FDI tooth numbers #11, #12, #13, #14, #15, #16, #17, #21, #22, #23, #24, #25, #26, #27, #31, #32, #33, #35, #37, #41, #42, #43, #44 are identifiable.  
+
+2. **Pathological Findings**  
+   - **#17**: Root-stump near #17 (score: 0.85) observed. Additionally, suspicious for caries (score: 0.4) and questionable periapical radiolucency (score: 0.43) noted.  
+   - **#35**: Clear indication of root-stump near #35 (score: 0.97) with suspicious for caries (score: 0.59).  
+   - **#37**: Sign of impacted tooth near #37 (score: 0.86). Additional suspicious findings include impacted morphology (score: 0.37) and questionable caries (score: 0.44) near the same area.  
+
+3. **Historical Interventions**  
+   - No prior restorations, root canal treatments, crowns, or implants identified.  
+
+---
+
+**Clinical Summary & Recommendations**  
+1. **Priority Concerns**  
+   - Root-stump remnants adjacent to #17 and #35 require evaluation for potential apical pathology or treatment planning.  
+   - Impacted morphology near #37 demands further assessment for surgical intervention or orthodontic referral.  
+
+2. **Preventive Measures**  
+   - Monitor suspicious caries near #17 and #35 for progression.  
+   - Reinforce oral hygiene protocols to mitigate caries risk in high-susceptibility areas.  
+
+3. **Follow-up Protocol**  
+   - Referral to oral surgeon for impacted tooth (#37) evaluation.  
+   - 3-month recall for follow-up imaging to assess root-stump stability (#17, #35).  
+   - Consider endodontic evaluation for periapical radiolucency near #17 if symptoms develop.

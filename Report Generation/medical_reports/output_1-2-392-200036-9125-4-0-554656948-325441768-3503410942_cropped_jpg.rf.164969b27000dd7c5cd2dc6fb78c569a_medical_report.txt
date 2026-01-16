@@ -1,0 +1,28 @@
+**Teeth-Specific Observations**  
+
+1. **General Condition**  
+   A total of 31 teeth are visualized within the panoramic field. All detected third molars (#38, #48, #28) are present and not impacted. No evidence of missing or supernumerary teeth is observed.  
+
+2. **Pathological Findings**  
+   - Suspicious for **calculus** on #12, noted as a radiopaque deposit on the root surface.  
+   - **Caries** observed as a radiolucent lesion near tooth #16, with low confidence in localization (score < 0.80).  
+
+3. **Historical Interventions**  
+   No restorations, crowns, root canal treatments, or implants are identified.  
+
+---
+
+**Clinical Summary & Recommendations**  
+
+**Priority Concerns**  
+- **Suspicious calculus on #12** requires professional scaling and polishing.  
+- **Area of concern near #16** (suspicious for caries) warrants further evaluation with intraoral imaging or clinical examination to confirm.  
+
+**Preventive Measures**  
+- Reinforce patient education on plaque control and interdental cleaning techniques.  
+- Monitor suspicious areas for progression during routine recall visits.  
+
+**Follow-up Protocol**  
+- Schedule a 6-month recall to reassess calculus on #12 and evaluate the lesion near #16.  
+- If caries is confirmed, refer for restorative treatment.  
+- Consider targeted imaging (e.g., periapical radiograph) for the #16 region to clarify the lesion’s extent.

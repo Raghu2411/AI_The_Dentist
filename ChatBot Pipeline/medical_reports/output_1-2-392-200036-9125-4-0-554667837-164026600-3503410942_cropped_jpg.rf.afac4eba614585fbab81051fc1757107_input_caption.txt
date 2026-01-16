@@ -1,0 +1,40 @@
+This localization caption provides multi-dimensional spatial analysis of anatomical structures and pathological findings for this panoramic dental X-ray image, including:
+
+Teeth visibility with center points (total: 17):
+[
+ {'point_2d': [1243, 650], 'tooth_id': '37', 'score': 0.92},
+ {'point_2d': [456, 491], 'tooth_id': '18', 'score': 0.92},
+ {'point_2d': [549, 633], 'tooth_id': '47', 'score': 0.91},
+ {'point_2d': [1102, 659], 'tooth_id': '35', 'score': 0.88},
+ {'point_2d': [1045, 650], 'tooth_id': '34', 'score': 0.86},
+ {'point_2d': [1000, 645], 'tooth_id': '33', 'score': 0.84},
+ {'point_2d': [957, 611], 'tooth_id': '32', 'score': 0.84},
+ {'point_2d': [1251, 499], 'tooth_id': '27', 'score': 0.82},
+ {'point_2d': [1069, 516], 'tooth_id': '24', 'score': 0.81},
+ {'point_2d': [648, 631], 'tooth_id': '46', 'score': 0.8},
+ {'point_2d': [732, 669], 'tooth_id': '44', 'score': 0.8},
+ {'point_2d': [439, 625], 'tooth_id': '48', 'score': 0.76},
+ {'point_2d': [731, 668], 'tooth_id': '45', 'score': 0.73},
+ {'point_2d': [731, 522], 'tooth_id': '13', 'score': 0.66},
+ {'point_2d': [1023, 505], 'tooth_id': '23', 'score': 0.65},
+ {'point_2d': [861, 629], 'tooth_id': '42', 'score': 0.65},
+ {'point_2d': [837, 659], 'tooth_id': '43', 'score': 0.6}
+]
+
+Wisdom teeth detection (total: 2):
+[
+ {'box_2d': [407, 424, 505, 557], 'tooth_id': '18', 'is_impacted': false, 'score': 0.92},
+ {'box_2d': [365, 549, 514, 701], 'tooth_id': '48', 'is_impacted': false, 'score': 0.76}
+]
+
+Dental Pathological Findings (total: 4):
+[
+ {'box_2d': [518, 456, 566, 538], 'tooth_id': 'unknown', 'label': 'root-stump', 'score': 0.67, 'near_tooth': '18'},
+ {'box_2d': [701, 692, 746, 742], 'tooth_id': 'unknown', 'label': 'periapical radiolucency', 'score': 0.57, 'near_tooth': '44'},
+ {'box_2d': [697, 709, 738, 749], 'tooth_id': 'unknown', 'label': 'periapical radiolucency', 'score': 0.37, 'near_tooth': '44'},
+ {'box_2d': [616, 562, 655, 619], 'tooth_id': 'unknown', 'label': 'caries', 'score': 0.31, 'near_tooth': '46'}
+]
+
+Historical Treatments (total: 0):
+[
+]

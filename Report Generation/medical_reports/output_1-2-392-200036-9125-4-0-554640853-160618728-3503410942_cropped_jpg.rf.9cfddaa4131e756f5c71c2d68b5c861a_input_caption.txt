@@ -1,0 +1,28 @@
+This localization caption provides multi-dimensional spatial analysis of anatomical structures and pathological findings for this panoramic dental X-ray image, including:
+
+Teeth visibility with center points (total: 0):
+[
+]
+
+
+Wisdom teeth detection (total: 0):
+[
+]
+
+
+Dental Pathological Findings (total: 3):
+[
+ {'box_2d': [633, 752, 670, 788], 'tooth_id': 'unknown', 'label': 'root-stump', 'score': 0.66},
+ {'box_2d': [1048, 402, 1076, 536], 'tooth_id': 'unknown', 'label': 'periapical radiolucency', 'score': 0.36},
+ {'box_2d': [1058, 413, 1079, 501], 'tooth_id': 'unknown', 'label': 'periapical radiolucency', 'score': 0.27}
+]
+
+Historical Treatments (total: 6):
+[
+ {'box_2d': [1016, 386, 1042, 453], 'tooth_id': 'unknown', 'label': 'rc-treated', 'score': 0.56},
+ {'box_2d': [755, 677, 793, 833], 'tooth_id': 'unknown', 'label': 'implant', 'score': 0.92},
+ {'box_2d': [1008, 671, 1045, 836], 'tooth_id': 'unknown', 'label': 'implant', 'score': 0.91},
+ {'box_2d': [1037, 388, 1089, 549], 'tooth_id': 'unknown', 'label': 'implant', 'score': 0.89},
+ {'box_2d': [1002, 378, 1053, 487], 'tooth_id': 'unknown', 'label': 'implant', 'score': 0.84},
+ {'box_2d': [864, 368, 914, 471], 'tooth_id': 'unknown', 'label': 'implant', 'score': 0.68}
+]

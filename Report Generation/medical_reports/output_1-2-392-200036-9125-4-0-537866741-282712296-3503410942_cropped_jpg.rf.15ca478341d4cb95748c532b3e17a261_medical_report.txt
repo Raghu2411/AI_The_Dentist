@@ -1,0 +1,38 @@
+**Teeth-Specific Observations**  
+
+**1. General Condition**  
+A total of 28 teeth are visualized using FDI numbering. All permanent teeth are present, including the mandibular left first molar (#18), which is unimpacted and fully erupted. No evidence of missing or supernumerary teeth is noted. The dentition demonstrates adequate alignment and normal eruptive patterns.  
+
+**2. Pathological Findings**  
+- #15: Suspicious for periapical radiolucency (score: 0.29).  
+- #22: Areas of concern noted for calculus (score: 0.4).  
+- #25: Suspicious for caries (score: 0.27).  
+- Near #26: Suspicious for caries (score: 0.58).  
+- Near #15: Suggests caries involvement (score: 0.43).  
+
+**3. Historical Interventions**  
+- #25: Rc-treated tooth with coronal restoration (score: 0.73).  
+- Near #26: Rc-treated tooth with crown placement (score: 0.9).  
+- Near #26: Presence of a crown (score: 0.81).  
+- Near #25: Presence of a crown (score: 0.75).  
+- Near #17: Restoration with composite or amalgam (score: 0.69).  
+
+---
+
+**Clinical Summary & Recommendations**  
+
+**Priority Concerns**  
+1. Deep caries suspicious on #25 and near #26 require urgent evaluation for restorative intervention.  
+2. Periapical radiolucency adjacent to #15 indicates potential endodontic pathology; further diagnostic assessment (e.g., CBCT) is warranted.  
+3. Calculus deposits on #22 necessitate professional scaling and polishing.  
+
+**Preventive Measures**  
+- Reinforce plaque control through biofilm disruption techniques (e.g., interdental brushes, antimicrobial rinses).  
+- Monitor suspicious caries near #15 and #26 for progression during 3-month recall visits.  
+- Educate on dietary modifications to reduce cariogenic exposure.  
+
+**Follow-up Protocol**  
+- Schedule 6-month recall for radiographic and clinical reassessment of caries lesions.  
+- Refer to endodontist for evaluation of #15 periapical radiolucency.  
+- Address calculus on #22 with prophylaxis and re-evaluate at 3-month interval.  
+- Consider restorative planning for #25 and #26 within 2 weeks to prevent secondary caries or fracture.

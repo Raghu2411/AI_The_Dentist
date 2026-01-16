@@ -1,0 +1,36 @@
+**Teeth-Specific Observations**  
+1. **General Condition**  
+   A total of 28 teeth are visualized. All permanent teeth are present except for the wisdom teeth (#18, #38, #48), which are not visible. The lower right third molar (#28) is present and unimpacted per the wisdom teeth detection.  
+
+2. **Pathological Findings**  
+   - **Impacted molars**:  
+     - Clear indication of impacted molar near tooth #47 (lower left third molar, wisdom tooth).  
+     - Clear indication of impacted molar near tooth #37 (lower right second molar).  
+   - **Root-stump**:  
+     - Presence of a root-stump near tooth #17 (upper left first molar).  
+   - **Caries**:  
+     - Suspicious for caries near tooth #47.  
+     - Suspicious for caries near tooth #46 (lower left first molar).  
+     - Suspicious for caries near tooth #17.  
+     - Suspicious for caries near tooth #37.  
+     - An area of concern noted for potential caries near tooth #36 (lower right first molar).  
+
+3. **Historical Interventions**  
+   No prior dental interventions observed.  
+
+---
+
+**Clinical Summary & Recommendations**  
+1. **Priority Concerns**  
+   - Impacted molars near #47 and #37 require clinical evaluation for potential extraction or monitoring.  
+   - Root-stump near #17 may necessitate surgical removal if causing discomfort or infection risk.  
+   - Suspicious caries on #47, #46, #17, and #37 warrant immediate dental evaluation for restorative treatment.  
+
+2. **Preventive Measures**  
+   - Reinforce oral hygiene practices to mitigate caries progression.  
+   - Monitor suspicious caries on #36 during routine visits.  
+
+3. **Follow-up Protocol**  
+   - Schedule a 6-month recall for radiographic review of impacted teeth and suspicious caries.  
+   - Referral to an oral surgeon for surgical consultation regarding impacted molars (#47, #37) and root-stump (#17).  
+   - Initiate caries management protocol for affected teeth (#47, #46, #17, #37) with early intervention.

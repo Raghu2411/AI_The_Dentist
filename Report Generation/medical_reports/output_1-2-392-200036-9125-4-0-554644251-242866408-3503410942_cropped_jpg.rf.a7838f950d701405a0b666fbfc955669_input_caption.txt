@@ -1,0 +1,44 @@
+This localization caption provides multi-dimensional spatial analysis of anatomical structures and pathological findings for this panoramic dental X-ray image, including:
+
+Teeth visibility with center points (total: 22):
+[
+ {'point_2d': [504, 583], 'tooth_id': '47', 'score': 0.95},
+ {'point_2d': [644, 650], 'tooth_id': '45', 'score': 0.95},
+ {'point_2d': [583, 629], 'tooth_id': '46', 'score': 0.95},
+ {'point_2d': [504, 420], 'tooth_id': '17', 'score': 0.94},
+ {'point_2d': [1070, 655], 'tooth_id': '36', 'score': 0.94},
+ {'point_2d': [572, 459], 'tooth_id': '16', 'score': 0.94},
+ {'point_2d': [737, 683], 'tooth_id': '43', 'score': 0.91},
+ {'point_2d': [1159, 618], 'tooth_id': '37', 'score': 0.91},
+ {'point_2d': [1004, 668], 'tooth_id': '35', 'score': 0.91},
+ {'point_2d': [957, 687], 'tooth_id': '34', 'score': 0.9},
+ {'point_2d': [695, 665], 'tooth_id': '44', 'score': 0.9},
+ {'point_2d': [906, 700], 'tooth_id': '33', 'score': 0.89},
+ {'point_2d': [630, 474], 'tooth_id': '15', 'score': 0.89},
+ {'point_2d': [859, 573], 'tooth_id': '21', 'score': 0.89},
+ {'point_2d': [716, 516], 'tooth_id': '13', 'score': 0.88},
+ {'point_2d': [805, 568], 'tooth_id': '11', 'score': 0.86},
+ {'point_2d': [673, 494], 'tooth_id': '14', 'score': 0.86},
+ {'point_2d': [972, 518], 'tooth_id': '24', 'score': 0.82},
+ {'point_2d': [1145, 455], 'tooth_id': '27', 'score': 0.79},
+ {'point_2d': [1073, 485], 'tooth_id': '26', 'score': 0.79},
+ {'point_2d': [1014, 496], 'tooth_id': '25', 'score': 0.79},
+ {'point_2d': [925, 540], 'tooth_id': '23', 'score': 0.74}
+]
+
+Wisdom teeth detection (total: 0):
+[
+]
+
+
+Dental Pathological Findings (total: 4):
+[
+ {'box_2d': [822, 424, 874, 655], 'tooth_id': '21', 'label': 'calculus', 'score': 0.35},
+ {'box_2d': [745, 515, 771, 600], 'tooth_id': 'unknown', 'label': 'root-stump', 'score': 0.5, 'near_tooth': '11'},
+ {'box_2d': [1054, 501, 1091, 554], 'tooth_id': 'unknown', 'label': 'caries', 'score': 0.49, 'near_tooth': '26'},
+ {'box_2d': [545, 466, 561, 490], 'tooth_id': 'unknown', 'label': 'caries', 'score': 0.23, 'near_tooth': '16'}
+]
+
+Historical Treatments (total: 0):
+[
+]

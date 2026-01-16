@@ -1,0 +1,42 @@
+**Teeth-Specific Observations**  
+
+1. **General Condition**  
+   A total of 15 teeth were visualized with varying degrees of clarity. No wisdom teeth were detected. All identified teeth were localized using FDI numbering, with confidence scores supporting anatomical accuracy for most.  
+
+2. **Pathological Findings**  
+   - **Root stumps**:  
+     - Clear indication of root stumps near #16, #24, #34, and #13.  
+     - Evidence of root stumps adjacent to #37 and #24.  
+     - Suspicious areas for root stumps near #34 and #13 (lower confidence).  
+   - **Periapical radiolucency**:  
+     - Areas of concern for periapical radiolucency near #37 (score 0.41) and #45 (score 0.35).  
+   - **Caries**:  
+     - Suspected caries near #44 (score 0.29–0.32).  
+
+3. **Historical Interventions**  
+   - **Restorations**:  
+     - Presence of a crown on #16.  
+     - Restorations observed near #23 and #37.  
+   - **Root canal treatments (RCT)**:  
+     - RCT confirmed on #16.  
+     - RCT noted near #11, #13, #24, #37, and #45.  
+   - **Crown placements**:  
+     - Crowns identified near #13, #37, and #45.  
+
+---
+
+**Clinical Summary & Recommendations**  
+
+1. **Priority Concerns**  
+   - Root stumps adjacent to multiple teeth (#16, #24, #34, #13) require evaluation for potential infection or resorption risks.  
+   - Areas of concern for periapical radiolucency near #37 and #45 necessitate further diagnostic imaging (e.g., CBCT) to rule out apical pathology.  
+   - Suspected caries near #44 should be evaluated clinically for progression.  
+
+2. **Preventive Measures**  
+   - Reinforce oral hygiene protocols to mitigate biofilm accumulation around root stumps and restored teeth.  
+   - Monitor suspicious areas near #37 and #45 for changes in periapical status.  
+
+3. **Follow-up Protocol**  
+   - Schedule a 6-month recall for radiographic and clinical reassessment of root stumps and questionable radiolucencies.  
+   - Referral to an endodontist for #37 and #45 is recommended to confirm or exclude apical pathology.  
+   - Consider re-evaluation of caries near #44 with clinical probing and, if necessary, restorative intervention.

@@ -1,0 +1,41 @@
+This localization caption provides multi-dimensional spatial analysis of anatomical structures and pathological findings for this panoramic dental X-ray image, including:
+
+Teeth visibility with center points (total: 18):
+[
+ {'point_2d': [695, 400], 'tooth_id': '15', 'score': 0.93},
+ {'point_2d': [1105, 462], 'tooth_id': '25', 'score': 0.93},
+ {'point_2d': [793, 423], 'tooth_id': '13', 'score': 0.93},
+ {'point_2d': [784, 623], 'tooth_id': '44', 'score': 0.93},
+ {'point_2d': [1169, 457], 'tooth_id': '26', 'score': 0.92},
+ {'point_2d': [826, 652], 'tooth_id': '43', 'score': 0.92},
+ {'point_2d': [1242, 443], 'tooth_id': '27', 'score': 0.91},
+ {'point_2d': [980, 467], 'tooth_id': '22', 'score': 0.88},
+ {'point_2d': [943, 443], 'tooth_id': '21', 'score': 0.87},
+ {'point_2d': [945, 669], 'tooth_id': '32', 'score': 0.86},
+ {'point_2d': [987, 685], 'tooth_id': '33', 'score': 0.86},
+ {'point_2d': [1024, 671], 'tooth_id': '34', 'score': 0.84},
+ {'point_2d': [867, 653], 'tooth_id': '42', 'score': 0.8},
+ {'point_2d': [1024, 452], 'tooth_id': '23', 'score': 0.8},
+ {'point_2d': [884, 440], 'tooth_id': '11', 'score': 0.78},
+ {'point_2d': [555, 557], 'tooth_id': '47', 'score': 0.76},
+ {'point_2d': [916, 656], 'tooth_id': '31', 'score': 0.76},
+ {'point_2d': [891, 653], 'tooth_id': '41', 'score': 0.74}
+]
+
+Wisdom teeth detection (total: 0):
+[
+]
+
+
+Dental Pathological Findings (total: 1):
+[
+ {'box_2d': [523, 626, 554, 657], 'tooth_id': 'unknown', 'label': 'periapical radiolucency', 'score': 0.33, 'near_tooth': '47'}
+]
+
+Historical Treatments (total: 4):
+[
+ {'box_2d': [1004, 464, 1135, 561], 'tooth_id': '25', 'label': 'restoration', 'score': 0.61},
+ {'box_2d': [526, 471, 824, 617], 'tooth_id': 'unknown', 'label': 'restoration', 'score': 0.88, 'near_tooth': '47'},
+ {'box_2d': [526, 364, 896, 535], 'tooth_id': 'unknown', 'label': 'restoration', 'score': 0.78, 'near_tooth': '15'},
+ {'box_2d': [825, 334, 868, 525], 'tooth_id': 'unknown', 'label': 'rc-treated', 'score': 0.77, 'near_tooth': '11'}
+]

@@ -1,0 +1,29 @@
+**Teeth-Specific Observations**  
+1. **General Condition**  
+   - **28 teeth** are visualized within the field of view.  
+   - **Wisdom teeth**: All three visualized wisdom teeth (#18, #28, and #48) are **non-impacted and erupting**.  
+
+2. **Pathological Findings**  
+   - **Suspicious for caries** near tooth **#27** (confidence: 0.77).  
+   - **Areas of concern for caries** near tooth **#48** (confidence: 0.44) and near tooth **#17** (confidence: 0.37).  
+
+3. **Historical Interventions**  
+   - **Presence of a crown** on tooth **#36**.  
+   - **Root canal-treated tooth** identified near tooth **#14**.  
+   - **Restoration** noted near tooth **#37**.  
+
+---
+
+**Clinical Summary & Recommendations**  
+1. **Priority Concerns**  
+   - **Suspicious caries near #27** and **areas of concern near #48 and #17** require further clinical evaluation to confirm and address potential decay.  
+   - **Root canal-treated tooth near #14** should be assessed for healing status and potential need for retreatment.  
+
+2. **Preventive Measures**  
+   - **Reinforce oral hygiene practices** to mitigate caries risk in the posterior regions (near #17, #27, #48).  
+   - **Monitor areas of suspected calculus** during routine cleanings.  
+
+3. **Follow-up Protocol**  
+   - **6-month recall** for radiographic and clinical reassessment of suspicious caries and RC-treated #14.  
+   - **Referral to endodontist** for evaluation of the root canal-treated tooth near #14.  
+   - **Restorative intervention** recommended for confirmed caries in #27, #48, or #17.

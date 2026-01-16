@@ -1,0 +1,27 @@
+**Teeth-Specific Observations**  
+1. **General Condition**  
+   A total of 20 teeth were visualized, with one wisdom tooth (#18) identified as non-impacted. The remaining posterior quadrants (e.g., #28, #38, #48) were not visualized, suggesting potential absence or incomplete eruption.  
+
+2. **Pathological Findings**  
+   - **Root Stumps**: Clear indication of root stumps near tooth #46, #25, and #13.  
+   - **Suspicious Lesions**: Suspicious for a periapical radiolucency near tooth #25 (confidence 0.61) and additional root stumps near tooth #25 (confidence 0.46).  
+   No evidence of active caries, impacted teeth, or calculus.  
+
+3. **Historical Interventions**  
+   No prior restorations, crowns, root canal treatments, or implants observed.  
+
+---
+
+**Clinical Summary & Recommendations**  
+1. **Priority Concerns**  
+   - Root stumps near #46, #25, and #13 require evaluation for residual root fragments or infection risk.  
+   - Periapical radiolucency near #25 suggests possible apical periodontitis; further diagnostic imaging (e.g., CBCT) is warranted.  
+
+2. **Preventive Measures**  
+   - Reinforce oral hygiene protocols to mitigate risks of secondary caries or periodontal complications in areas adjacent to root stumps.  
+   - Monitor periapical radiolucency for progression or symptom development.  
+
+3. **Follow-up Protocol**  
+   - Schedule a 6-month recall for CBCT evaluation of the periapical radiolucency near #25.  
+   - Referral to an endodontist is recommended to assess the radiolucency and plan definitive treatment.  
+   - Consider surgical consultation for residual root stumps if clinical symptoms arise.

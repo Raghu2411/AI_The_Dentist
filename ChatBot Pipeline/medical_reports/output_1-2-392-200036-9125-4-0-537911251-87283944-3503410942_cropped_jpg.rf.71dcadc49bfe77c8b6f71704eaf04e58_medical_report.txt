@@ -1,0 +1,28 @@
+**Teeth-Specific Observations**  
+1. **General Condition**  
+   A total of 31 teeth are visualized within the field of view. The maxillary and mandibular wisdom teeth (#18 and #28) are present and not impacted, with #18 (FDI 18) and #28 (FDI 28) erupting fully. No evidence of tooth loss or agenesis is noted.  
+
+2. **Pathological Findings**  
+   A suspicious radiopaque density is observed in the posterior ramus region, suggesting a potential impacted structure **near tooth #47 (FDI 47)**. This finding warrants further evaluation due to its proximity to the mandibular angle.  
+
+3. **Historical Interventions**  
+   No prior restorations, root canal treatments, crowns, or implants are identified.  
+
+---
+
+**Clinical Summary & Recommendations**  
+1. **Priority Concerns**  
+   - Suspicious radiopaque density near #47: Requires differential diagnosis to rule out odontogenic tumors, cysts, or impacted supernumerary teeth.  
+   - Complete visualization of #21 (FDI 21) is compromised due to overlapping structures; consider supplemental imaging if clinically indicated.  
+
+2. **Preventive Measures**  
+   - Reinforce meticulous oral hygiene for the molar regions, particularly near #47 and #28.  
+   - Monitor for signs of temporomandibular joint (TMJ) strain due to the posterior radiopacity.  
+
+3. **Follow-up Protocol**  
+   - **Referral to oral surgeon** for MRI evaluation of the suspicious structure near #47.  
+   - **6-month recall** for panoramic re-evaluation to assess stability of the radiopaque lesion.  
+   - **Scheduled cone-beam CT (CBCT)** to clarify the relationship between the lesion and adjacent anatomical structures.  
+
+---  
+Generated using FDI tooth numbering system. All findings are localized with reference to anatomical landmarks and confidence-based clinical terminology.

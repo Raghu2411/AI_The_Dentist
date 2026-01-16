@@ -1,0 +1,42 @@
+This localization caption provides multi-dimensional spatial analysis of anatomical structures and pathological findings for this panoramic dental X-ray image, including:
+
+Teeth visibility with center points (total: 10):
+[
+ {'point_2d': [501, 576], 'tooth_id': '48', 'score': 0.91},
+ {'point_2d': [582, 619], 'tooth_id': '47', 'score': 0.9},
+ {'point_2d': [767, 636], 'tooth_id': '44', 'score': 0.87},
+ {'point_2d': [721, 647], 'tooth_id': '45', 'score': 0.86},
+ {'point_2d': [815, 648], 'tooth_id': '43', 'score': 0.83},
+ {'point_2d': [1261, 576], 'tooth_id': '38', 'score': 0.82},
+ {'point_2d': [977, 641], 'tooth_id': '33', 'score': 0.82},
+ {'point_2d': [874, 633], 'tooth_id': '41', 'score': 0.81},
+ {'point_2d': [851, 635], 'tooth_id': '42', 'score': 0.76},
+ {'point_2d': [939, 630], 'tooth_id': '32', 'score': 0.73}
+]
+
+Wisdom teeth detection (total: 2):
+[
+ {'box_2d': [431, 502, 570, 651], 'tooth_id': '48', 'is_impacted': false, 'score': 0.91},
+ {'box_2d': [1190, 508, 1333, 644], 'tooth_id': '38', 'is_impacted': false, 'score': 0.82}
+]
+
+Dental Pathological Findings (total: 0):
+[
+]
+
+
+Historical Treatments (total: 12):
+[
+ {'box_2d': [560, 532, 754, 642], 'tooth_id': 'unknown', 'label': 'restoration', 'score': 0.93, 'near_tooth': '47'},
+ {'box_2d': [855, 506, 1288, 645], 'tooth_id': 'unknown', 'label': 'restoration', 'score': 0.84, 'near_tooth': '33'},
+ {'box_2d': [714, 259, 749, 435], 'tooth_id': 'unknown', 'label': 'implant', 'score': 0.86, 'near_tooth': '44'},
+ {'box_2d': [789, 270, 824, 437], 'tooth_id': 'unknown', 'label': 'implant', 'score': 0.84, 'near_tooth': '42'},
+ {'box_2d': [675, 277, 704, 438], 'tooth_id': 'unknown', 'label': 'implant', 'score': 0.84, 'near_tooth': '47'},
+ {'box_2d': [856, 249, 884, 431], 'tooth_id': 'unknown', 'label': 'implant', 'score': 0.78, 'near_tooth': '41'},
+ {'box_2d': [1238, 297, 1310, 404], 'tooth_id': 'unknown', 'label': 'implant', 'score': 0.75, 'near_tooth': '38'},
+ {'box_2d': [909, 242, 945, 440], 'tooth_id': 'unknown', 'label': 'implant', 'score': 0.75, 'near_tooth': '32'},
+ {'box_2d': [972, 264, 1018, 429], 'tooth_id': 'unknown', 'label': 'implant', 'score': 0.75, 'near_tooth': '32'},
+ {'box_2d': [1064, 272, 1099, 425], 'tooth_id': 'unknown', 'label': 'implant', 'score': 0.73, 'near_tooth': '38'},
+ {'box_2d': [1026, 266, 1052, 426], 'tooth_id': 'unknown', 'label': 'implant', 'score': 0.69, 'near_tooth': '33'},
+ {'box_2d': [507, 258, 578, 407], 'tooth_id': 'unknown', 'label': 'implant', 'score': 0.52, 'near_tooth': '48'}
+]

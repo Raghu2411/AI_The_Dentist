@@ -1,0 +1,53 @@
+This localization caption provides multi-dimensional spatial analysis of anatomical structures and pathological findings for this panoramic dental X-ray image, including:
+
+Teeth visibility with center points (total: 27):
+[
+ {'point_2d': [1100, 701], 'tooth_id': '36', 'score': 0.97},
+ {'point_2d': [519, 681], 'tooth_id': '47', 'score': 0.95},
+ {'point_2d': [675, 721], 'tooth_id': '45', 'score': 0.95},
+ {'point_2d': [598, 708], 'tooth_id': '46', 'score': 0.94},
+ {'point_2d': [1179, 500], 'tooth_id': '27', 'score': 0.93},
+ {'point_2d': [1175, 673], 'tooth_id': '37', 'score': 0.93},
+ {'point_2d': [989, 728], 'tooth_id': '34', 'score': 0.92},
+ {'point_2d': [954, 743], 'tooth_id': '33', 'score': 0.92},
+ {'point_2d': [1034, 717], 'tooth_id': '35', 'score': 0.92},
+ {'point_2d': [1242, 637], 'tooth_id': '38', 'score': 0.91},
+ {'point_2d': [773, 746], 'tooth_id': '43', 'score': 0.91},
+ {'point_2d': [918, 737], 'tooth_id': '32', 'score': 0.9},
+ {'point_2d': [1052, 536], 'tooth_id': '25', 'score': 0.89},
+ {'point_2d': [725, 728], 'tooth_id': '44', 'score': 0.89},
+ {'point_2d': [649, 542], 'tooth_id': '15', 'score': 0.89},
+ {'point_2d': [1111, 534], 'tooth_id': '26', 'score': 0.89},
+ {'point_2d': [925, 570], 'tooth_id': '22', 'score': 0.89},
+ {'point_2d': [879, 737], 'tooth_id': '31', 'score': 0.89},
+ {'point_2d': [735, 548], 'tooth_id': '13', 'score': 0.89},
+ {'point_2d': [1005, 544], 'tooth_id': '24', 'score': 0.89},
+ {'point_2d': [818, 746], 'tooth_id': '42', 'score': 0.88},
+ {'point_2d': [879, 564], 'tooth_id': '21', 'score': 0.88},
+ {'point_2d': [848, 738], 'tooth_id': '41', 'score': 0.86},
+ {'point_2d': [782, 569], 'tooth_id': '12', 'score': 0.85},
+ {'point_2d': [969, 546], 'tooth_id': '23', 'score': 0.85},
+ {'point_2d': [828, 572], 'tooth_id': '11', 'score': 0.79},
+ {'point_2d': [694, 545], 'tooth_id': '14', 'score': 0.78}
+]
+
+Wisdom teeth detection (total: 1):
+[
+ {'box_2d': [1193, 565, 1292, 709], 'tooth_id': '38', 'is_impacted': false, 'score': 0.91}
+]
+
+Dental Pathological Findings (total: 5):
+[
+ {'box_2d': [796, 448, 866, 731], 'tooth_id': '11', 'label': 'calculus', 'score': 0.35},
+ {'box_2d': [1212, 440, 1252, 528], 'tooth_id': 'unknown', 'label': 'root-stump', 'score': 0.93, 'near_tooth': '27'},
+ {'box_2d': [416, 445, 475, 555], 'tooth_id': 'unknown', 'label': 'root-stump', 'score': 0.87, 'near_tooth': '47'},
+ {'box_2d': [1218, 584, 1253, 617], 'tooth_id': 'unknown', 'label': 'caries', 'score': 0.7, 'near_tooth': '38'},
+ {'box_2d': [1101, 639, 1119, 667], 'tooth_id': 'unknown', 'label': 'caries', 'score': 0.49, 'near_tooth': '36'}
+]
+
+Historical Treatments (total: 3):
+[
+ {'box_2d': [549, 461, 629, 615], 'tooth_id': 'unknown', 'label': 'rc-treated', 'score': 0.94, 'near_tooth': '15'},
+ {'box_2d': [549, 554, 629, 614], 'tooth_id': 'unknown', 'label': 'crown', 'score': 0.78, 'near_tooth': '15'},
+ {'box_2d': [473, 441, 548, 583], 'tooth_id': 'unknown', 'label': 'rc-treated', 'score': 0.75, 'near_tooth': '15'}
+]

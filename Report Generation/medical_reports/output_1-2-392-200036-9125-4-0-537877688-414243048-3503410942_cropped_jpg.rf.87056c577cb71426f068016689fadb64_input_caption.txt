@@ -1,0 +1,46 @@
+This localization caption provides multi-dimensional spatial analysis of anatomical structures and pathological findings for this panoramic dental X-ray image, including:
+
+Teeth visibility with center points (total: 25):
+[
+ {'point_2d': [643, 638], 'tooth_id': '45', 'score': 0.96},
+ {'point_2d': [476, 401], 'tooth_id': '17', 'score': 0.95},
+ {'point_2d': [1252, 596], 'tooth_id': '37', 'score': 0.94},
+ {'point_2d': [481, 588], 'tooth_id': '47', 'score': 0.94},
+ {'point_2d': [1238, 421], 'tooth_id': '27', 'score': 0.93},
+ {'point_2d': [825, 484], 'tooth_id': '11', 'score': 0.92},
+ {'point_2d': [953, 483], 'tooth_id': '22', 'score': 0.92},
+ {'point_2d': [694, 455], 'tooth_id': '13', 'score': 0.91},
+ {'point_2d': [762, 476], 'tooth_id': '12', 'score': 0.91},
+ {'point_2d': [695, 655], 'tooth_id': '44', 'score': 0.91},
+ {'point_2d': [738, 670], 'tooth_id': '43', 'score': 0.91},
+ {'point_2d': [893, 490], 'tooth_id': '21', 'score': 0.91},
+ {'point_2d': [1031, 664], 'tooth_id': '34', 'score': 0.9},
+ {'point_2d': [564, 436], 'tooth_id': '16', 'score': 0.9},
+ {'point_2d': [947, 671], 'tooth_id': '32', 'score': 0.9},
+ {'point_2d': [991, 679], 'tooth_id': '33', 'score': 0.9},
+ {'point_2d': [1091, 649], 'tooth_id': '35', 'score': 0.89},
+ {'point_2d': [894, 667], 'tooth_id': '31', 'score': 0.89},
+ {'point_2d': [1148, 444], 'tooth_id': '26', 'score': 0.88},
+ {'point_2d': [799, 662], 'tooth_id': '42', 'score': 0.87},
+ {'point_2d': [1011, 465], 'tooth_id': '23', 'score': 0.85},
+ {'point_2d': [1063, 463], 'tooth_id': '25', 'score': 0.85},
+ {'point_2d': [642, 457], 'tooth_id': '14', 'score': 0.83},
+ {'point_2d': [852, 660], 'tooth_id': '41', 'score': 0.81},
+ {'point_2d': [642, 458], 'tooth_id': '15', 'score': 0.64}
+]
+
+Wisdom teeth detection (total: 0):
+[
+]
+
+
+Dental Pathological Findings (total: 2):
+[
+ {'box_2d': [1111, 389, 1208, 567], 'tooth_id': '26', 'label': 'caries', 'score': 0.19},
+ {'box_2d': [534, 601, 620, 658], 'tooth_id': 'unknown', 'label': 'root-stump', 'score': 0.89, 'near_tooth': '45'}
+]
+
+Historical Treatments (total: 1):
+[
+ {'box_2d': [1099, 572, 1221, 708], 'tooth_id': 'unknown', 'label': 'rc-treated', 'score': 0.93, 'near_tooth': '35'}
+]

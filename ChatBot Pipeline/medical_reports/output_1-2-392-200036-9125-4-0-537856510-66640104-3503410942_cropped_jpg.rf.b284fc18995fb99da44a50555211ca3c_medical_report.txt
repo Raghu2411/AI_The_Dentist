@@ -1,0 +1,28 @@
+**Teeth-Specific Observations**  
+**General Condition**  
+A total of 27 teeth are visualized, with no evidence of missing permanent teeth. The maxillary and mandibular wisdom teeth (#48 and #38) are unimpacted and fully erupted. The dentition appears structurally intact, with no signs of gross malalignment or fractures.  
+
+**Pathological Findings**  
+1. **Sign of caries** noted near #26 (confidence ≥ 0.86) and near #16 (confidence ≥ 0.83).  
+2. **Areas of concern** suspicious for caries identified near #27 (confidence 0.69), near #48 (confidences 0.55 and 0.38), near #47 (confidence 0.31), and near #38 (confidence 0.28).  
+
+**Historical Interventions**  
+1. Root canal-treated (rc-treated) teeth confirmed near #44 and #35.  
+2. A crown is present on #35.  
+3. An rc-treated tooth is observed near #47.  
+
+---
+
+**Clinical Summary & Recommendations**  
+**Priority Concerns**  
+- **Sign of caries** near #26 and #16 requires immediate evaluation for restorative intervention.  
+- **Suspected caries** near #27, #48, #47, and #38 necessitate closer clinical inspection to confirm diagnosis.  
+
+**Preventive Measures**  
+- Reinforce oral hygiene protocols, focusing on interproximal cleaning of caries-prone areas.  
+- Monitor suspicious caries near #27, #48, #47, and #38 for progression during routine recalls.  
+
+**Follow-up Protocol**  
+- Schedule a 6-month recall for radiographic reassessment of carious lesions.  
+- Refer for endodontic consultation to evaluate restorability of #26 and #16.  
+- Perform a comprehensive clinical examination to confirm caries status near #27, #48, #47, and #38.

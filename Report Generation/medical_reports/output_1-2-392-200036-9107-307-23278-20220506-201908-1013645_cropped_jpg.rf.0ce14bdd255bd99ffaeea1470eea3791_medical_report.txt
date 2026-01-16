@@ -1,0 +1,39 @@
+**Oral Panoramic X-Ray Examination Report**  
+
+---
+
+### **1. Teeth-Specific Observations**  
+
+#### **General Condition**  
+- A total of **25 teeth** are visualized.  
+- **Wisdom teeth status**: Tooth #18 (FDI 18) is **erupted and unimpacted**; no additional wisdom teeth are identified.  
+
+#### **Pathological Findings**  
+- **Tooth #18**: Suspicious for **caries** (low confidence).  
+- **Near tooth #37**: Clear indication of **root stump**.  
+- **Near tooth #18**: Suspected **root stump** (confidence < 0.80).  
+- **Near tooth #27**: Suspicious for **root stump** and **caries** (confidence < 0.80).  
+
+#### **Historical Interventions**  
+- No prior restorations, crowns, root canal treatments, or implants are observed.  
+
+---
+
+### **2. Clinical Summary & Recommendations**  
+
+#### **Priority Concerns**  
+1. **Deep caries on #18**: Requires urgent evaluation for potential restorative intervention.  
+2. **Root stumps near #37 and #27**: Indicates prior extraction; assess for residual fragments or infection.  
+3. **Suspected root stump near #18**: Monitor for signs of pathology or bone resorption.  
+
+#### **Preventive Measures**  
+- Reinforce **oral hygiene protocols** to mitigate caries progression in #18.  
+- Emphasize **regular radiographic monitoring** for root stumps to detect early complications (e.g., infection or resorption).  
+
+#### **Follow-up Protocol**  
+- **Referral to endodontist** for definitive diagnosis and treatment of suspected caries on #18 and root stumps near #37/#27.  
+- **6-month recall** for clinical and radiographic reassessment of root stumps.  
+- **Dental hygiene appointment** to address calculus risk (suspected in areas adjacent to root stumps).  
+
+---  
+*Generated for clinical review; definitive diagnosis requires integration with clinical findings and patient history.*

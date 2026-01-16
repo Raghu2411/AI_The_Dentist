@@ -1,0 +1,21 @@
+This localization caption provides multi-dimensional spatial analysis of anatomical structures and pathological findings for this panoramic dental X-ray image, including:
+
+Teeth visibility with center points (total: 0):
+[
+]
+
+
+Wisdom teeth detection (total: 0):
+[
+]
+
+
+Dental Pathological Findings (total: 2):
+[
+ {'box_2d': [1593, 497, 1752, 673], 'tooth_id': 'unknown', 'label': 'impacted', 'score': 0.6},
+ {'box_2d': [722, 773, 802, 846], 'tooth_id': 'unknown', 'label': 'caries', 'score': 0.48}
+]
+
+Historical Treatments (total: 0):
+[
+]

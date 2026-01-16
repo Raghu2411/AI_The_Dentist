@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Dental Report Chatbot</title>
+    <link rel="stylesheet" href="/static/style.css">
+    <script src="https://cdn.jsdelivr.net/npm/marked/marked.min.js"></script>
+</head>
+<body>
+    <div class="container">
+        <div class="header">
+            <h2>Dental Report Chatbot</h2>
+            <div class="patient-selector">
+                <label for="patient-id">Patient File ID:</label>
+                <input type="text" id="patient-id" 
+                       value="1_output_1-2-392-200036-9125-4-0-537886111-312400104-3503410942_cropped_jpg.rf.0b1d65c11935de871f34bc1ab44bae68_report">
+            </div>
+        </div>
+        <div class="chat-box" id="chat-box">
+            <div class="message bot">
+                Hello! I'm your dental report assistant. Please enter your Patient File ID above and ask me any questions about your report.
+            </div>
+        </div>
+        <div class="input-box">
+            <input type="text" id="user-input" placeholder="Ask a question about your report...">
+            <button id="send-button">Send</button>
+        </div>
+    </div>
+    <script src="/static/app.js"></script>
+</body>
+</html>

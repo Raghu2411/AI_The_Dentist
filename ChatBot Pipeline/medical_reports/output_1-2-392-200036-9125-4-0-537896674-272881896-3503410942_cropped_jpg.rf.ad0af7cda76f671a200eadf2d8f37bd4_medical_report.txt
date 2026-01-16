@@ -1,0 +1,41 @@
+**Oral Panoramic Radiographic Examination Report**  
+
+---
+
+### **Teeth-Specific Observations**  
+
+**1. General Condition**  
+A total of 25 teeth are visualized within the field of view. The fully erupted wisdom teeth (FDI #28) are present and not impacted. The panoramic field demonstrates adequate clarity for diagnostic evaluation.  
+
+**2. Pathological Findings**  
+- **Sign of impacted tooth** near FDI #37 (score ≥ 0.80).  
+- **Sign of impacted tooth** near FDI #47 (score ≥ 0.80).  
+- **Suspicious for caries** noted near FDI #37 (score < 0.80).  
+- **Areas of concern noted for caries** near FDI #37 (score < 0.80).  
+- **Areas of concern noted for root-stump** near FDI #45 (score < 0.80).  
+
+**3. Historical Interventions**  
+No prior restorative or endodontic treatments identified in the radiographic field.  
+
+---
+
+### **Clinical Summary & Recommendations**  
+
+**Priority Concerns**  
+1. **Impacted tooth near #37** requires surgical evaluation for potential extraction.  
+2. **Suspected caries at #37** warrants confirmation via supplemental imaging and caries management.  
+3. **Impacted tooth near #47** should be assessed for developmental abnormalities or space maintenance needs.  
+
+**Preventive Measures**  
+- Reinforce **oral hygiene protocols** to mitigate caries progression at #37.  
+- Monitor **areas of suspected calculus** (not explicitly localized in data) for periodontal health.  
+- Schedule **3-month review** for impacted teeth to assess positional changes.  
+
+**Follow-up Protocol**  
+- **Urgent referral to oral surgeon** for impacted #37 and #47.  
+- **Endodontic evaluation** if sensitivity or mobility develops at #37.  
+- **6-month recall** for radiographic surveillance of caries and root-stump near #45.  
+- Consider **digital subtraction radiography** for longitudinal monitoring of suspicious areas.  
+
+---  
+*End of Report*

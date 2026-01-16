@@ -1,0 +1,41 @@
+**Teeth-Specific Observations**  
+
+1. **General Condition**  
+   - A total of 28 teeth are visualized, including all permanent teeth.  
+   - Wisdom teeth (#48, #18, #28) are present and non-impacted. No signs of impaction or pathologic displacement observed.  
+
+2. **Pathological Findings**  
+   - **#13**: Suspected calculus deposition noted on the root surface.  
+   - **#11**: Areas of concern for calculus accumulation on the occlusal aspect.  
+   - **Near #27**: Suspicious for early carious lesion on the mesial surface.  
+   - **Near #48**: Suggestive of a small carious radiolucency near the distal cervical region.  
+   - **Near #17**: Areas of concern for potential caries on the proximal contact.  
+   - **Near #25**: Suggestive of a carious-like radiolucency near the mid-root area.  
+
+3. **Historical Interventions**  
+   - **#36**: Presence of a full-coverage crown.  
+   - **Near #14**: Evidence of root canal treatment.  
+   - **Near #37**: Restorative material on the distal surface.  
+   - **Near #47**: Residual restoration on the mesial aspect.  
+
+---
+
+**Clinical Summary & Recommendations**  
+
+1. **Priority Concerns**  
+   - **#13 and #11**: Suspected calculus deposits require professional scaling and improved interdental hygiene.  
+   - **Proximal caries near #27 and #48**: Monitor for progression; consider radiographic correlation.  
+   - **#37 and #47**: Evaluate restoration integrity for secondary caries or marginal breakdown.  
+
+2. **Preventive Measures**  
+   - Reinforce interdental cleaning techniques (flossing, interproximal brushes) to address calculus-prone areas (#13, #11).  
+   - Counsel on dietary modifications to reduce caries risk in suspicious regions (near #27, #48, #17, #25).  
+   - Schedule regular radiographic follow-ups to assess suspicious carious lesions.  
+
+3. **Follow-up Protocol**  
+   - **6-month recall** for periodontal evaluation and re-evaluation of questionable caries.  
+   - **Referral to endodontist** for #14 if asymptomatic but root canal-treated status shows radiographic compromise.  
+   - **Dental caries risk assessment** for prioritized teeth (near #27, #48) with targeted remineralization therapy.  
+
+---  
+Generated based on structured localization data. All findings are interpreted with clinical relevance to the provided visual and spatial information.

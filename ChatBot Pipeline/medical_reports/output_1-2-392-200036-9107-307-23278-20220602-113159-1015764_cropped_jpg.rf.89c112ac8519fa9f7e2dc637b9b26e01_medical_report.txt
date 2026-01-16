@@ -1,0 +1,30 @@
+**Teeth-Specific Observations**  
+1. **General Condition**  
+   A total of 19 teeth were visualized. Wisdom teeth #48 (upper right) and #18 (lower left) were identified. Tooth #48 is unimpacted and fully erupted. Tooth #18 is present but its status requires confirmation due to lower detection confidence (0.68).  
+
+2. **Pathological Findings**  
+   - **Root stumps**:  
+     - Clear indication of root stumps near #44 (lower right first molar) and #48 (upper right wisdom tooth).  
+     - Suspected root stumps adjacent to #21 (upper right lateral incisor), #18 (lower left wisdom tooth), and #27 (lower left first molar).  
+   - **Caries**:  
+     - Areas of concern for caries noted near #27 (lower left first molar), #34 (upper left first molar), and #37 (upper right second molar).  
+
+3. **Historical Interventions**  
+   - Root canal-treated tooth confirmed near #34 (upper left first molar).  
+
+---
+
+**Clinical Summary & Recommendations**  
+1. **Priority Concerns**  
+   - Suspected root stumps near #27 and #18 require evaluation for potential extraction or surgical removal.  
+   - Root stumps at #44 and #48 necessitate assessment for residual fragments or complications.  
+   - Areas of concern for caries on #27, #34, and #37 demand further diagnostic confirmation (e.g., intraoral radiography).  
+
+2. **Preventive Measures**  
+   - Reinforce oral hygiene instruction, emphasizing interproximal cleaning near #27 and #34.  
+   - Monitor suspicious root stumps near #21 and #48 for signs of infection or bone resorption.  
+
+3. **Follow-up Protocol**  
+   - Schedule a 6-month recall for progression monitoring and caries evaluation.  
+   - Refer to a periodontist or oral surgeon for definitive management of root stumps near #27 and #18.  
+   - Consider endodontic consultation for #34 to assess root canal treatment longevity.

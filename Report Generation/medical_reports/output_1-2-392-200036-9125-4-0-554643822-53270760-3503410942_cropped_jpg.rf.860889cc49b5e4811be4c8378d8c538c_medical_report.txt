@@ -1,0 +1,43 @@
+**ORAL PANORAMIC X-RAY EXAMINATION REPORT**  
+
+---
+
+### **Teeth-Specific Observations**  
+
+#### **General Condition**  
+A total of **23 teeth** are visualized. Wisdom tooth #18 (left lower third molar) is fully erupted and non-impacted. Remaining wisdom teeth are not directly visualized. No signs of gross anatomical displacement or supernumerary teeth.  
+
+#### **Pathological Findings**  
+1. **Signs of impaction near tooth #37** (right upper first molar), suggesting a retained or impacted tooth in the adjacent region.  
+2. **Signs of impaction near tooth #47** (left upper first molar).  
+3. **Suspicious for impaction near tooth #27** (right lower first molar), requiring radiographic correlation.  
+4. **Suspicious for caries near tooth #47** (left upper first molar), with limited radiographic opacity.  
+
+#### **Historical Interventions**  
+1. **Root canal-treated teeth**:  
+   - Adjacent to tooth #34 (right lower first molar).  
+   - Adjacent to tooth #23 (left upper lateral incisor).  
+   - Adjacent to tooth #11 (right upper lateral incisor).  
+   - Adjacent to tooth #16 (left upper first molar).  
+2. **Restoration adjacent to tooth #34** (right lower first molar).  
+
+---
+
+### **Clinical Summary & Recommendations**  
+
+#### **Priority Concerns**  
+1. **Impacted tooth near #37** and **#47** requiring radiographic evaluation for surgical planning.  
+2. **Suspected caries near #47** necessitating clinical correlation and possible caries management.  
+3. **Suspected impaction near #27** to be assessed for orthodontic or surgical intervention.  
+
+#### **Preventive Measures**  
+- Reinforce oral hygiene protocols for caries-prone regions (e.g., near #47).  
+- Monitor for calculus accumulation in interproximal areas of multi-rooted teeth (e.g., near #34, #16).  
+
+#### **Follow-up Protocol**  
+- Schedule **3–6 month recall** for radiographic reassessment of impacted regions (#37, #47, #27).  
+- Refer to **endodontist** for evaluation of root canal-treated teeth (#23, #11, #16, #34) if periapical symptoms arise.  
+- Perform **high-resolution imaging** (e.g., CBCT) for detailed assessment of impacted and suspicious carious lesions.  
+
+---  
+*This report is intended for clinical guidance and requires integration with clinical findings for definitive diagnosis.*
