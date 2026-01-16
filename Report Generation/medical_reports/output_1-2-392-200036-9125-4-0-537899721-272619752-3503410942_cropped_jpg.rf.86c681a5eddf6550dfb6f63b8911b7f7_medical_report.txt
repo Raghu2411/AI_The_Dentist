@@ -1,0 +1,37 @@
+**Teeth-Specific Observations**  
+
+1. **General Condition**  
+   A total of 12 teeth are visualized, including the maxillary right first molar (#16), mandibular left first molar (#27), and mandibular right third molar (#38). Wisdom tooth #38 is fully erupted and not impacted. Other detected teeth include premolars and molars (FDI codes: #31, #32, #33, #34, #35, #41, #42, #43, #45).  
+
+2. **Pathological Findings**  
+   - **Root stumps** are present near #27 (definitive) and suspicious findings near #16 and #38.  
+   - **Periapical radiolucency** is noted near #45 (suspicious) and #43 (suspicious), suggesting possible apical pathology.  
+   - **Caries** are suspicious near #35 and #27, requiring further clinical evaluation.  
+
+3. **Historical Interventions**  
+   - **Restorations** are present near #16 and #31.  
+   - **Root canal–treated teeth** are identified near #27 and #45.  
+   - A **crown** is located on #27.  
+   - **Implants** are observed near #16, indicating prior prosthetic rehabilitation.  
+
+---
+
+**Clinical Summary & Recommendations**  
+
+1. **Priority Concerns**  
+   - **Root stumps near #27** require evaluation for potential endodontic or surgical intervention.  
+   - **Periapical radiolucency near #45 and #43** suggests possible apical periodontitis; endodontic assessment is warranted.  
+   - **Suspected caries near #35 and #27** necessitate radiographic and clinical correlation.  
+
+2. **Preventive Measures**  
+   - Reinforce oral hygiene protocols to mitigate caries progression in #35 and #27.  
+   - Monitor suspicious periapical radiolucencies for changes in size or density.  
+   - Educate on the importance of regular interproximal cleaning around restorations and implants near #16.  
+
+3. **Follow-up Protocol**  
+   - Schedule a **6-month recall** for reassessment of caries and periapical lesions.  
+   - Refer to an **endodontist** for definitive diagnosis and treatment planning for #45 and #43.  
+   - Consider **panoramic re-imaging** in 3–6 months to monitor root stumps and periapical pathology.  
+
+---  
+*Report generated using FDI tooth numbering system.*

@@ -1,0 +1,46 @@
+This localization caption provides multi-dimensional spatial analysis of anatomical structures and pathological findings for this panoramic dental X-ray image, including:
+
+Teeth visibility with center points (total: 26):
+[
+ {'point_2d': [446, 229], 'tooth_id': '17', 'score': 0.93},
+ {'point_2d': [1013, 393], 'tooth_id': '37', 'score': 0.92},
+ {'point_2d': [568, 432], 'tooth_id': '45', 'score': 0.92},
+ {'point_2d': [506, 243], 'tooth_id': '16', 'score': 0.92},
+ {'point_2d': [655, 447], 'tooth_id': '43', 'score': 0.92},
+ {'point_2d': [613, 436], 'tooth_id': '44', 'score': 0.91},
+ {'point_2d': [898, 239], 'tooth_id': '25', 'score': 0.91},
+ {'point_2d': [809, 447], 'tooth_id': '33', 'score': 0.91},
+ {'point_2d': [893, 428], 'tooth_id': '35', 'score': 0.9},
+ {'point_2d': [599, 251], 'tooth_id': '14', 'score': 0.9},
+ {'point_2d': [846, 440], 'tooth_id': '34', 'score': 0.9},
+ {'point_2d': [559, 251], 'tooth_id': '15', 'score': 0.9},
+ {'point_2d': [1008, 217], 'tooth_id': '27', 'score': 0.9},
+ {'point_2d': [690, 442], 'tooth_id': '42', 'score': 0.89},
+ {'point_2d': [449, 393], 'tooth_id': '47', 'score': 0.88},
+ {'point_2d': [718, 437], 'tooth_id': '41', 'score': 0.86},
+ {'point_2d': [817, 238], 'tooth_id': '23', 'score': 0.86},
+ {'point_2d': [678, 262], 'tooth_id': '12', 'score': 0.85},
+ {'point_2d': [858, 238], 'tooth_id': '24', 'score': 0.85},
+ {'point_2d': [770, 440], 'tooth_id': '32', 'score': 0.85},
+ {'point_2d': [639, 249], 'tooth_id': '13', 'score': 0.84},
+ {'point_2d': [951, 218], 'tooth_id': '26', 'score': 0.83},
+ {'point_2d': [747, 260], 'tooth_id': '21', 'score': 0.8},
+ {'point_2d': [744, 438], 'tooth_id': '31', 'score': 0.77},
+ {'point_2d': [704, 256], 'tooth_id': '11', 'score': 0.76},
+ {'point_2d': [782, 251], 'tooth_id': '22', 'score': 0.73}
+]
+
+Wisdom teeth detection (total: 0):
+[
+]
+
+
+Dental Pathological Findings (total: 0):
+[
+]
+
+
+Historical Treatments (total: 1):
+[
+ {'box_2d': [422, 333, 599, 421], 'tooth_id': '47', 'label': 'restoration', 'score': 0.92}
+]

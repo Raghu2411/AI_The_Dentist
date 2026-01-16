@@ -1,0 +1,47 @@
+**Oral Panoramic Radiography Report**  
+
+---
+
+### **1. Teeth-Specific Observations**  
+
+#### **General Condition**  
+- A total of 22 teeth are visualized and identifiable.  
+- No wisdom teeth are present in the field of view (#18, #28, #38, #48 are unvisualized).  
+
+---
+
+#### **Pathological Findings**  
+- **Tooth #25**: Suspicious for root stumps with limited confidence.  
+- **Near tooth #25**: Clear indication of multiple root stumps (high confidence).  
+- **Near tooth #47**: Sign of a root stump.  
+- **Near tooth #35**: Suspicious for caries.  
+- **Near tooth #47**: Suspicious for caries.  
+- **Near tooth #15**: Suspicious for caries.  
+
+---
+
+#### **Historical Interventions**  
+- **Near tooth #15**: Presence of a crown.  
+- **Near tooth #47**: Rc-treated tooth noted.  
+- **Near tooth #44**: Rc-treated tooth noted.  
+
+---
+
+### **2. Clinical Summary & Recommendations**  
+
+#### **Priority Concerns**  
+1. **Root stumps near #25**: Requires evaluation for possible residual root fragments or infection.  
+2. **Root stumps near #25**: Urgent referral for surgical removal or further diagnostic imaging.  
+3. **Caries near #35**: Monitor for progression; consider restorative intervention if confirmed.  
+
+#### **Preventive Measures**  
+- Reinforce oral hygiene protocols to mitigate caries risk in suspect areas (#15, #35, #47).  
+- Advise dietary counseling and fluoride application to strengthen demineralized regions.  
+
+#### **Follow-up Protocol**  
+- **6-month recall** for radiographic monitoring of carious lesions (#15, #35, #47).  
+- **Referral to endodontist** for evaluation of root-treated teeth (#44, #47).  
+- **Referral to oral surgeon** for definitive management of root stumps near #25.  
+
+---  
+**End of Report**

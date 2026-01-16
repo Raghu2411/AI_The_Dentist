@@ -1,0 +1,41 @@
+This localization caption provides multi-dimensional spatial analysis of anatomical structures and pathological findings for this panoramic dental X-ray image, including:
+
+Teeth visibility with center points (total: 18):
+[
+ {'point_2d': [1034, 421], 'tooth_id': '37', 'score': 0.94},
+ {'point_2d': [597, 438], 'tooth_id': '45', 'score': 0.93},
+ {'point_2d': [509, 273], 'tooth_id': '17', 'score': 0.92},
+ {'point_2d': [899, 439], 'tooth_id': '35', 'score': 0.92},
+ {'point_2d': [642, 443], 'tooth_id': '44', 'score': 0.91},
+ {'point_2d': [994, 269], 'tooth_id': '27', 'score': 0.91},
+ {'point_2d': [826, 266], 'tooth_id': '23', 'score': 0.9},
+ {'point_2d': [821, 450], 'tooth_id': '33', 'score': 0.89},
+ {'point_2d': [681, 450], 'tooth_id': '43', 'score': 0.89},
+ {'point_2d': [670, 271], 'tooth_id': '13', 'score': 0.88},
+ {'point_2d': [856, 440], 'tooth_id': '34', 'score': 0.88},
+ {'point_2d': [716, 441], 'tooth_id': '42', 'score': 0.87},
+ {'point_2d': [730, 278], 'tooth_id': '11', 'score': 0.86},
+ {'point_2d': [741, 437], 'tooth_id': '41', 'score': 0.83},
+ {'point_2d': [787, 438], 'tooth_id': '32', 'score': 0.8},
+ {'point_2d': [787, 272], 'tooth_id': '22', 'score': 0.77},
+ {'point_2d': [764, 272], 'tooth_id': '21', 'score': 0.72},
+ {'point_2d': [766, 436], 'tooth_id': '31', 'score': 0.7}
+]
+
+Wisdom teeth detection (total: 0):
+[
+]
+
+
+Dental Pathological Findings (total: 3):
+[
+ {'box_2d': [691, 213, 716, 309], 'tooth_id': 'unknown', 'label': 'root-stump', 'score': 0.9, 'near_tooth': '11'},
+ {'box_2d': [942, 461, 967, 497], 'tooth_id': 'unknown', 'label': 'root-stump', 'score': 0.68, 'near_tooth': '35'},
+ {'box_2d': [1040, 376, 1061, 411], 'tooth_id': 'unknown', 'label': 'caries', 'score': 0.57, 'near_tooth': '37'}
+]
+
+Historical Treatments (total: 2):
+[
+ {'box_2d': [469, 277, 692, 349], 'tooth_id': 'unknown', 'label': 'restoration', 'score': 0.89, 'near_tooth': '17'},
+ {'box_2d': [801, 280, 1030, 343], 'tooth_id': 'unknown', 'label': 'restoration', 'score': 0.87, 'near_tooth': '27'}
+]

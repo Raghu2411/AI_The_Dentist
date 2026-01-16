@@ -1,0 +1,27 @@
+This localization caption provides multi-dimensional spatial analysis of anatomical structures and pathological findings for this panoramic dental X-ray image, including:
+
+Teeth visibility with center points (total: 0):
+[
+]
+
+
+Wisdom teeth detection (total: 0):
+[
+]
+
+
+Dental Pathological Findings (total: 8):
+[
+ {'box_2d': [1993, 739, 2051, 837], 'tooth_id': 'unknown', 'label': 'caries', 'score': 0.74},
+ {'box_2d': [1929, 746, 1977, 832], 'tooth_id': 'unknown', 'label': 'caries', 'score': 0.73},
+ {'box_2d': [2106, 700, 2201, 814], 'tooth_id': 'unknown', 'label': 'root-stump', 'score': 0.65},
+ {'box_2d': [1103, 773, 1168, 857], 'tooth_id': 'unknown', 'label': 'caries', 'score': 0.58},
+ {'box_2d': [788, 776, 841, 872], 'tooth_id': 'unknown', 'label': 'caries', 'score': 0.53},
+ {'box_2d': [1020, 964, 1061, 1049], 'tooth_id': 'unknown', 'label': 'caries', 'score': 0.48},
+ {'box_2d': [764, 767, 850, 895], 'tooth_id': 'unknown', 'label': 'caries', 'score': 0.43},
+ {'box_2d': [1984, 745, 2091, 842], 'tooth_id': 'unknown', 'label': 'caries', 'score': 0.35}
+]
+
+Historical Treatments (total: 0):
+[
+]

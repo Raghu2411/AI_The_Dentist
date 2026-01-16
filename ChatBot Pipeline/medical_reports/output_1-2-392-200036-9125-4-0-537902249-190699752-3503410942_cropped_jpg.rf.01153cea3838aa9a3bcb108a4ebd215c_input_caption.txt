@@ -1,0 +1,44 @@
+This localization caption provides multi-dimensional spatial analysis of anatomical structures and pathological findings for this panoramic dental X-ray image, including:
+
+Teeth visibility with center points (total: 24):
+[
+ {'point_2d': [1059, 616], 'tooth_id': '36', 'score': 0.95},
+ {'point_2d': [1146, 587], 'tooth_id': '37', 'score': 0.95},
+ {'point_2d': [490, 595], 'tooth_id': '47', 'score': 0.94},
+ {'point_2d': [995, 632], 'tooth_id': '35', 'score': 0.93},
+ {'point_2d': [640, 618], 'tooth_id': '45', 'score': 0.92},
+ {'point_2d': [519, 439], 'tooth_id': '17', 'score': 0.92},
+ {'point_2d': [901, 654], 'tooth_id': '33', 'score': 0.91},
+ {'point_2d': [605, 442], 'tooth_id': '16', 'score': 0.9},
+ {'point_2d': [663, 435], 'tooth_id': '15', 'score': 0.9},
+ {'point_2d': [732, 624], 'tooth_id': '43', 'score': 0.9},
+ {'point_2d': [948, 632], 'tooth_id': '34', 'score': 0.89},
+ {'point_2d': [686, 617], 'tooth_id': '44', 'score': 0.88},
+ {'point_2d': [1058, 435], 'tooth_id': '26', 'score': 0.88},
+ {'point_2d': [985, 448], 'tooth_id': '25', 'score': 0.87},
+ {'point_2d': [1139, 428], 'tooth_id': '27', 'score': 0.86},
+ {'point_2d': [772, 627], 'tooth_id': '42', 'score': 0.85},
+ {'point_2d': [864, 647], 'tooth_id': '32', 'score': 0.82},
+ {'point_2d': [806, 636], 'tooth_id': '41', 'score': 0.81},
+ {'point_2d': [831, 638], 'tooth_id': '31', 'score': 0.79},
+ {'point_2d': [901, 442], 'tooth_id': '22', 'score': 0.77},
+ {'point_2d': [741, 428], 'tooth_id': '13', 'score': 0.76},
+ {'point_2d': [696, 448], 'tooth_id': '14', 'score': 0.75},
+ {'point_2d': [856, 439], 'tooth_id': '21', 'score': 0.69},
+ {'point_2d': [819, 440], 'tooth_id': '11', 'score': 0.62}
+]
+
+Wisdom teeth detection (total: 0):
+[
+]
+
+
+Dental Pathological Findings (total: 1):
+[
+ {'box_2d': [317, 540, 420, 694], 'tooth_id': 'unknown', 'label': 'impacted', 'score': 0.93, 'near_tooth': '47'}
+]
+
+Historical Treatments (total: 1):
+[
+ {'box_2d': [719, 429, 840, 535], 'tooth_id': 'unknown', 'label': 'restoration', 'score': 0.59, 'near_tooth': '11'}
+]

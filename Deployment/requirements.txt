@@ -1,0 +1,32 @@
+# --- Flask Web Application & Server ---
+Flask
+flask-cors
+Flask-Session
+groq
+gunicorn
+# --- Core Utilities ---
+pillow               
+reportlab            
+matplotlib           
+opencv-python-headless
+numpy<2
+tqdm                
+firebase-admin
+# # --- PyTorch & Torchvision ---
+# torch==2.1.0
+# torchvision==0.16.0
+
+# # --- MMDetection Stack ---
+# # for PyTorch 2.1 and CUDA 12.1
+# --find-links https://download.openmmlab.com/mmcv/dist/cu121/torch2.1/index.html
+# mmcv==2.1.0
+# mmengine==0.10.3
+# mmdet==3.3.0
+# openmim
+# transformers==4.36.2
+
+# # --- Ultralytics (YOLO) ---
+# ultralytics
+
+# # --- Detectron2 ---
+# git+https://github.com/facebookresearch/detectron2.git

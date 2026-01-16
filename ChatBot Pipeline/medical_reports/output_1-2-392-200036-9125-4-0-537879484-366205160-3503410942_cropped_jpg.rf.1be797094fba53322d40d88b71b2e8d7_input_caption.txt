@@ -1,0 +1,58 @@
+This localization caption provides multi-dimensional spatial analysis of anatomical structures and pathological findings for this panoramic dental X-ray image, including:
+
+Teeth visibility with center points (total: 12):
+[
+ {'point_2d': [1060, 398], 'tooth_id': '25', 'score': 0.88},
+ {'point_2d': [636, 421], 'tooth_id': '15', 'score': 0.87},
+ {'point_2d': [872, 402], 'tooth_id': '21', 'score': 0.85},
+ {'point_2d': [843, 603], 'tooth_id': '41', 'score': 0.84},
+ {'point_2d': [870, 599], 'tooth_id': '31', 'score': 0.84},
+ {'point_2d': [684, 419], 'tooth_id': '14', 'score': 0.82},
+ {'point_2d': [678, 610], 'tooth_id': '45', 'score': 0.82},
+ {'point_2d': [1012, 398], 'tooth_id': '24', 'score': 0.78},
+ {'point_2d': [821, 400], 'tooth_id': '11', 'score': 0.77},
+ {'point_2d': [898, 608], 'tooth_id': '32', 'score': 0.77},
+ {'point_2d': [812, 613], 'tooth_id': '42', 'score': 0.72},
+ {'point_2d': [969, 593], 'tooth_id': '34', 'score': 0.66}
+]
+
+Wisdom teeth detection (total: 0):
+[
+]
+
+
+Dental Pathological Findings (total: 1):
+[
+ {'box_2d': [1144, 493, 1231, 582], 'tooth_id': 'unknown', 'label': 'root-stump', 'score': 0.91, 'near_tooth': '25'}
+]
+
+Historical Treatments (total: 27):
+[
+ {'box_2d': [651, 530, 705, 689], 'tooth_id': '45', 'label': 'rc-treated', 'score': 0.66},
+ {'box_2d': [949, 516, 989, 574], 'tooth_id': '34', 'label': 'crown', 'score': 0.93},
+ {'box_2d': [944, 306, 994, 480], 'tooth_id': 'unknown', 'label': 'rc-treated', 'score': 0.93, 'near_tooth': '24'},
+ {'box_2d': [990, 509, 1043, 671], 'tooth_id': 'unknown', 'label': 'rc-treated', 'score': 0.93, 'near_tooth': '34'},
+ {'box_2d': [568, 524, 655, 674], 'tooth_id': 'unknown', 'label': 'rc-treated', 'score': 0.93, 'near_tooth': '45'},
+ {'box_2d': [1090, 313, 1158, 464], 'tooth_id': 'unknown', 'label': 'rc-treated', 'score': 0.92, 'near_tooth': '25'},
+ {'box_2d': [748, 539, 796, 697], 'tooth_id': 'unknown', 'label': 'rc-treated', 'score': 0.92, 'near_tooth': '42'},
+ {'box_2d': [1036, 494, 1122, 554], 'tooth_id': 'unknown', 'label': 'crown', 'score': 0.92, 'near_tooth': '25'},
+ {'box_2d': [465, 450, 544, 518], 'tooth_id': 'unknown', 'label': 'crown', 'score': 0.91, 'near_tooth': '15'},
+ {'box_2d': [541, 339, 619, 510], 'tooth_id': 'unknown', 'label': 'rc-treated', 'score': 0.91, 'near_tooth': '15'},
+ {'box_2d': [1036, 493, 1147, 653], 'tooth_id': 'unknown', 'label': 'rc-treated', 'score': 0.91, 'near_tooth': '34'},
+ {'box_2d': [910, 525, 953, 693], 'tooth_id': 'unknown', 'label': 'rc-treated', 'score': 0.9, 'near_tooth': '32'},
+ {'box_2d': [989, 508, 1044, 565], 'tooth_id': 'unknown', 'label': 'crown', 'score': 0.9, 'near_tooth': '34'},
+ {'box_2d': [658, 455, 713, 501], 'tooth_id': 'unknown', 'label': 'crown', 'score': 0.89, 'near_tooth': '14'},
+ {'box_2d': [543, 443, 619, 510], 'tooth_id': 'unknown', 'label': 'crown', 'score': 0.88, 'near_tooth': '15'},
+ {'box_2d': [754, 317, 799, 496], 'tooth_id': 'unknown', 'label': 'rc-treated', 'score': 0.87, 'near_tooth': '11'},
+ {'box_2d': [895, 313, 940, 488], 'tooth_id': 'unknown', 'label': 'rc-treated', 'score': 0.87, 'near_tooth': '21'},
+ {'box_2d': [1165, 419, 1247, 468], 'tooth_id': 'unknown', 'label': 'crown', 'score': 0.86, 'near_tooth': '25'},
+ {'box_2d': [1163, 326, 1247, 468], 'tooth_id': 'unknown', 'label': 'rc-treated', 'score': 0.86, 'near_tooth': '25'},
+ {'box_2d': [911, 527, 950, 587], 'tooth_id': 'unknown', 'label': 'crown', 'score': 0.85, 'near_tooth': '34'},
+ {'box_2d': [457, 359, 545, 517], 'tooth_id': 'unknown', 'label': 'rc-treated', 'score': 0.85, 'near_tooth': '15'},
+ {'box_2d': [945, 426, 993, 479], 'tooth_id': 'unknown', 'label': 'crown', 'score': 0.85, 'near_tooth': '24'},
+ {'box_2d': [701, 310, 748, 489], 'tooth_id': 'unknown', 'label': 'rc-treated', 'score': 0.83, 'near_tooth': '14'},
+ {'box_2d': [1104, 412, 1141, 464], 'tooth_id': 'unknown', 'label': 'restoration', 'score': 0.82, 'near_tooth': '25'},
+ {'box_2d': [705, 533, 750, 683], 'tooth_id': 'unknown', 'label': 'rc-treated', 'score': 0.79, 'near_tooth': '45'},
+ {'box_2d': [572, 524, 655, 589], 'tooth_id': 'unknown', 'label': 'crown', 'score': 0.55, 'near_tooth': '45'},
+ {'box_2d': [909, 446, 938, 487], 'tooth_id': 'unknown', 'label': 'restoration', 'score': 0.5, 'near_tooth': '21'}
+]

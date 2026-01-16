@@ -1,0 +1,31 @@
+**Teeth-Specific Observations**  
+1. **General Condition**  
+   A total of 21 teeth are visualized within the panoramic field. Wisdom teeth #28 and #38 are present and **not impacted**, with clear eruption pathways. The remaining teeth demonstrate variable visibility, including #24 (tooth_id score: 0.79), which shows reduced localization confidence.  
+
+2. **Pathological Findings**  
+   - **Suspicious for caries** in the interproximal region **near tooth #28**. The low confidence (0.33) necessitates further diagnostic evaluation to confirm the presence and extent of decay.  
+   - No definitive evidence of periapical radiolucency, calculus, or other pathological entities is evident.  
+
+3. **Historical Interventions**  
+   - **Root canal-treated teeth**: Confirmed on #13, #15, #34, #37, and #44 (with overlapping radiographic markers near these teeth).  
+   - **Crown restorations**: Present on #28, #34, #37, and #44.  
+   - **Additional restorations** noted as fillings or onlays near #15.  
+
+---
+
+**Clinical Summary & Recommendations**  
+1. **Priority Concerns**  
+   - **Suspicious caries near #28** requires immediate clinical assessment to rule out interproximal decay.  
+   - **Monitoring of restorations on #15 and #44** for secondary caries or marginal breakdown.  
+
+2. **Preventive Measures**  
+   - Reinforce **oral hygiene protocols** for high-risk areas (e.g., interproximal regions of #28 and #44).  
+   - Recommend **fluoride application** to remineralize suspect caries near #28.  
+
+3. **Follow-up Protocol**  
+   - **Schedule a recall in 3–6 months** for re-evaluation of the suspicious caries near #28 using bitewing radiographs.  
+   - **Referral to endodontic specialist** for #15 and #44 to assess long-term prognosis of root canal-treated teeth.  
+   - **Annual panoramic imaging** to monitor stability of crowns and root-filled teeth.  
+
+---  
+*Report generated using FDI tooth numbering system.*

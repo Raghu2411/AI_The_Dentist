@@ -1,0 +1,113 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Dental AI Report Center</title>
+    <link rel="stylesheet" href="/static/style.css">
+    <script src="https://cdn.jsdelivr.net/npm/marked/marked.min.js"></script>
+    <script src="https://unpkg.com/@panzoom/panzoom@4.5.1/dist/panzoom.min.js"></script>
+</head>
+<body>
+    <div class="container">
+        
+        <div class="header">
+            <h2>Dental AI Report Center</h2>
+        </div>
+        <div class="analysis-section" id="analysis-section">
+            <form id="upload-form" enctype="multipart/form-data">
+                <div class="form-group">
+                    <label for="image-upload">1. Upload Panoramic X-Ray (.jpg, .png)</label>
+                    <input type="file" id="image-upload" name="image" accept="image/jpeg, image/png">
+                </div>
+                
+                <div class="form-group">
+                    <label>2. Select Models to Run (Ensemble)</label>
+                    <div class="model-checkboxes">
+                        <label><input type="checkbox" name="models" value="yolov9" checked> YOLOv9</label>
+                        <label><input type="checkbox" name="models" value="faster_rcnn" checked> Faster R-CNN</label>
+                        <label><input type="checkbox" name="models" value="retinanet"> RetinaNet</label>
+                        <label><input type="checkbox" name="models" value="detectron2"> Detectron2</label>
+                        <!-- <label><input type="checkbox" name="models" value="mmdetection" checked> MMDetection</label> -->
+                    </div>
+                </div>
+                
+                <button type="submit" id="analyze-button">Analyze Image</button>
+            </form>
+            <div id="analysis-spinner" class="spinner" style="display: none;"></div>
+            <div id="analysis-error" class="error-message" style="display: none;"></div>
+        </div>
+
+        <div class="results-section" id="results-section" style="display: none;">
+            
+            <div class="image-comparison">
+                <div class="image-container">
+                    <h3>Actual Image</h3>
+                    <img id="actual-image" src="" alt="Actual Uploaded Image">
+                </div>
+                <div class="image-container">
+                    <h3>Predicted Image</h3>
+                    <img id="predicted-image" src="" alt="Image with Predictions">
+                </div>
+            </div>
+
+            <div class="download-buttons">
+                <button id="download-caption-btn">Download Caption (.txt)</button>
+                <button id="download-pdf-btn">Download Full Report (.pdf)</button>
+                <button id="feedback-btn" class="feedback-button">Give Feedback</button>
+            </div>
+            
+            <div class="report-tabs">
+                <button class="tab-button active" data-tab="report-tab">Medical Report</button>
+                <button class="tab-button" data-tab="caption-tab">Grounding Caption</button>
+            </div>
+            
+            <div id="report-tab" class="tab-content active">
+                <div id="medical-report-content" class="report-text-box"></div>
+            </div>
+            <div id="caption-tab" class="tab-content">
+                <div id="grounding-caption-content" class="report-text-box"></div>
+            </div>
+        </div>
+
+        <div class="chat-container" id="chat-container" style="display: none;">
+            <div class="chat-box" id="chat-box">
+            </div>
+            <div class="input-box">
+                <input type="text" id="user-input" placeholder="Ask a question about your report...">
+                <button id="send-button">Send</button>
+            </div>
+        </div>
+
+    </div> 
+
+    <div id="feedback-modal" class="feedback-modal hidden">
+        <div id="feedback-overlay" class="feedback-modal-overlay"></div>
+        <div class="feedback-modal-content">
+            <form id="feedback-form">
+                <h3>Submit Feedback</h3>
+                <p>Help us improve! Let us know what you think about this analysis.</p>
+                
+                <div class="form-group">
+                    <label for="feedback-name">Your Name (Optional)</label>
+                    <input type="text" id="feedback-name" name="name" class="feedback-input">
+                </div>
+                
+                <div class="form-group">
+                    <label for="feedback-text">Your Feedback</label>
+                    <textarea id="feedback-text" name="feedback" rows="4" required class="feedback-input" placeholder="e.g., The prediction for tooth #25 was incorrect."></textarea>
+                </div>
+
+                <div id="feedback-status" class="feedback-status-message hidden"></div>
+                
+                <div class="feedback-modal-buttons">
+                    <button type="button" id="cancel-feedback-btn" class="modal-button-cancel">Cancel</button>
+                    <button type="submit" id="submit-feedback-btn" class="modal-button-submit">Submit</button>
+                </div>
+            </form>
+        </div>
+    </div>
+
+    <script src="/static/app.js"></script>
+</body>
+</html>

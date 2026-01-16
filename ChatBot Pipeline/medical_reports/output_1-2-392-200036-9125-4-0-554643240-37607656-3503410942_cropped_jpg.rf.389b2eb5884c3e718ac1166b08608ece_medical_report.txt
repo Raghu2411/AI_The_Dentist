@@ -1,0 +1,28 @@
+**Teeth-Specific Observations**  
+1. **General Condition**  
+   A total of 20 teeth are visualized. All three detected wisdom teeth (#38, #18, and #28) are fully erupted without evidence of impaction.  
+
+2. **Pathological Findings**  
+   - **#25**: Suspected caries near tooth #25, with a radiolucent lesion noted in proximity to the root.  
+   - **#36**: Areas of concern for a root stump near tooth #36, indicating possible residual root fragment.  
+
+3. **Historical Interventions**  
+   - **#36**: Presence of a crown.  
+   - **#25**: Root canal-treated (RC-treated) tooth with associated crown.  
+   - **#28**: RC-treated with crown on adjacent teeth (#28 and near-tooth #28).  
+   - **#13**: RC-treated with crown on near-tooth #13.  
+   - **#17**: RC-treated with crown on near-tooth #17.  
+
+**Clinical Summary & Recommendations**  
+1. **Priority Concerns**  
+   - **#25**: Suspicious caries near tooth #25 requires further evaluation to confirm caries depth and treatment planning.  
+   - **#36**: Root stump near tooth #36 may necessitate surgical removal or monitoring for infection risk.  
+
+2. **Preventive Measures**  
+   - Reinforce oral hygiene protocols, emphasizing interproximal cleaning for #25 and adjacent teeth.  
+   - Monitor radiolucent areas near #25 for progression.  
+
+3. **Follow-up Protocol**  
+   - Schedule a 6-month recall to reassess suspicious caries and root stump.  
+   - Referral to an endodontist is recommended for definitive diagnosis of #25 and #36, particularly to rule out apical pathology.  
+   - Consider panoramic imaging or CBCT for detailed evaluation of the root stump near #36.

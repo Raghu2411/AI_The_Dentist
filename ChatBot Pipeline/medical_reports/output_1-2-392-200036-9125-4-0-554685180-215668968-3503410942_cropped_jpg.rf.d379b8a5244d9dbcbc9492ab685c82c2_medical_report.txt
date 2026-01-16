@@ -1,0 +1,40 @@
+**Oral Panoramic X-ray Examination Report**  
+
+---
+
+### **Teeth-Specific Observations**  
+
+#### **General Condition**  
+A total of 30 teeth are visualized within the panoramic field, consistent with normal dental arch anatomy. All four wisdom teeth (#18, #28, #37, #47) are present. Wisdom teeth #18 and #28 exhibit normal eruption without impaction, while #37 and #47 show positional abnormalities requiring further evaluation.  
+
+---
+
+#### **Pathological Findings**  
+1. **Sign of impacted structure** observed near tooth #47.  
+2. **Suspicious for impacted structure** near tooth #37 (confidence < 0.80).  
+3. **Suspicious for carious lesion** near tooth #18 (confidence < 0.80).  
+
+---
+
+#### **Historical Interventions**  
+No evidence of prior dental treatments, including restorations, crowns, root canal therapy, or implants.  
+
+---
+
+### **Clinical Summary & Recommendations**  
+
+#### **Priority Concerns**  
+1. **Impacted structure near #47** requires clinical correlation to assess anatomical relationship and treatment planning.  
+2. **Suspected impacted structure near #37** and **potential carious lesion near #18** necessitate close monitoring for progression.  
+
+#### **Preventive Measures**  
+- Reinforce oral hygiene instructions, emphasizing interdental cleaning for impacted teeth (#37, #47) and caries-prone areas (#18).  
+- Monitor radiographic changes in suspicious regions during follow-up visits.  
+
+#### **Follow-up Protocol**  
+- **Referral to oral surgeon** for evaluation of impacted regions near #37 and #47.  
+- **6-month recall** for caries assessment near #18 and re-evaluation of pathological findings.  
+- **Digital imaging** (e.g., CBCT) recommended for detailed 3D analysis of #37/#47 impaction if clinical symptoms develop.  
+
+---  
+**End of Report**

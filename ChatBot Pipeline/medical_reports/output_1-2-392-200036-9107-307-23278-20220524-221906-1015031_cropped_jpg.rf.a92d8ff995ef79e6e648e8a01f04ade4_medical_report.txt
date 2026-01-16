@@ -1,0 +1,29 @@
+**Teeth-Specific Observations**  
+1. **General Condition**  
+   A total of 14 unique teeth (numbered 11, 12, 13, 15, 21, 22, 33, 34, 35, 37, 43, 44, 45, 46) are visualized with varying confidence scores (0.62–0.87). No wisdom teeth are detected.  
+
+2. **Pathological Findings**  
+   - A **root stump** is observed near tooth #37.  
+   - **Suspected periapical radiolucency** is noted near tooth #43.  
+   - **Suspected caries** is identified near tooth #46.  
+
+3. **Historical Interventions**  
+   No prior restorations, crowns, root canal treatments, or implants are evident.  
+
+---
+
+**Clinical Summary & Recommendations**  
+1. **Priority Concerns**  
+   - Root stump near tooth #37 requires evaluation for potential extraction or surgical planning.  
+   - Periapical radiolucency near #43 suggests apical pathology; endodontic assessment is warranted.  
+   - Caries suspicion near #46 necessitates confirmation with supplemental imaging or clinical examination.  
+
+2. **Preventive Measures**  
+   - Reinforce oral hygiene instructions, emphasizing interdental cleaning for regions adjacent to #37, #43, and #46.  
+   - Monitor suspicious periapical and carious lesions during routine recall visits.  
+
+3. **Follow-up Protocol**  
+   - Refer to oral surgeon for definitive management of the root stump near #37.  
+   - Schedule endodontic consultation for #43 to assess apical pathology.  
+   - Repeat imaging within 3–6 months to monitor suspicious caries near #46.  
+   - 6-month recall for comprehensive follow-up of all findings.

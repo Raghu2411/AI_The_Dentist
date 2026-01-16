@@ -1,0 +1,37 @@
+**ORAL PANORAMIC X-RAY EXAMINATION REPORT**  
+
+---
+
+### **Teeth-Specific Observations**  
+
+#### **General Condition**  
+A total of 23 teeth are visualized, with complete eruption of the posterior dentition. Wisdom teeth status: #28 is fully erupted and unimpacted; other wisdom teeth (#18, #38, #48) are not visualized in the field.  
+
+#### **Pathological Findings**  
+1. **#26**: Suspicious for caries with radiolucent demineralization noted in the mesial aspect.  
+2. **#21**: Area of concern for supragingival calculus accumulation on the lingual surface.  
+3. **Near tooth #16**: Suspicious for a root stump adjacent to the apical region, consistent with prior extraction remnants.  
+4. **Near tooth #47**: Area of concern for impacted structure (likely a residual fragment or supernumerary tooth) adjacent to the apical third of #47.  
+
+#### **Historical Interventions**  
+1. **#16**: Presence of a composite restoration with well-defined margins and no evidence of secondary caries.  
+
+---
+
+### **Clinical Summary & Recommendations**  
+
+#### **Priority Concerns**  
+1. **Deep suspicious caries on #26** requiring immediate endodontic evaluation to prevent pulpal involvement.  
+2. **Impacted structure near #47** necessitating cone-beam CT imaging to assess its relationship with adjacent anatomic structures.  
+
+#### **Preventive Measures**  
+1. Reinforce biofilm control measures for calculus-prone areas (#21).  
+2. Monitor radiopaque root stump near #16 for signs of resorption or infection.  
+
+#### **Follow-up Protocol**  
+1. Schedule endodontic referral for #26 within 2 weeks.  
+2. Order CBCT imaging for impacted fragment near #47 to guide surgical planning.  
+3. 6-month recall for radiographic and clinical monitoring of all suspicious findings.  
+
+---  
+Generated using FDI tooth numbering system. All findings based on panoramic imaging interpretation.

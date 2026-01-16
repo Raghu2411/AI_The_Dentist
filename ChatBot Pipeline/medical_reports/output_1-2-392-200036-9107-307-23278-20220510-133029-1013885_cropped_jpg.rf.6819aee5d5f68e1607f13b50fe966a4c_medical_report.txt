@@ -1,0 +1,31 @@
+**Teeth-Specific Observations**  
+**General Condition**  
+A total of 25 teeth are visualized with clear anatomical localization. All wisdom teeth (#18, #28, #38) are present and unimpacted. The dentition demonstrates normal spatial alignment, with no gross radiographic anomalies in the maxilla or mandible.  
+
+**Pathological Findings**  
+- **#18**: Clear indication of a root stump near tooth #18.  
+- **#25**: Root stump near tooth #25.  
+- **#28**: Root stump near tooth #28.  
+- **#45**: Root stump near tooth #45.  
+- **#18**: Suspicious for apical periodontitis near tooth #18 (low confidence).  
+- **#25**: Suspicious for apical periodontitis near tooth #25 (low confidence).  
+- **#18**: Additional areas of concern for root stumps in proximity, requiring further evaluation.  
+
+**Historical Interventions**  
+No prior restorations, implants, or endodontic treatments are identified.  
+
+---
+
+**Clinical Summary & Recommendations**  
+**Priority Concerns**  
+1. **Root stumps** near teeth #18, #25, #28, and #45 require clinical correlation to determine residual root fragments or extraction site healing status.  
+2. **Apical periodontitis** is suspicious near #18 and #25, necessitating pulpal vitality testing and histopathological assessment if clinically indicated.  
+
+**Preventive Measures**  
+- Reinforce oral hygiene protocols to mitigate bacterial accumulation in regions adjacent to root stumps.  
+- Monitor radiographic changes in areas of suspected periapical pathology during 6-month recall visits.  
+
+**Follow-up Protocol**  
+1. **Referral to oral surgery** for evaluation of root stumps and apical lesions to rule out infection or foreign body retention.  
+2. **6-month recall schedule** to reassess healing and stability of periapical radiolucencies.  
+3. **Dental hygiene consultation** to optimize plaque control and periodontal health.

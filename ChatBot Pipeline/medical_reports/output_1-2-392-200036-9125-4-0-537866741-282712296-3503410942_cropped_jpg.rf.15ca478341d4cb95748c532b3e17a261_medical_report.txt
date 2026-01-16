@@ -1,0 +1,33 @@
+**Teeth-Specific Observations**  
+1. **General Condition**  
+- **Visualization**: 31 teeth are clearly visualized.  
+- **Wisdom Teeth**: Tooth #18 (upper left wisdom tooth) is present and unimpacted. No other wisdom teeth are identified in the dataset.  
+
+2. **Pathological Findings**  
+- **Caries**:  
+  - Areas of concern suspicious for carious lesions are noted near tooth #26 (upper right second molar) and near tooth #15 (upper left second premolar).  
+
+3. **Historical Interventions**  
+- **Root Canal Treatments (RCT)**:  
+  - Confirmed root canal-treated status for teeth #25 (upper right first molar) and #27 (upper right second molar).  
+- **Crowns**:  
+  - Presence of crowns on teeth #25 and #27.  
+
+---
+
+**Clinical Summary & Recommendations**  
+1. **Priority Concerns**:  
+   - Suspicious carious lesions near tooth #26 and #15 require further diagnostic evaluation to confirm caries and assess treatment urgency.  
+   - Verify the integrity of the crowns on teeth #25 and #27 for signs of wear, fracture, or marginal breakdown.  
+
+2. **Preventive Measures**:  
+   - Reinforce oral hygiene protocols to mitigate caries risk in the region of teeth #26 and #15.  
+   - Monitor areas of concern for caries progression during follow-up visits.  
+
+3. **Follow-up Protocol**:  
+   - Schedule a 6-month recall to reassess carious lesions and crown status.  
+   - Refer to a restorative dentist for definitive caries management near #26 and #15.  
+   - Evaluate the root canal-treated teeth (#25, #27) for apical pathology or need for retreatment.  
+
+---  
+*Report generated using FDI numbering system. All observations are based on radiographic interpretation.*

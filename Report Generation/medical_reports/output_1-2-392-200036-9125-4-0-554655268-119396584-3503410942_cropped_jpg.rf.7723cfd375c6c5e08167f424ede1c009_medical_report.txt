@@ -1,0 +1,42 @@
+**Teeth-Specific Observations**  
+
+1. **General Condition**  
+   A total of 21 teeth were visualized within the panoramic image, with no visible wisdom teeth (no third molars detected bilaterally). The dentition includes the following teeth under the FDI numbering system: #13, #14, #15, #16, #21, #22, #23, #24, #25, #26, #31, #32, #33, #34, #35, #36, #42, #43, #44, #45. No apparent impactions or gross anatomical abnormalities were observed.  
+
+2. **Pathological Findings**  
+   - **#15**: Suggestive of a carious lesion in the occlusal region.  
+   - **#13**: Evidence of calculus deposition on the facial aspect.  
+   - **Near #26**: Suspicious for carious involvement in the mesial aspect.  
+   - **Near #16**: Areas of concern noted for potential caries on the distal surface.  
+
+3. **Historical Interventions**  
+   - **Root canal-treated (RC-treated) teeth**:  
+     - RC-treated tooth with crown restoration on **#16**.  
+     - RC-treated tooth with crown on **#26**.  
+     - RC-treated tooth with crown on **#36**.  
+     - RC-treated tooth on **#45**.  
+   - **Crown restorations**:  
+     - Crown on **#16**.  
+     - Crown on **#26**.  
+     - Crown on **#36**.  
+     - Crown on **#45**.  
+
+---
+
+**Clinical Summary & Recommendations**  
+
+1. **Priority Concerns**  
+   - Suspected carious lesions requiring evaluation: **#15**, **near #26**, and **near #16**.  
+   - Calculus accumulation on **#13** necessitating professional scaling.  
+   - No wisdom teeth present; however, monitoring of existing teeth for secondary caries near restorations (e.g., **#26**, **#16**) is advised.  
+
+2. **Preventive Measures**  
+   - Reinforce meticulous oral hygiene practices to mitigate calculus formation, particularly in the molar regions.  
+   - Advise fluoride application or sealants for caries-prone areas (e.g., **#15**).  
+   - Educate on dietary modifications to reduce cariogenic exposure.  
+
+3. **Follow-up Protocol**  
+   - **6-month recall** for radiographic re-evaluation of suspicious carious areas and calculus management.  
+   - **Referral to a prosthodontist** for assessment of crown longevity on **#26**, **#36**, and **#45**.  
+   - **Referral to an endodontist** if postoperative symptoms arise from root canal-treated teeth.  
+   - Schedule **scaling and root planing** for **#13** to address calculus deposits.

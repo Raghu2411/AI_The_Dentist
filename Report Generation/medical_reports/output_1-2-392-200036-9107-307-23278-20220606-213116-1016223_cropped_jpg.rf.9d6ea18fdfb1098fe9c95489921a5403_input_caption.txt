@@ -1,0 +1,46 @@
+This localization caption provides multi-dimensional spatial analysis of anatomical structures and pathological findings for this panoramic dental X-ray image, including:
+
+Teeth visibility with center points (total: 26):
+[
+ {'point_2d': [582, 486], 'tooth_id': '45', 'score': 0.94},
+ {'point_2d': [784, 499], 'tooth_id': '31', 'score': 0.94},
+ {'point_2d': [454, 312], 'tooth_id': '17', 'score': 0.93},
+ {'point_2d': [751, 498], 'tooth_id': '41', 'score': 0.92},
+ {'point_2d': [645, 342], 'tooth_id': '13', 'score': 0.91},
+ {'point_2d': [671, 497], 'tooth_id': '43', 'score': 0.91},
+ {'point_2d': [436, 444], 'tooth_id': '47', 'score': 0.91},
+ {'point_2d': [818, 354], 'tooth_id': '22', 'score': 0.9},
+ {'point_2d': [782, 349], 'tooth_id': '21', 'score': 0.9},
+ {'point_2d': [698, 343], 'tooth_id': '12', 'score': 0.9},
+ {'point_2d': [858, 511], 'tooth_id': '33', 'score': 0.89},
+ {'point_2d': [943, 493], 'tooth_id': '35', 'score': 0.89},
+ {'point_2d': [898, 499], 'tooth_id': '34', 'score': 0.89},
+ {'point_2d': [626, 492], 'tooth_id': '44', 'score': 0.89},
+ {'point_2d': [868, 353], 'tooth_id': '23', 'score': 0.88},
+ {'point_2d': [376, 410], 'tooth_id': '48', 'score': 0.87},
+ {'point_2d': [818, 503], 'tooth_id': '32', 'score': 0.87},
+ {'point_2d': [614, 340], 'tooth_id': '14', 'score': 0.87},
+ {'point_2d': [718, 495], 'tooth_id': '42', 'score': 0.86},
+ {'point_2d': [1128, 420], 'tooth_id': '38', 'score': 0.86},
+ {'point_2d': [566, 342], 'tooth_id': '15', 'score': 0.85},
+ {'point_2d': [1075, 456], 'tooth_id': '37', 'score': 0.85},
+ {'point_2d': [736, 343], 'tooth_id': '11', 'score': 0.83},
+ {'point_2d': [994, 343], 'tooth_id': '26', 'score': 0.82},
+ {'point_2d': [908, 357], 'tooth_id': '24', 'score': 0.82},
+ {'point_2d': [940, 351], 'tooth_id': '25', 'score': 0.8}
+]
+
+Wisdom teeth detection (total: 2):
+[
+ {'box_2d': [331, 356, 421, 464], 'tooth_id': '48', 'is_impacted': false, 'score': 0.87},
+ {'box_2d': [1078, 364, 1179, 476], 'tooth_id': '38', 'is_impacted': false, 'score': 0.86}
+]
+
+Dental Pathological Findings (total: 0):
+[
+]
+
+
+Historical Treatments (total: 0):
+[
+]

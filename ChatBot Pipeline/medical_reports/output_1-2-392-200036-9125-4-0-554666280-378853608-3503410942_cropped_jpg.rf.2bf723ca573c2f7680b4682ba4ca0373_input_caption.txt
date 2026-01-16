@@ -1,0 +1,39 @@
+This localization caption provides multi-dimensional spatial analysis of anatomical structures and pathological findings for this panoramic dental X-ray image, including:
+
+Teeth visibility with center points (total: 10):
+[
+ {'point_2d': [690, 459], 'tooth_id': '13', 'score': 0.83},
+ {'point_2d': [939, 424], 'tooth_id': '21', 'score': 0.8},
+ {'point_2d': [754, 462], 'tooth_id': '12', 'score': 0.78},
+ {'point_2d': [564, 485], 'tooth_id': '15', 'score': 0.78},
+ {'point_2d': [500, 492], 'tooth_id': '16', 'score': 0.77},
+ {'point_2d': [1073, 429], 'tooth_id': '13', 'score': 0.72},
+ {'point_2d': [597, 644], 'tooth_id': '45', 'score': 0.71},
+ {'point_2d': [1193, 460], 'tooth_id': '15', 'score': 0.71},
+ {'point_2d': [1012, 447], 'tooth_id': '22', 'score': 0.71},
+ {'point_2d': [1136, 453], 'tooth_id': '14', 'score': 0.7}
+]
+
+Wisdom teeth detection (total: 0):
+[
+]
+
+
+Dental Pathological Findings (total: 11):
+[
+ {'box_2d': [1276, 538, 1387, 683], 'tooth_id': 'unknown', 'label': 'root-stump', 'score': 0.95, 'near_tooth': '15'},
+ {'box_2d': [594, 454, 651, 515], 'tooth_id': 'unknown', 'label': 'root-stump', 'score': 0.93, 'near_tooth': '15'},
+ {'box_2d': [641, 575, 698, 669], 'tooth_id': 'unknown', 'label': 'root-stump', 'score': 0.89, 'near_tooth': '45'},
+ {'box_2d': [1105, 570, 1187, 669], 'tooth_id': 'unknown', 'label': 'root-stump', 'score': 0.84, 'near_tooth': '15'},
+ {'box_2d': [1229, 559, 1279, 675], 'tooth_id': 'unknown', 'label': 'root-stump', 'score': 0.84, 'near_tooth': '15'},
+ {'box_2d': [450, 558, 567, 691], 'tooth_id': 'unknown', 'label': 'root-stump', 'score': 0.77, 'near_tooth': '45'},
+ {'box_2d': [1186, 565, 1229, 685], 'tooth_id': 'unknown', 'label': 'root-stump', 'score': 0.73, 'near_tooth': '15'},
+ {'box_2d': [390, 590, 478, 666], 'tooth_id': 'unknown', 'label': 'root-stump', 'score': 0.7, 'near_tooth': '16'},
+ {'box_2d': [268, 622, 397, 771], 'tooth_id': 'unknown', 'label': 'impacted', 'score': 0.64, 'near_tooth': '16'},
+ {'box_2d': [370, 423, 468, 562], 'tooth_id': 'unknown', 'label': 'root-stump', 'score': 0.64, 'near_tooth': '16'},
+ {'box_2d': [1250, 652, 1284, 687], 'tooth_id': 'unknown', 'label': 'periapical radiolucency', 'score': 0.41, 'near_tooth': '15'}
+]
+
+Historical Treatments (total: 0):
+[
+]

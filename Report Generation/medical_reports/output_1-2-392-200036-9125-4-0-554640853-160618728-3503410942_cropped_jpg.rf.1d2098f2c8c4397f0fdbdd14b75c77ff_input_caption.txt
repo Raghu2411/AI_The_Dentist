@@ -1,0 +1,25 @@
+This localization caption provides multi-dimensional spatial analysis of anatomical structures and pathological findings for this panoramic dental X-ray image, including:
+
+Teeth visibility with center points (total: 0):
+[
+]
+
+
+Wisdom teeth detection (total: 0):
+[
+]
+
+
+Dental Pathological Findings (total: 0):
+[
+]
+
+
+Historical Treatments (total: 5):
+[
+ {'box_2d': [970, 668, 1009, 833], 'tooth_id': 'unknown', 'label': 'implant', 'score': 0.93},
+ {'box_2d': [717, 672, 758, 830], 'tooth_id': 'unknown', 'label': 'implant', 'score': 0.92},
+ {'box_2d': [1001, 382, 1052, 544], 'tooth_id': 'unknown', 'label': 'implant', 'score': 0.91},
+ {'box_2d': [966, 375, 1018, 483], 'tooth_id': 'unknown', 'label': 'implant', 'score': 0.8},
+ {'box_2d': [828, 360, 881, 467], 'tooth_id': 'unknown', 'label': 'implant', 'score': 0.6}
+]

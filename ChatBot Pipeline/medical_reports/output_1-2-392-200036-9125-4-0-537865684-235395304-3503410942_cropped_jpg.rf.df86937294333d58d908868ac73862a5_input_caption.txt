@@ -1,0 +1,47 @@
+This localization caption provides multi-dimensional spatial analysis of anatomical structures and pathological findings for this panoramic dental X-ray image, including:
+
+Teeth visibility with center points (total: 26):
+[
+ {'point_2d': [1084, 837], 'tooth_id': '36', 'score': 0.94},
+ {'point_2d': [1165, 816], 'tooth_id': '37', 'score': 0.93},
+ {'point_2d': [770, 671], 'tooth_id': '12', 'score': 0.93},
+ {'point_2d': [1165, 618], 'tooth_id': '27', 'score': 0.93},
+ {'point_2d': [1246, 610], 'tooth_id': '28', 'score': 0.93},
+ {'point_2d': [456, 599], 'tooth_id': '18', 'score': 0.92},
+ {'point_2d': [706, 855], 'tooth_id': '44', 'score': 0.92},
+ {'point_2d': [938, 876], 'tooth_id': '33', 'score': 0.92},
+ {'point_2d': [751, 866], 'tooth_id': '43', 'score': 0.92},
+ {'point_2d': [1015, 856], 'tooth_id': '35', 'score': 0.91},
+ {'point_2d': [980, 875], 'tooth_id': '34', 'score': 0.9},
+ {'point_2d': [624, 633], 'tooth_id': '15', 'score': 0.9},
+ {'point_2d': [655, 845], 'tooth_id': '45', 'score': 0.89},
+ {'point_2d': [913, 676], 'tooth_id': '22', 'score': 0.89},
+ {'point_2d': [815, 678], 'tooth_id': '11', 'score': 0.88},
+ {'point_2d': [859, 691], 'tooth_id': '21', 'score': 0.88},
+ {'point_2d': [851, 868], 'tooth_id': '31', 'score': 0.88},
+ {'point_2d': [797, 865], 'tooth_id': '42', 'score': 0.88},
+ {'point_2d': [824, 863], 'tooth_id': '41', 'score': 0.86},
+ {'point_2d': [885, 873], 'tooth_id': '32', 'score': 0.85},
+ {'point_2d': [677, 647], 'tooth_id': '14', 'score': 0.85},
+ {'point_2d': [1046, 639], 'tooth_id': '25', 'score': 0.85},
+ {'point_2d': [997, 652], 'tooth_id': '24', 'score': 0.85},
+ {'point_2d': [722, 642], 'tooth_id': '13', 'score': 0.83},
+ {'point_2d': [961, 653], 'tooth_id': '23', 'score': 0.82},
+ {'point_2d': [539, 626], 'tooth_id': '17', 'score': 0.76}
+]
+
+Wisdom teeth detection (total: 2):
+[
+ {'box_2d': [1202, 533, 1290, 688], 'tooth_id': '28', 'is_impacted': false, 'score': 0.93},
+ {'box_2d': [411, 523, 501, 676], 'tooth_id': '18', 'is_impacted': false, 'score': 0.92}
+]
+
+Dental Pathological Findings (total: 2):
+[
+ {'box_2d': [367, 716, 521, 844], 'tooth_id': 'unknown', 'label': 'impacted', 'score': 0.75, 'near_tooth': '17'},
+ {'box_2d': [1056, 761, 1104, 810], 'tooth_id': 'unknown', 'label': 'caries', 'score': 0.57, 'near_tooth': '36'}
+]
+
+Historical Treatments (total: 0):
+[
+]

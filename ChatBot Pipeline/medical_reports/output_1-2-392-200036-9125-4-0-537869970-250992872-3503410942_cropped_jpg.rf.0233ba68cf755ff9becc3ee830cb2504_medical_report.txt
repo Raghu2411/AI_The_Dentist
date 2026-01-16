@@ -1,0 +1,37 @@
+**Oral Panoramic Radiographic Examination Report**  
+
+---
+
+### **Teeth-Specific Observations**  
+
+#### **General Condition**  
+A total of 31 teeth are clearly visualized within the field of view. The upper left first molar (#16), lower right first molar (#36), and upper left second molar (#47) demonstrate high detection confidence (≥0.94). Wisdom teeth status:  
+- Lower right third molar (#38): Non-impacted and fully erupted.  
+- Upper left third molar (#18): Non-impacted and fully erupted.  
+- Lower right third molar (#28): Non-impacted and fully erupted.  
+
+#### **Pathological Findings**  
+- **Areas of concern near tooth #38**: Two overlapping regions of indeterminate density suggest possible impacted or erupting structures adjacent to the lower right third molar. Further clinical correlation is warranted due to low confidence (<0.80) in these findings.  
+
+#### **Historical Interventions**  
+- **Restoration on upper left first molar (#46)**: Presence of a well-maintained restoration within the mesial aspect of the tooth. No evidence of secondary caries or marginal breakdown.  
+
+---
+
+### **Clinical Summary & Recommendations**  
+
+#### **Priority Concerns**  
+- **Areas near #38**: The suspicious radiographic density adjacent to the lower right third molar requires clinical evaluation to rule out impacted structures or eruption complications.  
+- **Restoration integrity**: The restoration on #46 should be monitored for long-term stability and marginal adaptation.  
+
+#### **Preventive Measures**  
+- **Oral hygiene reinforcement**: Emphasize interdental cleaning in posterior regions to mitigate calculus accumulation.  
+- **Calcium and fluoride supplementation**: Recommended for remineralization of early carious lesions if identified clinically.  
+
+#### **Follow-up Protocol**  
+- **6-month recall**: Schedule follow-up imaging for monitoring the area near #38 and restoration status.  
+- **Referral to oral surgeon**: Consider if clinical examination confirms impaction or eruption resistance near #38.  
+- **Endodontic evaluation**: Not required unless postoperative symptoms arise for #46.  
+
+---  
+*Generated report adheres to FDI tooth numbering and clinical radiographic interpretation guidelines.*

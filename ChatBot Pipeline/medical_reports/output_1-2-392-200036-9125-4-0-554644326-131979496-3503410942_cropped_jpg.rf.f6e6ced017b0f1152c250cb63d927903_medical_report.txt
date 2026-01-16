@@ -1,0 +1,32 @@
+**Teeth-Specific Observations**  
+1. **General Condition**  
+   A total of 19 teeth are visualized, including all four quadrants. Wisdom teeth (#28 and #38) are present and unimpacted.  
+
+2. **Pathological Findings**  
+   - Areas of concern noted for **caries near tooth #17** (low confidence).  
+   - Areas of concern noted for **periapical radiolucency near tooth #34** (low confidence).  
+
+3. **Historical Interventions**  
+   - **Restoration** present on **tooth #28**.  
+   - **Root canal-treated (rc-treated)** teeth identified on **#24**, **#34**, and **#37**.  
+   - **Restoration** present on **tooth #34**.  
+   - **Crown** present on **tooth #37**.  
+
+---
+
+**Clinical Summary & Recommendations**  
+1. **Priority Concerns**  
+   - **Suspicious caries near tooth #17** requires confirmation and potential intervention.  
+   - **Periapical radiolucency near tooth #34** necessitates further evaluation to assess relation to prior treatment (restoration/rc-treated).  
+
+2. **Preventive Measures**  
+   - Reinforce oral hygiene protocols to mitigate caries risk near #17.  
+   - Monitor apical status of #34 for stability; emphasize plaque control around restoration.  
+
+3. **Follow-up Protocol**  
+   - Schedule **6-month recall** for reassessment of focal abnormalities (caries, radiolucency).  
+   - Refer to **endodontist** for diagnostic evaluation of periapical radiolucency near #34.  
+   - Consider **bitewing radiographs** to confirm caries suspicion near #17.  
+
+---  
+*Generated using FDI numbering system (e.g., #17 = left mandibular first premolar, #34 = right maxillary first molar).*

@@ -1,0 +1,40 @@
+This localization caption provides multi-dimensional spatial analysis of anatomical structures and pathological findings for this panoramic dental X-ray image, including:
+
+Teeth visibility with center points (total: 17):
+[
+ {'point_2d': [519, 353], 'tooth_id': '18', 'score': 0.92},
+ {'point_2d': [577, 351], 'tooth_id': '17', 'score': 0.9},
+ {'point_2d': [649, 354], 'tooth_id': '16', 'score': 0.89},
+ {'point_2d': [992, 355], 'tooth_id': '25', 'score': 0.88},
+ {'point_2d': [1093, 462], 'tooth_id': '37', 'score': 0.87},
+ {'point_2d': [927, 353], 'tooth_id': '23', 'score': 0.85},
+ {'point_2d': [987, 506], 'tooth_id': '35', 'score': 0.83},
+ {'point_2d': [745, 484], 'tooth_id': '44', 'score': 0.82},
+ {'point_2d': [954, 356], 'tooth_id': '24', 'score': 0.82},
+ {'point_2d': [701, 344], 'tooth_id': '15', 'score': 0.79},
+ {'point_2d': [854, 358], 'tooth_id': '21', 'score': 0.78},
+ {'point_2d': [947, 506], 'tooth_id': '34', 'score': 0.74},
+ {'point_2d': [786, 355], 'tooth_id': '12', 'score': 0.74},
+ {'point_2d': [816, 357], 'tooth_id': '11', 'score': 0.71},
+ {'point_2d': [758, 351], 'tooth_id': '13', 'score': 0.69},
+ {'point_2d': [906, 504], 'tooth_id': '33', 'score': 0.66},
+ {'point_2d': [890, 357], 'tooth_id': '22', 'score': 0.63}
+]
+
+Wisdom teeth detection (total: 1):
+[
+ {'box_2d': [491, 288, 548, 417], 'tooth_id': '18', 'is_impacted': false, 'score': 0.92}
+]
+
+Dental Pathological Findings (total: 4):
+[
+ {'box_2d': [552, 373, 576, 412], 'tooth_id': 'unknown', 'label': 'caries', 'score': 0.79, 'near_tooth': '17'},
+ {'box_2d': [1118, 504, 1160, 534], 'tooth_id': 'unknown', 'label': 'periapical radiolucency', 'score': 0.7, 'near_tooth': '37'},
+ {'box_2d': [505, 267, 534, 295], 'tooth_id': 'unknown', 'label': 'periapical radiolucency', 'score': 0.35, 'near_tooth': '18'},
+ {'box_2d': [1061, 402, 1103, 458], 'tooth_id': 'unknown', 'label': 'caries', 'score': 0.33, 'near_tooth': '37'}
+]
+
+Historical Treatments (total: 1):
+[
+ {'box_2d': [890, 430, 922, 580], 'tooth_id': '33', 'label': 'rc-treated', 'score': 0.58}
+]

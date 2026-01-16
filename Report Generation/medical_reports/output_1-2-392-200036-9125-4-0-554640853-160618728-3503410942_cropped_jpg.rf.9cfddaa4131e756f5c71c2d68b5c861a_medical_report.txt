@@ -1,0 +1,31 @@
+**Teeth-Specific Observations**  
+1. **General Condition**  
+   - No visualized teeth are identified in the panoramic image.  
+   - Wisdom teeth are not detected, with no evidence of impaction or residual roots.  
+
+2. **Pathological Findings**  
+   - A **suspicious root stump** is observed in the mandibular region, likely adjacent to implant sites.  
+   - **Areas of concern for periapical radiolucency** are noted near the left posterior implant cluster, suggesting potential inflammatory or apical pathology.  
+
+3. **Historical Interventions**  
+   - **Implants** are present in the left posterior mandible (#45, #46) and maxilla (#16), with definitive placement confirmed for high-confidence implants (scores ≥0.85).  
+   - A **suspicious root canal-treated tooth** is identified near the maxillary left quadrant, though the corresponding tooth structure is not visualized.  
+
+---
+
+**Clinical Summary & Recommendations**  
+1. **Priority Concerns**  
+   - **Unaddressed periapical radiolucencies near #45 and #46** require further evaluation to rule out infection or implant-related complications.  
+   - **Root stumps** adjacent to implants may necessitate surgical removal to prevent future complications.  
+
+2. **Preventive Measures**  
+   - Reinforce meticulous oral hygiene protocols to mitigate biofilm accumulation around implant sites.  
+   - Monitor root stumps for signs of resorption or infection during routine check-ups.  
+
+3. **Follow-up Protocol**  
+   - **Referral to a periodontist** for assessment of periapical radiolucencies and implant stability.  
+   - **Surgical consultation** for root stumps if adjacent to functional implants.  
+   - **6-month recall** with panoramic imaging to track changes in pathological areas.  
+
+---  
+*Generated using FDI tooth numbering system. All findings are based on spatial localization data without direct patient identifiers.*

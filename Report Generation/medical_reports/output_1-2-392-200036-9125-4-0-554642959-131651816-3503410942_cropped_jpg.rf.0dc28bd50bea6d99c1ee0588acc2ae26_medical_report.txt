@@ -1,0 +1,28 @@
+**Teeth-Specific Observations**  
+**General Condition**  
+A total of 29 teeth are visualized with clear anatomical landmarks. Wisdom teeth status: #18 is present and unimpacted; no other wisdom teeth are detectable.  
+
+**Pathological Findings**  
+1. **Sign of impacted structure** observed near #47 (lower right quadrant).  
+2. **Sign of impacted structure** noted near #37 (upper left quadrant).  
+3. **Suspicious for impacted structure** adjacent to #27 (upper left quadrant).  
+4. **Suggests caries** near #27 (upper left quadrant) (confidence < 0.80).  
+
+**Historical Interventions**  
+No prior dental treatments (restorations, crowns, implants, or root canal therapies) are evident in the imaging.  
+
+---
+
+**Clinical Summary & Recommendations**  
+**Priority Concerns**  
+1. Impacted structures near #47 and #37 require further evaluation for surgical planning.  
+2. Suspected caries and impacted structure near #27 necessitate confirmation via supplemental imaging.  
+
+**Preventive Measures**  
+1. Monitor suspicious areas near #27 for progression of caries or impaction.  
+2. Reinforce meticulous oral hygiene practices to mitigate caries risk in upper left quadrant.  
+
+**Follow-up Protocol**  
+1. **6-month recall** to reassess impacted regions near #47, #37, and #27.  
+2. **Referral to oral surgeon** for evaluation of impacted structures near #47 and #37.  
+3. **Dental restoration consultation** for #27 if caries confirms upon follow-up imaging.

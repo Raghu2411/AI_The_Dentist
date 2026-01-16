@@ -1,0 +1,20 @@
+**Teeth-Specific Observations**  
+
+**General Condition**  
+A total of 28 teeth are visualized within the panoramic image. Wisdom teeth status includes two detected teeth: tooth #18 (upper left first molar) and #28 (upper left third molar), both unimpacted. No immediate signs of missing posterior teeth are observed.  
+
+**Pathological Findings**  
+- A suspicious area of **calculus** is noted on tooth #23 (upper left first molar) based on radiographic density.  
+- A clear indication of an **impacted tooth** is observed near tooth #47 (lower left first molar), likely representing a horizontal impaction or resorption risk.  
+
+**Historical Interventions**  
+- A **crown** is present on tooth #16 (upper left second molar).  
+- A **crown** is detected near tooth #35 (lower right first molar), with radiographic evidence of **root canal treatment (RC-treated)** on the adjacent structure.  
+
+---
+
+**Clinical Summary & Recommendations**  
+
+**Priority Concerns**  
+1. **Impacted tooth near #47**: Requires evaluation to assess resorption risks and surgical planning.  
+2. **Suspected calculus on #23**: Indicates potential periodontal risk requiring
