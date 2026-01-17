@@ -135,7 +135,7 @@ To host to hugging face and connect with firebase. Creation of APIs for mobile a
 ### 1. 📥 Clone the Repository
 
 ```bash
-git clone https://cseegit.essex.ac.uk/24-25-ce901-sl-ce902-su/24-25_CE901-SL_CE902-SU_tun_ye_minn.git
+git clone https://github.com/Raghu2411/AI_The_Dentist.git
 ```
 
 ### 2. Install Dependencies
@@ -182,7 +182,7 @@ If you use this work or codebase in your research, please cite the dissertation:
   title = {AI The Dentist: Multimodal Dental Diagnostics: Comparative Detection Modeling and LLM-Powered Report Generation with Interactive RAG Assistance},
   school = {University of Essex},
   year = {2026},
-  type = {Master's Thesis}
+  type = {Master's Thesis},
 }
 ```
 
