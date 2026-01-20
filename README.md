@@ -10,7 +10,6 @@
   Your browser does not support the video tag.
 </video> -->
 
-## 🎥 Demo Video
 [![Demo Video](media/video_thumbnail.jpg)](media/ai_the_dentist.mp4)
 
 
