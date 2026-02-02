@@ -4,11 +4,14 @@
 *Bridging Computer Vision and Large Language Models in Dentistry*
 
 ---
-## Demo Video
+## 🎥 Demo Video
 <video width="640" height="360" controls>
   <source src="media/ai_the_dentist.mp4" type="video/mp4">
   Your browser does not support the video tag.
 </video>
+
+<!--[![Demo Video](media/video_thumbnail.jpg)](media/ai_the_dentist.mp4)  -->
+
 
 ## 📖 Overview
 <p align="center">
