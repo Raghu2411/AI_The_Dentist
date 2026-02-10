@@ -1,4 +1,6 @@
-# AI The Dentist: Multimodal Dental Diagnostics: Comparative Detection Modeling and LLM-Powered Report Generation with Interactive RAG Assistance.
+# AI The Dentist: Augmenting Diagnostic Precision in Low-Resolution Panoramic Radiography: A Multimodal AI Framework for Automated Pathology Detection and Evidence-Based Clinical Decision Support
+
+Multimodal Dental Diagnostics: Comparative Detection Modeling and LLM-Powered Report Generation with Interactive RAG Chatbot Assistance.
 
 **Dissertation Project** | **MSc in Artificial Intelligence**
 *Bridging Computer Vision and Large Language Models in Dentistry*
