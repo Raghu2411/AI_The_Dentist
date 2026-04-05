@@ -1,0 +1,2 @@
+ninja: Entering directory `/Users/muhammadbabar/.pub-cache/hosted/pub.dev/pdfrx-2.2.8/android/.cxx/RelWithDebInfo/3s2j6o18/arm64-v8a'
+[1/1] Linking CXX shared library /Users/muhammadbabar/essex-work/FYPLatest/mobile-app/essex_dental_cleaning/build/pdfrx/intermediates/cxx/RelWithDebInfo/3s2j6o18/obj/arm64-v8a/libpdfrx.so

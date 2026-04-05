@@ -1,0 +1,19 @@
+<lint-module
+    format="1"
+    dir="/Users/muhammadbabar/.pub-cache/hosted/pub.dev/pdfrx-2.2.8/android"
+    name=":pdfrx"
+    type="LIBRARY"
+    maven="jp.espresso3389.pdfrx:pdfrx:1.0-SNAPSHOT"
+    agpVersion="8.9.1"
+    buildFolder="/Users/muhammadbabar/essex-work/FYPLatest/mobile-app/essex_dental_cleaning/build/pdfrx"
+    bootClassPath="/Users/muhammadbabar/Library/Android/sdk/platforms/android-35/android.jar:/Users/muhammadbabar/Library/Android/sdk/build-tools/35.0.0/core-lambda-stubs.jar"
+    javaSourceLevel="11"
+    compileTarget="android-35"
+    neverShrinking="true">
+  <lintOptions
+      abortOnError="true"
+      absolutePaths="true"
+      checkReleaseBuilds="true"
+      explainIssues="true"/>
+  <variant name="release"/>
+</lint-module>

@@ -1,0 +1,11 @@
+framework module pdfrx {
+  umbrella header "pdfrx-umbrella.h"
+
+  export *
+  module * { export * }
+}
+
+module pdfrx.Swift {
+  header "pdfrx-Swift.h"
+  requires objc
+}

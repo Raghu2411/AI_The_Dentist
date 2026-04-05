@@ -1,0 +1,60 @@
+{
+    "logs": [
+        {
+            "outputFile": "com.ai.dental.studio.app-mergeReleaseResources-34:/values-fr/values-fr.xml",
+            "map": [
+                {
+                    "source": "/Users/muhammadbabar/.gradle/caches/8.12/transforms/6652d56b32da6184ff6e0ee77f3a9f33/transformed/jetified-play-services-basement-18.3.0/res/values-fr/values.xml",
+                    "from": {
+                        "startLines": "4",
+                        "startColumns": "0",
+                        "startOffsets": "195",
+                        "endColumns": "160",
+                        "endOffsets": "355"
+                    },
+                    "to": {
+                        "startLines": "9",
+                        "startColumns": "4",
+                        "startOffsets": "782",
+                        "endColumns": "164",
+                        "endOffsets": "942"
+                    }
+                },
+                {
+                    "source": "/Users/muhammadbabar/.gradle/caches/8.12/transforms/42020cd026c5d2ea491616526967369a/transformed/core-1.16.0/res/values-fr/values-fr.xml",
+                    "from": {
+                        "startLines": "2,3,4,5,6,7,8,9",
+                        "startColumns": "4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,153,255,354,456,560,664,782",
+                        "endColumns": "97,101,98,101,103,103,117,100",
+                        "endOffsets": "148,250,349,451,555,659,777,878"
+                    },
+                    "to": {
+                        "startLines": "2,3,4,5,6,7,8,14",
+                        "startColumns": "4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,153,255,354,456,560,664,1380",
+                        "endColumns": "97,101,98,101,103,103,117,100",
+                        "endOffsets": "148,250,349,451,555,659,777,1476"
+                    }
+                },
+                {
+                    "source": "/Users/muhammadbabar/.gradle/caches/8.12/transforms/9d125f74d15e898d35b94ad63e5018d7/transformed/browser-1.8.0/res/values-fr/values-fr.xml",
+                    "from": {
+                        "startLines": "2,3,4,5",
+                        "startColumns": "4,4,4,4",
+                        "startOffsets": "55,162,264,383",
+                        "endColumns": "106,101,118,104",
+                        "endOffsets": "157,259,378,483"
+                    },
+                    "to": {
+                        "startLines": "10,11,12,13",
+                        "startColumns": "4,4,4,4",
+                        "startOffsets": "947,1054,1156,1275",
+                        "endColumns": "106,101,118,104",
+                        "endOffsets": "1049,1151,1270,1375"
+                    }
+                }
+            ]
+        }
+    ]
+}

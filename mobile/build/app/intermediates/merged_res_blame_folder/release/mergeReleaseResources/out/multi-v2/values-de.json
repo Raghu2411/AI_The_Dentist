@@ -1,0 +1,60 @@
+{
+    "logs": [
+        {
+            "outputFile": "com.ai.dental.studio.app-mergeReleaseResources-34:/values-de/values-de.xml",
+            "map": [
+                {
+                    "source": "/Users/muhammadbabar/.gradle/caches/8.12/transforms/9d125f74d15e898d35b94ad63e5018d7/transformed/browser-1.8.0/res/values-de/values-de.xml",
+                    "from": {
+                        "startLines": "2,3,4,5",
+                        "startColumns": "4,4,4,4",
+                        "startOffsets": "55,159,260,371",
+                        "endColumns": "103,100,110,99",
+                        "endOffsets": "154,255,366,466"
+                    },
+                    "to": {
+                        "startLines": "10,11,12,13",
+                        "startColumns": "4,4,4,4",
+                        "startOffsets": "931,1035,1136,1247",
+                        "endColumns": "103,100,110,99",
+                        "endOffsets": "1030,1131,1242,1342"
+                    }
+                },
+                {
+                    "source": "/Users/muhammadbabar/.gradle/caches/8.12/transforms/42020cd026c5d2ea491616526967369a/transformed/core-1.16.0/res/values-de/values-de.xml",
+                    "from": {
+                        "startLines": "2,3,4,5,6,7,8,9",
+                        "startColumns": "4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,153,255,355,455,563,668,786",
+                        "endColumns": "97,101,99,99,107,104,117,100",
+                        "endOffsets": "148,250,350,450,558,663,781,882"
+                    },
+                    "to": {
+                        "startLines": "2,3,4,5,6,7,8,14",
+                        "startColumns": "4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,153,255,355,455,563,668,1347",
+                        "endColumns": "97,101,99,99,107,104,117,100",
+                        "endOffsets": "148,250,350,450,558,663,781,1443"
+                    }
+                },
+                {
+                    "source": "/Users/muhammadbabar/.gradle/caches/8.12/transforms/6652d56b32da6184ff6e0ee77f3a9f33/transformed/jetified-play-services-basement-18.3.0/res/values-de/values.xml",
+                    "from": {
+                        "startLines": "4",
+                        "startColumns": "0",
+                        "startOffsets": "195",
+                        "endColumns": "140",
+                        "endOffsets": "335"
+                    },
+                    "to": {
+                        "startLines": "9",
+                        "startColumns": "4",
+                        "startOffsets": "786",
+                        "endColumns": "144",
+                        "endOffsets": "926"
+                    }
+                }
+            ]
+        }
+    ]
+}

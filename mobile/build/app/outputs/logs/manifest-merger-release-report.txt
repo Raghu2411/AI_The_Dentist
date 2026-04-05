@@ -1,0 +1,605 @@
+-- Merging decision tree log ---
+application
+INJECTED from /Users/muhammadbabar/essex-work/FYPLatest/mobile-app/essex_dental_cleaning/android/app/src/main/AndroidManifest.xml:5:5-35:19
+INJECTED from /Users/muhammadbabar/essex-work/FYPLatest/mobile-app/essex_dental_cleaning/android/app/src/main/AndroidManifest.xml:5:5-35:19
+MERGED from [:share_plus] /Users/muhammadbabar/essex-work/FYPLatest/mobile-app/essex_dental_cleaning/build/share_plus/intermediates/merged_manifest/release/processReleaseManifest/AndroidManifest.xml:7:5-33:19
+MERGED from [:share_plus] /Users/muhammadbabar/essex-work/FYPLatest/mobile-app/essex_dental_cleaning/build/share_plus/intermediates/merged_manifest/release/processReleaseManifest/AndroidManifest.xml:7:5-33:19
+MERGED from [:image_picker_android] /Users/muhammadbabar/essex-work/FYPLatest/mobile-app/essex_dental_cleaning/build/image_picker_android/intermediates/merged_manifest/release/processReleaseManifest/AndroidManifest.xml:8:5-32:19
+MERGED from [:image_picker_android] /Users/muhammadbabar/essex-work/FYPLatest/mobile-app/essex_dental_cleaning/build/image_picker_android/intermediates/merged_manifest/release/processReleaseManifest/AndroidManifest.xml:8:5-32:19
+MERGED from [:firebase_crashlytics] /Users/muhammadbabar/essex-work/FYPLatest/mobile-app/essex_dental_cleaning/build/firebase_crashlytics/intermediates/merged_manifest/release/processReleaseManifest/AndroidManifest.xml:7:5-13:19
+MERGED from [:firebase_crashlytics] /Users/muhammadbabar/essex-work/FYPLatest/mobile-app/essex_dental_cleaning/build/firebase_crashlytics/intermediates/merged_manifest/release/processReleaseManifest/AndroidManifest.xml:7:5-13:19
+MERGED from [:firebase_core] /Users/muhammadbabar/essex-work/FYPLatest/mobile-app/essex_dental_cleaning/build/firebase_core/intermediates/merged_manifest/release/processReleaseManifest/AndroidManifest.xml:7:5-13:19
+MERGED from [:firebase_core] /Users/muhammadbabar/essex-work/FYPLatest/mobile-app/essex_dental_cleaning/build/firebase_core/intermediates/merged_manifest/release/processReleaseManifest/AndroidManifest.xml:7:5-13:19
+MERGED from [:url_launcher_android] /Users/muhammadbabar/essex-work/FYPLatest/mobile-app/essex_dental_cleaning/build/url_launcher_android/intermediates/merged_manifest/release/processReleaseManifest/AndroidManifest.xml:7:5-12:19
+MERGED from [:url_launcher_android] /Users/muhammadbabar/essex-work/FYPLatest/mobile-app/essex_dental_cleaning/build/url_launcher_android/intermediates/merged_manifest/release/processReleaseManifest/AndroidManifest.xml:7:5-12:19
+MERGED from [com.google.firebase:firebase-crashlytics:20.0.0] /Users/muhammadbabar/.gradle/caches/8.12/transforms/5f92548e1be4dadcda204064edeee47f/transformed/jetified-firebase-crashlytics-20.0.0/AndroidManifest.xml:11:5-22:19
+MERGED from [com.google.firebase:firebase-crashlytics:20.0.0] /Users/muhammadbabar/.gradle/caches/8.12/transforms/5f92548e1be4dadcda204064edeee47f/transformed/jetified-firebase-crashlytics-20.0.0/AndroidManifest.xml:11:5-22:19
+MERGED from [com.google.firebase:firebase-sessions:3.0.0] /Users/muhammadbabar/.gradle/caches/8.12/transforms/5e0031da7ccbe49fe06d4c31df9958b5/transformed/jetified-firebase-sessions-3.0.0/AndroidManifest.xml:21:5-29:19
+MERGED from [com.google.firebase:firebase-sessions:3.0.0] /Users/muhammadbabar/.gradle/caches/8.12/transforms/5e0031da7ccbe49fe06d4c31df9958b5/transformed/jetified-firebase-sessions-3.0.0/AndroidManifest.xml:21:5-29:19
+MERGED from [com.google.firebase:firebase-installations:19.0.0] /Users/muhammadbabar/.gradle/caches/8.12/transforms/a30e203d2176ae4ad215f5e593bcfbb1/transformed/jetified-firebase-installations-19.0.0/AndroidManifest.xml:11:5-22:19
+MERGED from [com.google.firebase:firebase-installations:19.0.0] /Users/muhammadbabar/.gradle/caches/8.12/transforms/a30e203d2176ae4ad215f5e593bcfbb1/transformed/jetified-firebase-installations-19.0.0/AndroidManifest.xml:11:5-22:19
+MERGED from [com.google.firebase:firebase-common:22.0.0] /Users/muhammadbabar/.gradle/caches/8.12/transforms/2e2b4bdc8814f8bbf51937324533b9f1/transformed/jetified-firebase-common-22.0.0/AndroidManifest.xml:22:5-39:19
+MERGED from [com.google.firebase:firebase-common:22.0.0] /Users/muhammadbabar/.gradle/caches/8.12/transforms/2e2b4bdc8814f8bbf51937324533b9f1/transformed/jetified-firebase-common-22.0.0/AndroidManifest.xml:22:5-39:19
+MERGED from [androidx.window:window:1.2.0] /Users/muhammadbabar/.gradle/caches/8.12/transforms/619bf495b387e1683a1eec1d6c7238ae/transformed/jetified-window-1.2.0/AndroidManifest.xml:22:5-29:19
+MERGED from [androidx.window:window:1.2.0] /Users/muhammadbabar/.gradle/caches/8.12/transforms/619bf495b387e1683a1eec1d6c7238ae/transformed/jetified-window-1.2.0/AndroidManifest.xml:22:5-29:19
+MERGED from [androidx.core:core:1.16.0] /Users/muhammadbabar/.gradle/caches/8.12/transforms/42020cd026c5d2ea491616526967369a/transformed/core-1.16.0/AndroidManifest.xml:28:5-89
+MERGED from [androidx.core:core:1.16.0] /Users/muhammadbabar/.gradle/caches/8.12/transforms/42020cd026c5d2ea491616526967369a/transformed/core-1.16.0/AndroidManifest.xml:28:5-89
+MERGED from [androidx.lifecycle:lifecycle-process:2.7.0] /Users/muhammadbabar/.gradle/caches/8.12/transforms/bf0e46b12ccf15fb2e9d4c488cf40064/transformed/jetified-lifecycle-process-2.7.0/AndroidManifest.xml:23:5-33:19
+MERGED from [androidx.lifecycle:lifecycle-process:2.7.0] /Users/muhammadbabar/.gradle/caches/8.12/transforms/bf0e46b12ccf15fb2e9d4c488cf40064/transformed/jetified-lifecycle-process-2.7.0/AndroidManifest.xml:23:5-33:19
+MERGED from [com.google.android.gms:play-services-tasks:18.1.0] /Users/muhammadbabar/.gradle/caches/8.12/transforms/c0f5dbc370b0f8c1c7a2c17316d05f82/transformed/jetified-play-services-tasks-18.1.0/AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-tasks:18.1.0] /Users/muhammadbabar/.gradle/caches/8.12/transforms/c0f5dbc370b0f8c1c7a2c17316d05f82/transformed/jetified-play-services-tasks-18.1.0/AndroidManifest.xml:5:5-20
+MERGED from [com.google.firebase:firebase-measurement-connector:20.0.1] /Users/muhammadbabar/.gradle/caches/8.12/transforms/ddaada8edbb8a477e972117fd1cd42af/transformed/jetified-firebase-measurement-connector-20.0.1/AndroidManifest.xml:22:5-23:19
+MERGED from [com.google.firebase:firebase-measurement-connector:20.0.1] /Users/muhammadbabar/.gradle/caches/8.12/transforms/ddaada8edbb8a477e972117fd1cd42af/transformed/jetified-firebase-measurement-connector-20.0.1/AndroidManifest.xml:22:5-23:19
+MERGED from [com.google.android.gms:play-services-basement:18.3.0] /Users/muhammadbabar/.gradle/caches/8.12/transforms/6652d56b32da6184ff6e0ee77f3a9f33/transformed/jetified-play-services-basement-18.3.0/AndroidManifest.xml:20:5-24:19
+MERGED from [com.google.android.gms:play-services-basement:18.3.0] /Users/muhammadbabar/.gradle/caches/8.12/transforms/6652d56b32da6184ff6e0ee77f3a9f33/transformed/jetified-play-services-basement-18.3.0/AndroidManifest.xml:20:5-24:19
+MERGED from [androidx.profileinstaller:profileinstaller:1.4.0] /Users/muhammadbabar/.gradle/caches/8.12/transforms/dfd941ae61223fc7164cc9d3bc3a7993/transformed/jetified-profileinstaller-1.4.0/AndroidManifest.xml:23:5-53:19
+MERGED from [androidx.profileinstaller:profileinstaller:1.4.0] /Users/muhammadbabar/.gradle/caches/8.12/transforms/dfd941ae61223fc7164cc9d3bc3a7993/transformed/jetified-profileinstaller-1.4.0/AndroidManifest.xml:23:5-53:19
+MERGED from [androidx.startup:startup-runtime:1.1.1] /Users/muhammadbabar/.gradle/caches/8.12/transforms/4ca6b61544ee65963087a46c3c02d938/transformed/jetified-startup-runtime-1.1.1/AndroidManifest.xml:25:5-31:19
+MERGED from [androidx.startup:startup-runtime:1.1.1] /Users/muhammadbabar/.gradle/caches/8.12/transforms/4ca6b61544ee65963087a46c3c02d938/transformed/jetified-startup-runtime-1.1.1/AndroidManifest.xml:25:5-31:19
+MERGED from [com.google.firebase:firebase-datatransport:19.0.0] /Users/muhammadbabar/.gradle/caches/8.12/transforms/66f71c2635b4169f5d74b19880db9110/transformed/jetified-firebase-datatransport-19.0.0/AndroidManifest.xml:21:5-29:19
+MERGED from [com.google.firebase:firebase-datatransport:19.0.0] /Users/muhammadbabar/.gradle/caches/8.12/transforms/66f71c2635b4169f5d74b19880db9110/transformed/jetified-firebase-datatransport-19.0.0/AndroidManifest.xml:21:5-29:19
+MERGED from [com.google.android.datatransport:transport-backend-cct:3.3.0] /Users/muhammadbabar/.gradle/caches/8.12/transforms/69b81c61d31559929685d2b991222041/transformed/jetified-transport-backend-cct-3.3.0/AndroidManifest.xml:25:5-33:19
+MERGED from [com.google.android.datatransport:transport-backend-cct:3.3.0] /Users/muhammadbabar/.gradle/caches/8.12/transforms/69b81c61d31559929685d2b991222041/transformed/jetified-transport-backend-cct-3.3.0/AndroidManifest.xml:25:5-33:19
+MERGED from [com.google.android.datatransport:transport-runtime:3.3.0] /Users/muhammadbabar/.gradle/caches/8.12/transforms/4cc4dd6f9015a1494098b1d856aef30b/transformed/jetified-transport-runtime-3.3.0/AndroidManifest.xml:23:5-37:19
+MERGED from [com.google.android.datatransport:transport-runtime:3.3.0] /Users/muhammadbabar/.gradle/caches/8.12/transforms/4cc4dd6f9015a1494098b1d856aef30b/transformed/jetified-transport-runtime-3.3.0/AndroidManifest.xml:23:5-37:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /Users/muhammadbabar/.gradle/caches/8.12/transforms/d86a2b0b67436262df36a7fa90121692/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /Users/muhammadbabar/.gradle/caches/8.12/transforms/d86a2b0b67436262df36a7fa90121692/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:24:5-25:19
+	android:extractNativeLibs
+		INJECTED from /Users/muhammadbabar/essex-work/FYPLatest/mobile-app/essex_dental_cleaning/android/app/src/main/AndroidManifest.xml
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.16.0] /Users/muhammadbabar/.gradle/caches/8.12/transforms/42020cd026c5d2ea491616526967369a/transformed/core-1.16.0/AndroidManifest.xml:28:18-86
+	android:label
+		ADDED from /Users/muhammadbabar/essex-work/FYPLatest/mobile-app/essex_dental_cleaning/android/app/src/main/AndroidManifest.xml:8:9-41
+	android:icon
+		ADDED from /Users/muhammadbabar/essex-work/FYPLatest/mobile-app/essex_dental_cleaning/android/app/src/main/AndroidManifest.xml:7:9-45
+	android:name
+		INJECTED from /Users/muhammadbabar/essex-work/FYPLatest/mobile-app/essex_dental_cleaning/android/app/src/main/AndroidManifest.xml
+		ADDED from /Users/muhammadbabar/essex-work/FYPLatest/mobile-app/essex_dental_cleaning/android/app/src/main/AndroidManifest.xml:6:9-42
+manifest
+ADDED from /Users/muhammadbabar/essex-work/FYPLatest/mobile-app/essex_dental_cleaning/android/app/src/main/AndroidManifest.xml:1:1-47:12
+INJECTED from /Users/muhammadbabar/essex-work/FYPLatest/mobile-app/essex_dental_cleaning/android/app/src/main/AndroidManifest.xml:1:1-47:12
+INJECTED from /Users/muhammadbabar/essex-work/FYPLatest/mobile-app/essex_dental_cleaning/android/app/src/main/AndroidManifest.xml:1:1-47:12
+INJECTED from /Users/muhammadbabar/essex-work/FYPLatest/mobile-app/essex_dental_cleaning/android/app/src/main/AndroidManifest.xml:1:1-47:12
+MERGED from [:share_plus] /Users/muhammadbabar/essex-work/FYPLatest/mobile-app/essex_dental_cleaning/build/share_plus/intermediates/merged_manifest/release/processReleaseManifest/AndroidManifest.xml:2:1-35:12
+MERGED from [:image_picker_android] /Users/muhammadbabar/essex-work/FYPLatest/mobile-app/essex_dental_cleaning/build/image_picker_android/intermediates/merged_manifest/release/processReleaseManifest/AndroidManifest.xml:2:1-34:12
+MERGED from [:connectivity_plus] /Users/muhammadbabar/essex-work/FYPLatest/mobile-app/essex_dental_cleaning/build/connectivity_plus/intermediates/merged_manifest/release/processReleaseManifest/AndroidManifest.xml:2:1-9:12
+MERGED from [:firebase_crashlytics] /Users/muhammadbabar/essex-work/FYPLatest/mobile-app/essex_dental_cleaning/build/firebase_crashlytics/intermediates/merged_manifest/release/processReleaseManifest/AndroidManifest.xml:2:1-15:12
+MERGED from [:firebase_core] /Users/muhammadbabar/essex-work/FYPLatest/mobile-app/essex_dental_cleaning/build/firebase_core/intermediates/merged_manifest/release/processReleaseManifest/AndroidManifest.xml:2:1-15:12
+MERGED from [:flutter_plugin_android_lifecycle] /Users/muhammadbabar/essex-work/FYPLatest/mobile-app/essex_dental_cleaning/build/flutter_plugin_android_lifecycle/intermediates/merged_manifest/release/processReleaseManifest/AndroidManifest.xml:2:1-7:12
+MERGED from [:fluttertoast] /Users/muhammadbabar/essex-work/FYPLatest/mobile-app/essex_dental_cleaning/build/fluttertoast/intermediates/merged_manifest/release/processReleaseManifest/AndroidManifest.xml:2:1-7:12
+MERGED from [:path_provider_android] /Users/muhammadbabar/essex-work/FYPLatest/mobile-app/essex_dental_cleaning/build/path_provider_android/intermediates/merged_manifest/release/processReleaseManifest/AndroidManifest.xml:2:1-7:12
+MERGED from [:pdfrx] /Users/muhammadbabar/essex-work/FYPLatest/mobile-app/essex_dental_cleaning/build/pdfrx/intermediates/merged_manifest/release/processReleaseManifest/AndroidManifest.xml:2:1-7:12
+MERGED from [:url_launcher_android] /Users/muhammadbabar/essex-work/FYPLatest/mobile-app/essex_dental_cleaning/build/url_launcher_android/intermediates/merged_manifest/release/processReleaseManifest/AndroidManifest.xml:2:1-14:12
+MERGED from [com.google.firebase:firebase-crashlytics:20.0.0] /Users/muhammadbabar/.gradle/caches/8.12/transforms/5f92548e1be4dadcda204064edeee47f/transformed/jetified-firebase-crashlytics-20.0.0/AndroidManifest.xml:2:1-24:12
+MERGED from [com.google.firebase:firebase-sessions:3.0.0] /Users/muhammadbabar/.gradle/caches/8.12/transforms/5e0031da7ccbe49fe06d4c31df9958b5/transformed/jetified-firebase-sessions-3.0.0/AndroidManifest.xml:15:1-31:12
+MERGED from [com.google.firebase:firebase-installations:19.0.0] /Users/muhammadbabar/.gradle/caches/8.12/transforms/a30e203d2176ae4ad215f5e593bcfbb1/transformed/jetified-firebase-installations-19.0.0/AndroidManifest.xml:2:1-24:12
+MERGED from [com.google.firebase:firebase-common:22.0.0] /Users/muhammadbabar/.gradle/caches/8.12/transforms/2e2b4bdc8814f8bbf51937324533b9f1/transformed/jetified-firebase-common-22.0.0/AndroidManifest.xml:15:1-41:12
+MERGED from [androidx.loader:loader:1.0.0] /Users/muhammadbabar/.gradle/caches/8.12/transforms/d8588a6dd1dd097b5f3f8b2ddb923a4d/transformed/loader-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core-ktx:2.7.0] /Users/muhammadbabar/.gradle/caches/8.12/transforms/a40c92858f9c3adf9de0c48e18e08a52/transformed/jetified-lifecycle-livedata-core-ktx-2.7.0/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.7.0] /Users/muhammadbabar/.gradle/caches/8.12/transforms/5527b19f8bbe006407bec3cedf8ed7d2/transformed/lifecycle-livedata-2.7.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.7.0] /Users/muhammadbabar/.gradle/caches/8.12/transforms/26fc8b89a3d6748e6f0523ab24479584/transformed/lifecycle-livedata-core-2.7.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.7.0] /Users/muhammadbabar/.gradle/caches/8.12/transforms/459756a8702475847e8feb742aa91de3/transformed/lifecycle-viewmodel-2.7.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.7.0] /Users/muhammadbabar/.gradle/caches/8.12/transforms/4c8e2356a5bb8fe20ee4eb3c17ee22a3/transformed/jetified-lifecycle-viewmodel-savedstate-2.7.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.core:core-ktx:1.16.0] /Users/muhammadbabar/.gradle/caches/8.12/transforms/ff287986c0d0d7f6d9a357340fabf2bb/transformed/jetified-core-ktx-1.16.0/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.browser:browser:1.8.0] /Users/muhammadbabar/.gradle/caches/8.12/transforms/9d125f74d15e898d35b94ad63e5018d7/transformed/browser-1.8.0/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.window:window:1.2.0] /Users/muhammadbabar/.gradle/caches/8.12/transforms/619bf495b387e1683a1eec1d6c7238ae/transformed/jetified-window-1.2.0/AndroidManifest.xml:17:1-31:12
+MERGED from [androidx.window:window-java:1.2.0] /Users/muhammadbabar/.gradle/caches/8.12/transforms/f50e0f7a19aa63a79dd512db09138e31/transformed/jetified-window-java-1.2.0/AndroidManifest.xml:17:1-21:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/muhammadbabar/.gradle/caches/8.12/transforms/1efbf43b9fe623f1ec219f148a250d0c/transformed/viewpager-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.customview:customview:1.0.0] /Users/muhammadbabar/.gradle/caches/8.12/transforms/cfc63fff4c6c6883b860dc542d3bec1a/transformed/customview-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.core:core:1.16.0] /Users/muhammadbabar/.gradle/caches/8.12/transforms/42020cd026c5d2ea491616526967369a/transformed/core-1.16.0/AndroidManifest.xml:17:1-30:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.7.0] /Users/muhammadbabar/.gradle/caches/8.12/transforms/b52f26b0e2f0e6ed1b422d06efe8b91a/transformed/lifecycle-runtime-2.7.0/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.lifecycle:lifecycle-process:2.7.0] /Users/muhammadbabar/.gradle/caches/8.12/transforms/bf0e46b12ccf15fb2e9d4c488cf40064/transformed/jetified-lifecycle-process-2.7.0/AndroidManifest.xml:17:1-35:12
+MERGED from [androidx.savedstate:savedstate:1.2.1] /Users/muhammadbabar/.gradle/caches/8.12/transforms/d09a000a4345df83e40c9198b36f3709/transformed/jetified-savedstate-1.2.1/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.datastore:datastore-core-android:1.1.3] /Users/muhammadbabar/.gradle/caches/8.12/transforms/effbf8a65afaa38a9e61c7628b45e490/transformed/jetified-datastore-core-release/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.datastore:datastore-android:1.1.3] /Users/muhammadbabar/.gradle/caches/8.12/transforms/25bfefab81c27a4e510b7aabf50bcf44/transformed/jetified-datastore-release/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.datastore:datastore-preferences-android:1.1.3] /Users/muhammadbabar/.gradle/caches/8.12/transforms/f180cd6f3917bc681c7d5577c8786031/transformed/jetified-datastore-preferences-release/AndroidManifest.xml:17:1-22:12
+MERGED from [com.google.firebase:firebase-installations-interop:17.2.0] /Users/muhammadbabar/.gradle/caches/8.12/transforms/b8902bd1d36a1e6f40145f5550ffd85b/transformed/jetified-firebase-installations-interop-17.2.0/AndroidManifest.xml:15:1-19:12
+MERGED from [com.google.android.gms:play-services-tasks:18.1.0] /Users/muhammadbabar/.gradle/caches/8.12/transforms/c0f5dbc370b0f8c1c7a2c17316d05f82/transformed/jetified-play-services-tasks-18.1.0/AndroidManifest.xml:2:1-6:12
+MERGED from [com.google.firebase:firebase-measurement-connector:20.0.1] /Users/muhammadbabar/.gradle/caches/8.12/transforms/ddaada8edbb8a477e972117fd1cd42af/transformed/jetified-firebase-measurement-connector-20.0.1/AndroidManifest.xml:17:1-25:12
+MERGED from [com.google.android.gms:play-services-basement:18.3.0] /Users/muhammadbabar/.gradle/caches/8.12/transforms/6652d56b32da6184ff6e0ee77f3a9f33/transformed/jetified-play-services-basement-18.3.0/AndroidManifest.xml:16:1-26:12
+MERGED from [androidx.fragment:fragment:1.7.1] /Users/muhammadbabar/.gradle/caches/8.12/transforms/a0077499f67b27a2a23cc58703cbe981/transformed/fragment-1.7.1/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.activity:activity:1.10.1] /Users/muhammadbabar/.gradle/caches/8.12/transforms/56b2526650931c04b8392205ae526a9c/transformed/jetified-activity-1.10.1/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.exifinterface:exifinterface:1.4.1] /Users/muhammadbabar/.gradle/caches/8.12/transforms/c164f7e3478c36e8a593faa059c86a4c/transformed/exifinterface-1.4.1/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.profileinstaller:profileinstaller:1.4.0] /Users/muhammadbabar/.gradle/caches/8.12/transforms/dfd941ae61223fc7164cc9d3bc3a7993/transformed/jetified-profileinstaller-1.4.0/AndroidManifest.xml:17:1-55:12
+MERGED from [androidx.startup:startup-runtime:1.1.1] /Users/muhammadbabar/.gradle/caches/8.12/transforms/4ca6b61544ee65963087a46c3c02d938/transformed/jetified-startup-runtime-1.1.1/AndroidManifest.xml:17:1-33:12
+MERGED from [androidx.tracing:tracing:1.2.0] /Users/muhammadbabar/.gradle/caches/8.12/transforms/ca051df27112f242214f15e213985c65/transformed/jetified-tracing-1.2.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/muhammadbabar/.gradle/caches/8.12/transforms/5120eaf2839903fdb2a4b40ac8a2d918/transformed/interpolator-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.arch.core:core-runtime:2.2.0] /Users/muhammadbabar/.gradle/caches/8.12/transforms/317116b844bb3db95c8ce05a3afa885a/transformed/core-runtime-2.2.0/AndroidManifest.xml:17:1-22:12
+MERGED from [com.google.firebase:firebase-components:19.0.0] /Users/muhammadbabar/.gradle/caches/8.12/transforms/af9a7dd5660c6ac4602bdd29a714c113/transformed/jetified-firebase-components-19.0.0/AndroidManifest.xml:15:1-20:12
+MERGED from [com.google.firebase:firebase-config-interop:16.0.1] /Users/muhammadbabar/.gradle/caches/8.12/transforms/b3ff30314a712301f7ff1dfb2c3325e8/transformed/jetified-firebase-config-interop-16.0.1/AndroidManifest.xml:15:1-20:12
+MERGED from [com.google.firebase:firebase-datatransport:19.0.0] /Users/muhammadbabar/.gradle/caches/8.12/transforms/66f71c2635b4169f5d74b19880db9110/transformed/jetified-firebase-datatransport-19.0.0/AndroidManifest.xml:15:1-31:12
+MERGED from [com.google.android.datatransport:transport-backend-cct:3.3.0] /Users/muhammadbabar/.gradle/caches/8.12/transforms/69b81c61d31559929685d2b991222041/transformed/jetified-transport-backend-cct-3.3.0/AndroidManifest.xml:15:1-35:12
+MERGED from [com.google.firebase:firebase-encoders-json:18.0.1] /Users/muhammadbabar/.gradle/caches/8.12/transforms/f0f64724921934e782b420f27ad51fd0/transformed/jetified-firebase-encoders-json-18.0.1/AndroidManifest.xml:15:1-22:12
+MERGED from [com.google.android.datatransport:transport-runtime:3.3.0] /Users/muhammadbabar/.gradle/caches/8.12/transforms/4cc4dd6f9015a1494098b1d856aef30b/transformed/jetified-transport-runtime-3.3.0/AndroidManifest.xml:15:1-39:12
+MERGED from [com.google.android.datatransport:transport-api:3.2.0] /Users/muhammadbabar/.gradle/caches/8.12/transforms/29cadd56fe623135172fbde5d92c00b8/transformed/jetified-transport-api-3.2.0/AndroidManifest.xml:15:1-20:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /Users/muhammadbabar/.gradle/caches/8.12/transforms/d86a2b0b67436262df36a7fa90121692/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:17:1-27:12
+MERGED from [androidx.window.extensions.core:core:1.0.0] /Users/muhammadbabar/.gradle/caches/8.12/transforms/09a0ad5d61cc29b9220a9ba60db1a1c9/transformed/jetified-core-1.0.0/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.core:core-viewtree:1.0.0] /Users/muhammadbabar/.gradle/caches/8.12/transforms/dc1c8c6b4c4d1020b66f6b47c3f8235d/transformed/jetified-core-viewtree-1.0.0/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.annotation:annotation-experimental:1.4.1] /Users/muhammadbabar/.gradle/caches/8.12/transforms/b09e5e4d50b04b2c657c671e7abd515c/transformed/jetified-annotation-experimental-1.4.1/AndroidManifest.xml:2:1-7:12
+MERGED from [com.getkeepsafe.relinker:relinker:1.4.5] /Users/muhammadbabar/.gradle/caches/8.12/transforms/8b8aa25905c672f7359d3cd53e686f44/transformed/jetified-relinker-1.4.5/AndroidManifest.xml:2:1-7:12
+	package
+		INJECTED from /Users/muhammadbabar/essex-work/FYPLatest/mobile-app/essex_dental_cleaning/android/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /Users/muhammadbabar/essex-work/FYPLatest/mobile-app/essex_dental_cleaning/android/app/src/main/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /Users/muhammadbabar/essex-work/FYPLatest/mobile-app/essex_dental_cleaning/android/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/muhammadbabar/essex-work/FYPLatest/mobile-app/essex_dental_cleaning/android/app/src/main/AndroidManifest.xml:1:11-69
+uses-permission#android.permission.INTERNET
+ADDED from /Users/muhammadbabar/essex-work/FYPLatest/mobile-app/essex_dental_cleaning/android/app/src/main/AndroidManifest.xml:3:5-67
+MERGED from [com.google.firebase:firebase-crashlytics:20.0.0] /Users/muhammadbabar/.gradle/caches/8.12/transforms/5f92548e1be4dadcda204064edeee47f/transformed/jetified-firebase-crashlytics-20.0.0/AndroidManifest.xml:7:5-67
+MERGED from [com.google.firebase:firebase-crashlytics:20.0.0] /Users/muhammadbabar/.gradle/caches/8.12/transforms/5f92548e1be4dadcda204064edeee47f/transformed/jetified-firebase-crashlytics-20.0.0/AndroidManifest.xml:7:5-67
+MERGED from [com.google.firebase:firebase-installations:19.0.0] /Users/muhammadbabar/.gradle/caches/8.12/transforms/a30e203d2176ae4ad215f5e593bcfbb1/transformed/jetified-firebase-installations-19.0.0/AndroidManifest.xml:8:5-67
+MERGED from [com.google.firebase:firebase-installations:19.0.0] /Users/muhammadbabar/.gradle/caches/8.12/transforms/a30e203d2176ae4ad215f5e593bcfbb1/transformed/jetified-firebase-installations-19.0.0/AndroidManifest.xml:8:5-67
+MERGED from [com.google.android.datatransport:transport-backend-cct:3.3.0] /Users/muhammadbabar/.gradle/caches/8.12/transforms/69b81c61d31559929685d2b991222041/transformed/jetified-transport-backend-cct-3.3.0/AndroidManifest.xml:23:5-67
+MERGED from [com.google.android.datatransport:transport-backend-cct:3.3.0] /Users/muhammadbabar/.gradle/caches/8.12/transforms/69b81c61d31559929685d2b991222041/transformed/jetified-transport-backend-cct-3.3.0/AndroidManifest.xml:23:5-67
+	android:name
+		ADDED from /Users/muhammadbabar/essex-work/FYPLatest/mobile-app/essex_dental_cleaning/android/app/src/main/AndroidManifest.xml:3:22-64
+queries
+ADDED from /Users/muhammadbabar/essex-work/FYPLatest/mobile-app/essex_dental_cleaning/android/app/src/main/AndroidManifest.xml:41:5-46:15
+intent#action:name:android.intent.action.PROCESS_TEXT+data:mimeType:text/plain
+ADDED from /Users/muhammadbabar/essex-work/FYPLatest/mobile-app/essex_dental_cleaning/android/app/src/main/AndroidManifest.xml:42:9-45:18
+action#android.intent.action.PROCESS_TEXT
+ADDED from /Users/muhammadbabar/essex-work/FYPLatest/mobile-app/essex_dental_cleaning/android/app/src/main/AndroidManifest.xml:43:13-73
+	android:name
+		ADDED from /Users/muhammadbabar/essex-work/FYPLatest/mobile-app/essex_dental_cleaning/android/app/src/main/AndroidManifest.xml:43:21-70
+data
+ADDED from /Users/muhammadbabar/essex-work/FYPLatest/mobile-app/essex_dental_cleaning/android/app/src/main/AndroidManifest.xml:44:13-51
+	android:mimeType
+		ADDED from /Users/muhammadbabar/essex-work/FYPLatest/mobile-app/essex_dental_cleaning/android/app/src/main/AndroidManifest.xml:44:19-48
+activity#com.ai.dental.studio.MainActivity
+ADDED from /Users/muhammadbabar/essex-work/FYPLatest/mobile-app/essex_dental_cleaning/android/app/src/main/AndroidManifest.xml:9:9-29:20
+	android:launchMode
+		ADDED from /Users/muhammadbabar/essex-work/FYPLatest/mobile-app/essex_dental_cleaning/android/app/src/main/AndroidManifest.xml:14:13-43
+	android:hardwareAccelerated
+		ADDED from /Users/muhammadbabar/essex-work/FYPLatest/mobile-app/essex_dental_cleaning/android/app/src/main/AndroidManifest.xml:13:13-47
+	android:windowSoftInputMode
+		ADDED from /Users/muhammadbabar/essex-work/FYPLatest/mobile-app/essex_dental_cleaning/android/app/src/main/AndroidManifest.xml:17:13-55
+	android:exported
+		ADDED from /Users/muhammadbabar/essex-work/FYPLatest/mobile-app/essex_dental_cleaning/android/app/src/main/AndroidManifest.xml:12:13-36
+	android:configChanges
+		ADDED from /Users/muhammadbabar/essex-work/FYPLatest/mobile-app/essex_dental_cleaning/android/app/src/main/AndroidManifest.xml:11:13-163
+	android:theme
+		ADDED from /Users/muhammadbabar/essex-work/FYPLatest/mobile-app/essex_dental_cleaning/android/app/src/main/AndroidManifest.xml:16:13-47
+	android:taskAffinity
+		ADDED from /Users/muhammadbabar/essex-work/FYPLatest/mobile-app/essex_dental_cleaning/android/app/src/main/AndroidManifest.xml:15:13-36
+	android:name
+		ADDED from /Users/muhammadbabar/essex-work/FYPLatest/mobile-app/essex_dental_cleaning/android/app/src/main/AndroidManifest.xml:10:13-41
+meta-data#io.flutter.embedding.android.NormalTheme
+ADDED from /Users/muhammadbabar/essex-work/FYPLatest/mobile-app/essex_dental_cleaning/android/app/src/main/AndroidManifest.xml:22:13-24:57
+	android:resource
+		ADDED from /Users/muhammadbabar/essex-work/FYPLatest/mobile-app/essex_dental_cleaning/android/app/src/main/AndroidManifest.xml:24:17-54
+	android:name
+		ADDED from /Users/muhammadbabar/essex-work/FYPLatest/mobile-app/essex_dental_cleaning/android/app/src/main/AndroidManifest.xml:23:17-72
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /Users/muhammadbabar/essex-work/FYPLatest/mobile-app/essex_dental_cleaning/android/app/src/main/AndroidManifest.xml:25:13-28:29
+action#android.intent.action.MAIN
+ADDED from /Users/muhammadbabar/essex-work/FYPLatest/mobile-app/essex_dental_cleaning/android/app/src/main/AndroidManifest.xml:26:17-69
+	android:name
+		ADDED from /Users/muhammadbabar/essex-work/FYPLatest/mobile-app/essex_dental_cleaning/android/app/src/main/AndroidManifest.xml:26:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /Users/muhammadbabar/essex-work/FYPLatest/mobile-app/essex_dental_cleaning/android/app/src/main/AndroidManifest.xml:27:17-77
+	android:name
+		ADDED from /Users/muhammadbabar/essex-work/FYPLatest/mobile-app/essex_dental_cleaning/android/app/src/main/AndroidManifest.xml:27:27-74
+meta-data#flutterEmbedding
+ADDED from /Users/muhammadbabar/essex-work/FYPLatest/mobile-app/essex_dental_cleaning/android/app/src/main/AndroidManifest.xml:32:9-34:33
+	android:value
+		ADDED from /Users/muhammadbabar/essex-work/FYPLatest/mobile-app/essex_dental_cleaning/android/app/src/main/AndroidManifest.xml:34:13-30
+	android:name
+		ADDED from /Users/muhammadbabar/essex-work/FYPLatest/mobile-app/essex_dental_cleaning/android/app/src/main/AndroidManifest.xml:33:13-44
+uses-sdk
+INJECTED from /Users/muhammadbabar/essex-work/FYPLatest/mobile-app/essex_dental_cleaning/android/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/muhammadbabar/essex-work/FYPLatest/mobile-app/essex_dental_cleaning/android/app/src/main/AndroidManifest.xml
+INJECTED from /Users/muhammadbabar/essex-work/FYPLatest/mobile-app/essex_dental_cleaning/android/app/src/main/AndroidManifest.xml
+MERGED from [:share_plus] /Users/muhammadbabar/essex-work/FYPLatest/mobile-app/essex_dental_cleaning/build/share_plus/intermediates/merged_manifest/release/processReleaseManifest/AndroidManifest.xml:5:5-44
+MERGED from [:share_plus] /Users/muhammadbabar/essex-work/FYPLatest/mobile-app/essex_dental_cleaning/build/share_plus/intermediates/merged_manifest/release/processReleaseManifest/AndroidManifest.xml:5:5-44
+MERGED from [:image_picker_android] /Users/muhammadbabar/essex-work/FYPLatest/mobile-app/essex_dental_cleaning/build/image_picker_android/intermediates/merged_manifest/release/processReleaseManifest/AndroidManifest.xml:6:5-44
+MERGED from [:image_picker_android] /Users/muhammadbabar/essex-work/FYPLatest/mobile-app/essex_dental_cleaning/build/image_picker_android/intermediates/merged_manifest/release/processReleaseManifest/AndroidManifest.xml:6:5-44
+MERGED from [:connectivity_plus] /Users/muhammadbabar/essex-work/FYPLatest/mobile-app/essex_dental_cleaning/build/connectivity_plus/intermediates/merged_manifest/release/processReleaseManifest/AndroidManifest.xml:5:5-44
+MERGED from [:connectivity_plus] /Users/muhammadbabar/essex-work/FYPLatest/mobile-app/essex_dental_cleaning/build/connectivity_plus/intermediates/merged_manifest/release/processReleaseManifest/AndroidManifest.xml:5:5-44
+MERGED from [:firebase_crashlytics] /Users/muhammadbabar/essex-work/FYPLatest/mobile-app/essex_dental_cleaning/build/firebase_crashlytics/intermediates/merged_manifest/release/processReleaseManifest/AndroidManifest.xml:5:5-44
+MERGED from [:firebase_crashlytics] /Users/muhammadbabar/essex-work/FYPLatest/mobile-app/essex_dental_cleaning/build/firebase_crashlytics/intermediates/merged_manifest/release/processReleaseManifest/AndroidManifest.xml:5:5-44
+MERGED from [:firebase_core] /Users/muhammadbabar/essex-work/FYPLatest/mobile-app/essex_dental_cleaning/build/firebase_core/intermediates/merged_manifest/release/processReleaseManifest/AndroidManifest.xml:5:5-44
+MERGED from [:firebase_core] /Users/muhammadbabar/essex-work/FYPLatest/mobile-app/essex_dental_cleaning/build/firebase_core/intermediates/merged_manifest/release/processReleaseManifest/AndroidManifest.xml:5:5-44
+MERGED from [:flutter_plugin_android_lifecycle] /Users/muhammadbabar/essex-work/FYPLatest/mobile-app/essex_dental_cleaning/build/flutter_plugin_android_lifecycle/intermediates/merged_manifest/release/processReleaseManifest/AndroidManifest.xml:5:5-44
+MERGED from [:flutter_plugin_android_lifecycle] /Users/muhammadbabar/essex-work/FYPLatest/mobile-app/essex_dental_cleaning/build/flutter_plugin_android_lifecycle/intermediates/merged_manifest/release/processReleaseManifest/AndroidManifest.xml:5:5-44
+MERGED from [:fluttertoast] /Users/muhammadbabar/essex-work/FYPLatest/mobile-app/essex_dental_cleaning/build/fluttertoast/intermediates/merged_manifest/release/processReleaseManifest/AndroidManifest.xml:5:5-44
+MERGED from [:fluttertoast] /Users/muhammadbabar/essex-work/FYPLatest/mobile-app/essex_dental_cleaning/build/fluttertoast/intermediates/merged_manifest/release/processReleaseManifest/AndroidManifest.xml:5:5-44
+MERGED from [:path_provider_android] /Users/muhammadbabar/essex-work/FYPLatest/mobile-app/essex_dental_cleaning/build/path_provider_android/intermediates/merged_manifest/release/processReleaseManifest/AndroidManifest.xml:5:5-44
+MERGED from [:path_provider_android] /Users/muhammadbabar/essex-work/FYPLatest/mobile-app/essex_dental_cleaning/build/path_provider_android/intermediates/merged_manifest/release/processReleaseManifest/AndroidManifest.xml:5:5-44
+MERGED from [:pdfrx] /Users/muhammadbabar/essex-work/FYPLatest/mobile-app/essex_dental_cleaning/build/pdfrx/intermediates/merged_manifest/release/processReleaseManifest/AndroidManifest.xml:5:5-44
+MERGED from [:pdfrx] /Users/muhammadbabar/essex-work/FYPLatest/mobile-app/essex_dental_cleaning/build/pdfrx/intermediates/merged_manifest/release/processReleaseManifest/AndroidManifest.xml:5:5-44
+MERGED from [:url_launcher_android] /Users/muhammadbabar/essex-work/FYPLatest/mobile-app/essex_dental_cleaning/build/url_launcher_android/intermediates/merged_manifest/release/processReleaseManifest/AndroidManifest.xml:5:5-44
+MERGED from [:url_launcher_android] /Users/muhammadbabar/essex-work/FYPLatest/mobile-app/essex_dental_cleaning/build/url_launcher_android/intermediates/merged_manifest/release/processReleaseManifest/AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-crashlytics:20.0.0] /Users/muhammadbabar/.gradle/caches/8.12/transforms/5f92548e1be4dadcda204064edeee47f/transformed/jetified-firebase-crashlytics-20.0.0/AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-crashlytics:20.0.0] /Users/muhammadbabar/.gradle/caches/8.12/transforms/5f92548e1be4dadcda204064edeee47f/transformed/jetified-firebase-crashlytics-20.0.0/AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-sessions:3.0.0] /Users/muhammadbabar/.gradle/caches/8.12/transforms/5e0031da7ccbe49fe06d4c31df9958b5/transformed/jetified-firebase-sessions-3.0.0/AndroidManifest.xml:18:5-44
+MERGED from [com.google.firebase:firebase-sessions:3.0.0] /Users/muhammadbabar/.gradle/caches/8.12/transforms/5e0031da7ccbe49fe06d4c31df9958b5/transformed/jetified-firebase-sessions-3.0.0/AndroidManifest.xml:18:5-44
+MERGED from [com.google.firebase:firebase-installations:19.0.0] /Users/muhammadbabar/.gradle/caches/8.12/transforms/a30e203d2176ae4ad215f5e593bcfbb1/transformed/jetified-firebase-installations-19.0.0/AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-installations:19.0.0] /Users/muhammadbabar/.gradle/caches/8.12/transforms/a30e203d2176ae4ad215f5e593bcfbb1/transformed/jetified-firebase-installations-19.0.0/AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-common:22.0.0] /Users/muhammadbabar/.gradle/caches/8.12/transforms/2e2b4bdc8814f8bbf51937324533b9f1/transformed/jetified-firebase-common-22.0.0/AndroidManifest.xml:19:5-44
+MERGED from [com.google.firebase:firebase-common:22.0.0] /Users/muhammadbabar/.gradle/caches/8.12/transforms/2e2b4bdc8814f8bbf51937324533b9f1/transformed/jetified-firebase-common-22.0.0/AndroidManifest.xml:19:5-44
+MERGED from [androidx.loader:loader:1.0.0] /Users/muhammadbabar/.gradle/caches/8.12/transforms/d8588a6dd1dd097b5f3f8b2ddb923a4d/transformed/loader-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /Users/muhammadbabar/.gradle/caches/8.12/transforms/d8588a6dd1dd097b5f3f8b2ddb923a4d/transformed/loader-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core-ktx:2.7.0] /Users/muhammadbabar/.gradle/caches/8.12/transforms/a40c92858f9c3adf9de0c48e18e08a52/transformed/jetified-lifecycle-livedata-core-ktx-2.7.0/AndroidManifest.xml:5:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core-ktx:2.7.0] /Users/muhammadbabar/.gradle/caches/8.12/transforms/a40c92858f9c3adf9de0c48e18e08a52/transformed/jetified-lifecycle-livedata-core-ktx-2.7.0/AndroidManifest.xml:5:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.7.0] /Users/muhammadbabar/.gradle/caches/8.12/transforms/5527b19f8bbe006407bec3cedf8ed7d2/transformed/lifecycle-livedata-2.7.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.7.0] /Users/muhammadbabar/.gradle/caches/8.12/transforms/5527b19f8bbe006407bec3cedf8ed7d2/transformed/lifecycle-livedata-2.7.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.7.0] /Users/muhammadbabar/.gradle/caches/8.12/transforms/26fc8b89a3d6748e6f0523ab24479584/transformed/lifecycle-livedata-core-2.7.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.7.0] /Users/muhammadbabar/.gradle/caches/8.12/transforms/26fc8b89a3d6748e6f0523ab24479584/transformed/lifecycle-livedata-core-2.7.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.7.0] /Users/muhammadbabar/.gradle/caches/8.12/transforms/459756a8702475847e8feb742aa91de3/transformed/lifecycle-viewmodel-2.7.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.7.0] /Users/muhammadbabar/.gradle/caches/8.12/transforms/459756a8702475847e8feb742aa91de3/transformed/lifecycle-viewmodel-2.7.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.7.0] /Users/muhammadbabar/.gradle/caches/8.12/transforms/4c8e2356a5bb8fe20ee4eb3c17ee22a3/transformed/jetified-lifecycle-viewmodel-savedstate-2.7.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.7.0] /Users/muhammadbabar/.gradle/caches/8.12/transforms/4c8e2356a5bb8fe20ee4eb3c17ee22a3/transformed/jetified-lifecycle-viewmodel-savedstate-2.7.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core-ktx:1.16.0] /Users/muhammadbabar/.gradle/caches/8.12/transforms/ff287986c0d0d7f6d9a357340fabf2bb/transformed/jetified-core-ktx-1.16.0/AndroidManifest.xml:5:5-44
+MERGED from [androidx.core:core-ktx:1.16.0] /Users/muhammadbabar/.gradle/caches/8.12/transforms/ff287986c0d0d7f6d9a357340fabf2bb/transformed/jetified-core-ktx-1.16.0/AndroidManifest.xml:5:5-44
+MERGED from [androidx.browser:browser:1.8.0] /Users/muhammadbabar/.gradle/caches/8.12/transforms/9d125f74d15e898d35b94ad63e5018d7/transformed/browser-1.8.0/AndroidManifest.xml:5:5-44
+MERGED from [androidx.browser:browser:1.8.0] /Users/muhammadbabar/.gradle/caches/8.12/transforms/9d125f74d15e898d35b94ad63e5018d7/transformed/browser-1.8.0/AndroidManifest.xml:5:5-44
+MERGED from [androidx.window:window:1.2.0] /Users/muhammadbabar/.gradle/caches/8.12/transforms/619bf495b387e1683a1eec1d6c7238ae/transformed/jetified-window-1.2.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.window:window:1.2.0] /Users/muhammadbabar/.gradle/caches/8.12/transforms/619bf495b387e1683a1eec1d6c7238ae/transformed/jetified-window-1.2.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.window:window-java:1.2.0] /Users/muhammadbabar/.gradle/caches/8.12/transforms/f50e0f7a19aa63a79dd512db09138e31/transformed/jetified-window-java-1.2.0/AndroidManifest.xml:19:5-44
+MERGED from [androidx.window:window-java:1.2.0] /Users/muhammadbabar/.gradle/caches/8.12/transforms/f50e0f7a19aa63a79dd512db09138e31/transformed/jetified-window-java-1.2.0/AndroidManifest.xml:19:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/muhammadbabar/.gradle/caches/8.12/transforms/1efbf43b9fe623f1ec219f148a250d0c/transformed/viewpager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/muhammadbabar/.gradle/caches/8.12/transforms/1efbf43b9fe623f1ec219f148a250d0c/transformed/viewpager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] /Users/muhammadbabar/.gradle/caches/8.12/transforms/cfc63fff4c6c6883b860dc542d3bec1a/transformed/customview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] /Users/muhammadbabar/.gradle/caches/8.12/transforms/cfc63fff4c6c6883b860dc542d3bec1a/transformed/customview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.16.0] /Users/muhammadbabar/.gradle/caches/8.12/transforms/42020cd026c5d2ea491616526967369a/transformed/core-1.16.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.16.0] /Users/muhammadbabar/.gradle/caches/8.12/transforms/42020cd026c5d2ea491616526967369a/transformed/core-1.16.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.7.0] /Users/muhammadbabar/.gradle/caches/8.12/transforms/b52f26b0e2f0e6ed1b422d06efe8b91a/transformed/lifecycle-runtime-2.7.0/AndroidManifest.xml:5:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.7.0] /Users/muhammadbabar/.gradle/caches/8.12/transforms/b52f26b0e2f0e6ed1b422d06efe8b91a/transformed/lifecycle-runtime-2.7.0/AndroidManifest.xml:5:5-44
+MERGED from [androidx.lifecycle:lifecycle-process:2.7.0] /Users/muhammadbabar/.gradle/caches/8.12/transforms/bf0e46b12ccf15fb2e9d4c488cf40064/transformed/jetified-lifecycle-process-2.7.0/AndroidManifest.xml:21:5-44
+MERGED from [androidx.lifecycle:lifecycle-process:2.7.0] /Users/muhammadbabar/.gradle/caches/8.12/transforms/bf0e46b12ccf15fb2e9d4c488cf40064/transformed/jetified-lifecycle-process-2.7.0/AndroidManifest.xml:21:5-44
+MERGED from [androidx.savedstate:savedstate:1.2.1] /Users/muhammadbabar/.gradle/caches/8.12/transforms/d09a000a4345df83e40c9198b36f3709/transformed/jetified-savedstate-1.2.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.savedstate:savedstate:1.2.1] /Users/muhammadbabar/.gradle/caches/8.12/transforms/d09a000a4345df83e40c9198b36f3709/transformed/jetified-savedstate-1.2.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.datastore:datastore-core-android:1.1.3] /Users/muhammadbabar/.gradle/caches/8.12/transforms/effbf8a65afaa38a9e61c7628b45e490/transformed/jetified-datastore-core-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.datastore:datastore-core-android:1.1.3] /Users/muhammadbabar/.gradle/caches/8.12/transforms/effbf8a65afaa38a9e61c7628b45e490/transformed/jetified-datastore-core-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.datastore:datastore-android:1.1.3] /Users/muhammadbabar/.gradle/caches/8.12/transforms/25bfefab81c27a4e510b7aabf50bcf44/transformed/jetified-datastore-release/AndroidManifest.xml:20:5-44
+MERGED from [androidx.datastore:datastore-android:1.1.3] /Users/muhammadbabar/.gradle/caches/8.12/transforms/25bfefab81c27a4e510b7aabf50bcf44/transformed/jetified-datastore-release/AndroidManifest.xml:20:5-44
+MERGED from [androidx.datastore:datastore-preferences-android:1.1.3] /Users/muhammadbabar/.gradle/caches/8.12/transforms/f180cd6f3917bc681c7d5577c8786031/transformed/jetified-datastore-preferences-release/AndroidManifest.xml:20:5-44
+MERGED from [androidx.datastore:datastore-preferences-android:1.1.3] /Users/muhammadbabar/.gradle/caches/8.12/transforms/f180cd6f3917bc681c7d5577c8786031/transformed/jetified-datastore-preferences-release/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-installations-interop:17.2.0] /Users/muhammadbabar/.gradle/caches/8.12/transforms/b8902bd1d36a1e6f40145f5550ffd85b/transformed/jetified-firebase-installations-interop-17.2.0/AndroidManifest.xml:17:5-44
+MERGED from [com.google.firebase:firebase-installations-interop:17.2.0] /Users/muhammadbabar/.gradle/caches/8.12/transforms/b8902bd1d36a1e6f40145f5550ffd85b/transformed/jetified-firebase-installations-interop-17.2.0/AndroidManifest.xml:17:5-44
+MERGED from [com.google.android.gms:play-services-tasks:18.1.0] /Users/muhammadbabar/.gradle/caches/8.12/transforms/c0f5dbc370b0f8c1c7a2c17316d05f82/transformed/jetified-play-services-tasks-18.1.0/AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-tasks:18.1.0] /Users/muhammadbabar/.gradle/caches/8.12/transforms/c0f5dbc370b0f8c1c7a2c17316d05f82/transformed/jetified-play-services-tasks-18.1.0/AndroidManifest.xml:4:5-43
+MERGED from [com.google.firebase:firebase-measurement-connector:20.0.1] /Users/muhammadbabar/.gradle/caches/8.12/transforms/ddaada8edbb8a477e972117fd1cd42af/transformed/jetified-firebase-measurement-connector-20.0.1/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-measurement-connector:20.0.1] /Users/muhammadbabar/.gradle/caches/8.12/transforms/ddaada8edbb8a477e972117fd1cd42af/transformed/jetified-firebase-measurement-connector-20.0.1/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-basement:18.3.0] /Users/muhammadbabar/.gradle/caches/8.12/transforms/6652d56b32da6184ff6e0ee77f3a9f33/transformed/jetified-play-services-basement-18.3.0/AndroidManifest.xml:18:5-43
+MERGED from [com.google.android.gms:play-services-basement:18.3.0] /Users/muhammadbabar/.gradle/caches/8.12/transforms/6652d56b32da6184ff6e0ee77f3a9f33/transformed/jetified-play-services-basement-18.3.0/AndroidManifest.xml:18:5-43
+MERGED from [androidx.fragment:fragment:1.7.1] /Users/muhammadbabar/.gradle/caches/8.12/transforms/a0077499f67b27a2a23cc58703cbe981/transformed/fragment-1.7.1/AndroidManifest.xml:5:5-44
+MERGED from [androidx.fragment:fragment:1.7.1] /Users/muhammadbabar/.gradle/caches/8.12/transforms/a0077499f67b27a2a23cc58703cbe981/transformed/fragment-1.7.1/AndroidManifest.xml:5:5-44
+MERGED from [androidx.activity:activity:1.10.1] /Users/muhammadbabar/.gradle/caches/8.12/transforms/56b2526650931c04b8392205ae526a9c/transformed/jetified-activity-1.10.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.activity:activity:1.10.1] /Users/muhammadbabar/.gradle/caches/8.12/transforms/56b2526650931c04b8392205ae526a9c/transformed/jetified-activity-1.10.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.exifinterface:exifinterface:1.4.1] /Users/muhammadbabar/.gradle/caches/8.12/transforms/c164f7e3478c36e8a593faa059c86a4c/transformed/exifinterface-1.4.1/AndroidManifest.xml:5:5-44
+MERGED from [androidx.exifinterface:exifinterface:1.4.1] /Users/muhammadbabar/.gradle/caches/8.12/transforms/c164f7e3478c36e8a593faa059c86a4c/transformed/exifinterface-1.4.1/AndroidManifest.xml:5:5-44
+MERGED from [androidx.profileinstaller:profileinstaller:1.4.0] /Users/muhammadbabar/.gradle/caches/8.12/transforms/dfd941ae61223fc7164cc9d3bc3a7993/transformed/jetified-profileinstaller-1.4.0/AndroidManifest.xml:21:5-44
+MERGED from [androidx.profileinstaller:profileinstaller:1.4.0] /Users/muhammadbabar/.gradle/caches/8.12/transforms/dfd941ae61223fc7164cc9d3bc3a7993/transformed/jetified-profileinstaller-1.4.0/AndroidManifest.xml:21:5-44
+MERGED from [androidx.startup:startup-runtime:1.1.1] /Users/muhammadbabar/.gradle/caches/8.12/transforms/4ca6b61544ee65963087a46c3c02d938/transformed/jetified-startup-runtime-1.1.1/AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.startup:startup-runtime:1.1.1] /Users/muhammadbabar/.gradle/caches/8.12/transforms/4ca6b61544ee65963087a46c3c02d938/transformed/jetified-startup-runtime-1.1.1/AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.tracing:tracing:1.2.0] /Users/muhammadbabar/.gradle/caches/8.12/transforms/ca051df27112f242214f15e213985c65/transformed/jetified-tracing-1.2.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.tracing:tracing:1.2.0] /Users/muhammadbabar/.gradle/caches/8.12/transforms/ca051df27112f242214f15e213985c65/transformed/jetified-tracing-1.2.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/muhammadbabar/.gradle/caches/8.12/transforms/5120eaf2839903fdb2a4b40ac8a2d918/transformed/interpolator-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/muhammadbabar/.gradle/caches/8.12/transforms/5120eaf2839903fdb2a4b40ac8a2d918/transformed/interpolator-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.2.0] /Users/muhammadbabar/.gradle/caches/8.12/transforms/317116b844bb3db95c8ce05a3afa885a/transformed/core-runtime-2.2.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.2.0] /Users/muhammadbabar/.gradle/caches/8.12/transforms/317116b844bb3db95c8ce05a3afa885a/transformed/core-runtime-2.2.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-components:19.0.0] /Users/muhammadbabar/.gradle/caches/8.12/transforms/af9a7dd5660c6ac4602bdd29a714c113/transformed/jetified-firebase-components-19.0.0/AndroidManifest.xml:18:5-44
+MERGED from [com.google.firebase:firebase-components:19.0.0] /Users/muhammadbabar/.gradle/caches/8.12/transforms/af9a7dd5660c6ac4602bdd29a714c113/transformed/jetified-firebase-components-19.0.0/AndroidManifest.xml:18:5-44
+MERGED from [com.google.firebase:firebase-config-interop:16.0.1] /Users/muhammadbabar/.gradle/caches/8.12/transforms/b3ff30314a712301f7ff1dfb2c3325e8/transformed/jetified-firebase-config-interop-16.0.1/AndroidManifest.xml:18:5-44
+MERGED from [com.google.firebase:firebase-config-interop:16.0.1] /Users/muhammadbabar/.gradle/caches/8.12/transforms/b3ff30314a712301f7ff1dfb2c3325e8/transformed/jetified-firebase-config-interop-16.0.1/AndroidManifest.xml:18:5-44
+MERGED from [com.google.firebase:firebase-datatransport:19.0.0] /Users/muhammadbabar/.gradle/caches/8.12/transforms/66f71c2635b4169f5d74b19880db9110/transformed/jetified-firebase-datatransport-19.0.0/AndroidManifest.xml:18:5-44
+MERGED from [com.google.firebase:firebase-datatransport:19.0.0] /Users/muhammadbabar/.gradle/caches/8.12/transforms/66f71c2635b4169f5d74b19880db9110/transformed/jetified-firebase-datatransport-19.0.0/AndroidManifest.xml:18:5-44
+MERGED from [com.google.android.datatransport:transport-backend-cct:3.3.0] /Users/muhammadbabar/.gradle/caches/8.12/transforms/69b81c61d31559929685d2b991222041/transformed/jetified-transport-backend-cct-3.3.0/AndroidManifest.xml:18:5-44
+MERGED from [com.google.android.datatransport:transport-backend-cct:3.3.0] /Users/muhammadbabar/.gradle/caches/8.12/transforms/69b81c61d31559929685d2b991222041/transformed/jetified-transport-backend-cct-3.3.0/AndroidManifest.xml:18:5-44
+MERGED from [com.google.firebase:firebase-encoders-json:18.0.1] /Users/muhammadbabar/.gradle/caches/8.12/transforms/f0f64724921934e782b420f27ad51fd0/transformed/jetified-firebase-encoders-json-18.0.1/AndroidManifest.xml:18:5-20:41
+MERGED from [com.google.firebase:firebase-encoders-json:18.0.1] /Users/muhammadbabar/.gradle/caches/8.12/transforms/f0f64724921934e782b420f27ad51fd0/transformed/jetified-firebase-encoders-json-18.0.1/AndroidManifest.xml:18:5-20:41
+MERGED from [com.google.android.datatransport:transport-runtime:3.3.0] /Users/muhammadbabar/.gradle/caches/8.12/transforms/4cc4dd6f9015a1494098b1d856aef30b/transformed/jetified-transport-runtime-3.3.0/AndroidManifest.xml:18:5-44
+MERGED from [com.google.android.datatransport:transport-runtime:3.3.0] /Users/muhammadbabar/.gradle/caches/8.12/transforms/4cc4dd6f9015a1494098b1d856aef30b/transformed/jetified-transport-runtime-3.3.0/AndroidManifest.xml:18:5-44
+MERGED from [com.google.android.datatransport:transport-api:3.2.0] /Users/muhammadbabar/.gradle/caches/8.12/transforms/29cadd56fe623135172fbde5d92c00b8/transformed/jetified-transport-api-3.2.0/AndroidManifest.xml:18:5-44
+MERGED from [com.google.android.datatransport:transport-api:3.2.0] /Users/muhammadbabar/.gradle/caches/8.12/transforms/29cadd56fe623135172fbde5d92c00b8/transformed/jetified-transport-api-3.2.0/AndroidManifest.xml:18:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /Users/muhammadbabar/.gradle/caches/8.12/transforms/d86a2b0b67436262df36a7fa90121692/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /Users/muhammadbabar/.gradle/caches/8.12/transforms/d86a2b0b67436262df36a7fa90121692/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.window.extensions.core:core:1.0.0] /Users/muhammadbabar/.gradle/caches/8.12/transforms/09a0ad5d61cc29b9220a9ba60db1a1c9/transformed/jetified-core-1.0.0/AndroidManifest.xml:5:5-44
+MERGED from [androidx.window.extensions.core:core:1.0.0] /Users/muhammadbabar/.gradle/caches/8.12/transforms/09a0ad5d61cc29b9220a9ba60db1a1c9/transformed/jetified-core-1.0.0/AndroidManifest.xml:5:5-44
+MERGED from [androidx.core:core-viewtree:1.0.0] /Users/muhammadbabar/.gradle/caches/8.12/transforms/dc1c8c6b4c4d1020b66f6b47c3f8235d/transformed/jetified-core-viewtree-1.0.0/AndroidManifest.xml:5:5-44
+MERGED from [androidx.core:core-viewtree:1.0.0] /Users/muhammadbabar/.gradle/caches/8.12/transforms/dc1c8c6b4c4d1020b66f6b47c3f8235d/transformed/jetified-core-viewtree-1.0.0/AndroidManifest.xml:5:5-44
+MERGED from [androidx.annotation:annotation-experimental:1.4.1] /Users/muhammadbabar/.gradle/caches/8.12/transforms/b09e5e4d50b04b2c657c671e7abd515c/transformed/jetified-annotation-experimental-1.4.1/AndroidManifest.xml:5:5-44
+MERGED from [androidx.annotation:annotation-experimental:1.4.1] /Users/muhammadbabar/.gradle/caches/8.12/transforms/b09e5e4d50b04b2c657c671e7abd515c/transformed/jetified-annotation-experimental-1.4.1/AndroidManifest.xml:5:5-44
+MERGED from [com.getkeepsafe.relinker:relinker:1.4.5] /Users/muhammadbabar/.gradle/caches/8.12/transforms/8b8aa25905c672f7359d3cd53e686f44/transformed/jetified-relinker-1.4.5/AndroidManifest.xml:5:5-43
+MERGED from [com.getkeepsafe.relinker:relinker:1.4.5] /Users/muhammadbabar/.gradle/caches/8.12/transforms/8b8aa25905c672f7359d3cd53e686f44/transformed/jetified-relinker-1.4.5/AndroidManifest.xml:5:5-43
+	android:targetSdkVersion
+		INJECTED from /Users/muhammadbabar/essex-work/FYPLatest/mobile-app/essex_dental_cleaning/android/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/muhammadbabar/essex-work/FYPLatest/mobile-app/essex_dental_cleaning/android/app/src/main/AndroidManifest.xml
+provider#dev.fluttercommunity.plus.share.ShareFileProvider
+ADDED from [:share_plus] /Users/muhammadbabar/essex-work/FYPLatest/mobile-app/essex_dental_cleaning/build/share_plus/intermediates/merged_manifest/release/processReleaseManifest/AndroidManifest.xml:13:9-21:20
+	android:grantUriPermissions
+		ADDED from [:share_plus] /Users/muhammadbabar/essex-work/FYPLatest/mobile-app/essex_dental_cleaning/build/share_plus/intermediates/merged_manifest/release/processReleaseManifest/AndroidManifest.xml:17:13-47
+	android:authorities
+		ADDED from [:share_plus] /Users/muhammadbabar/essex-work/FYPLatest/mobile-app/essex_dental_cleaning/build/share_plus/intermediates/merged_manifest/release/processReleaseManifest/AndroidManifest.xml:15:13-74
+	android:exported
+		ADDED from [:share_plus] /Users/muhammadbabar/essex-work/FYPLatest/mobile-app/essex_dental_cleaning/build/share_plus/intermediates/merged_manifest/release/processReleaseManifest/AndroidManifest.xml:16:13-37
+	android:name
+		ADDED from [:share_plus] /Users/muhammadbabar/essex-work/FYPLatest/mobile-app/essex_dental_cleaning/build/share_plus/intermediates/merged_manifest/release/processReleaseManifest/AndroidManifest.xml:14:13-77
+meta-data#android.support.FILE_PROVIDER_PATHS
+ADDED from [:share_plus] /Users/muhammadbabar/essex-work/FYPLatest/mobile-app/essex_dental_cleaning/build/share_plus/intermediates/merged_manifest/release/processReleaseManifest/AndroidManifest.xml:18:13-20:68
+	android:resource
+		ADDED from [:share_plus] /Users/muhammadbabar/essex-work/FYPLatest/mobile-app/essex_dental_cleaning/build/share_plus/intermediates/merged_manifest/release/processReleaseManifest/AndroidManifest.xml:20:17-65
+	android:name
+		ADDED from [:share_plus] /Users/muhammadbabar/essex-work/FYPLatest/mobile-app/essex_dental_cleaning/build/share_plus/intermediates/merged_manifest/release/processReleaseManifest/AndroidManifest.xml:19:17-67
+receiver#dev.fluttercommunity.plus.share.SharePlusPendingIntent
+ADDED from [:share_plus] /Users/muhammadbabar/essex-work/FYPLatest/mobile-app/essex_dental_cleaning/build/share_plus/intermediates/merged_manifest/release/processReleaseManifest/AndroidManifest.xml:26:9-32:20
+	android:exported
+		ADDED from [:share_plus] /Users/muhammadbabar/essex-work/FYPLatest/mobile-app/essex_dental_cleaning/build/share_plus/intermediates/merged_manifest/release/processReleaseManifest/AndroidManifest.xml:28:13-37
+	android:name
+		ADDED from [:share_plus] /Users/muhammadbabar/essex-work/FYPLatest/mobile-app/essex_dental_cleaning/build/share_plus/intermediates/merged_manifest/release/processReleaseManifest/AndroidManifest.xml:27:13-82
+intent-filter#action:name:EXTRA_CHOSEN_COMPONENT
+ADDED from [:share_plus] /Users/muhammadbabar/essex-work/FYPLatest/mobile-app/essex_dental_cleaning/build/share_plus/intermediates/merged_manifest/release/processReleaseManifest/AndroidManifest.xml:29:13-31:29
+action#EXTRA_CHOSEN_COMPONENT
+ADDED from [:share_plus] /Users/muhammadbabar/essex-work/FYPLatest/mobile-app/essex_dental_cleaning/build/share_plus/intermediates/merged_manifest/release/processReleaseManifest/AndroidManifest.xml:30:17-65
+	android:name
+		ADDED from [:share_plus] /Users/muhammadbabar/essex-work/FYPLatest/mobile-app/essex_dental_cleaning/build/share_plus/intermediates/merged_manifest/release/processReleaseManifest/AndroidManifest.xml:30:25-62
+provider#io.flutter.plugins.imagepicker.ImagePickerFileProvider
+ADDED from [:image_picker_android] /Users/muhammadbabar/essex-work/FYPLatest/mobile-app/essex_dental_cleaning/build/image_picker_android/intermediates/merged_manifest/release/processReleaseManifest/AndroidManifest.xml:9:9-17:20
+	android:grantUriPermissions
+		ADDED from [:image_picker_android] /Users/muhammadbabar/essex-work/FYPLatest/mobile-app/essex_dental_cleaning/build/image_picker_android/intermediates/merged_manifest/release/processReleaseManifest/AndroidManifest.xml:13:13-47
+	android:authorities
+		ADDED from [:image_picker_android] /Users/muhammadbabar/essex-work/FYPLatest/mobile-app/essex_dental_cleaning/build/image_picker_android/intermediates/merged_manifest/release/processReleaseManifest/AndroidManifest.xml:11:13-74
+	android:exported
+		ADDED from [:image_picker_android] /Users/muhammadbabar/essex-work/FYPLatest/mobile-app/essex_dental_cleaning/build/image_picker_android/intermediates/merged_manifest/release/processReleaseManifest/AndroidManifest.xml:12:13-37
+	android:name
+		ADDED from [:image_picker_android] /Users/muhammadbabar/essex-work/FYPLatest/mobile-app/essex_dental_cleaning/build/image_picker_android/intermediates/merged_manifest/release/processReleaseManifest/AndroidManifest.xml:10:13-82
+service#com.google.android.gms.metadata.ModuleDependencies
+ADDED from [:image_picker_android] /Users/muhammadbabar/essex-work/FYPLatest/mobile-app/essex_dental_cleaning/build/image_picker_android/intermediates/merged_manifest/release/processReleaseManifest/AndroidManifest.xml:19:9-31:19
+	android:enabled
+		ADDED from [:image_picker_android] /Users/muhammadbabar/essex-work/FYPLatest/mobile-app/essex_dental_cleaning/build/image_picker_android/intermediates/merged_manifest/release/processReleaseManifest/AndroidManifest.xml:21:13-36
+	android:exported
+		ADDED from [:image_picker_android] /Users/muhammadbabar/essex-work/FYPLatest/mobile-app/essex_dental_cleaning/build/image_picker_android/intermediates/merged_manifest/release/processReleaseManifest/AndroidManifest.xml:22:13-37
+	tools:ignore
+		ADDED from [:image_picker_android] /Users/muhammadbabar/essex-work/FYPLatest/mobile-app/essex_dental_cleaning/build/image_picker_android/intermediates/merged_manifest/release/processReleaseManifest/AndroidManifest.xml:23:13-40
+	android:name
+		ADDED from [:image_picker_android] /Users/muhammadbabar/essex-work/FYPLatest/mobile-app/essex_dental_cleaning/build/image_picker_android/intermediates/merged_manifest/release/processReleaseManifest/AndroidManifest.xml:20:13-78
+intent-filter#action:name:com.google.android.gms.metadata.MODULE_DEPENDENCIES
+ADDED from [:image_picker_android] /Users/muhammadbabar/essex-work/FYPLatest/mobile-app/essex_dental_cleaning/build/image_picker_android/intermediates/merged_manifest/release/processReleaseManifest/AndroidManifest.xml:24:13-26:29
+action#com.google.android.gms.metadata.MODULE_DEPENDENCIES
+ADDED from [:image_picker_android] /Users/muhammadbabar/essex-work/FYPLatest/mobile-app/essex_dental_cleaning/build/image_picker_android/intermediates/merged_manifest/release/processReleaseManifest/AndroidManifest.xml:25:17-94
+	android:name
+		ADDED from [:image_picker_android] /Users/muhammadbabar/essex-work/FYPLatest/mobile-app/essex_dental_cleaning/build/image_picker_android/intermediates/merged_manifest/release/processReleaseManifest/AndroidManifest.xml:25:25-91
+meta-data#photopicker_activity:0:required
+ADDED from [:image_picker_android] /Users/muhammadbabar/essex-work/FYPLatest/mobile-app/essex_dental_cleaning/build/image_picker_android/intermediates/merged_manifest/release/processReleaseManifest/AndroidManifest.xml:28:13-30:36
+	android:value
+		ADDED from [:image_picker_android] /Users/muhammadbabar/essex-work/FYPLatest/mobile-app/essex_dental_cleaning/build/image_picker_android/intermediates/merged_manifest/release/processReleaseManifest/AndroidManifest.xml:30:17-33
+	android:name
+		ADDED from [:image_picker_android] /Users/muhammadbabar/essex-work/FYPLatest/mobile-app/essex_dental_cleaning/build/image_picker_android/intermediates/merged_manifest/release/processReleaseManifest/AndroidManifest.xml:29:17-63
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from [:connectivity_plus] /Users/muhammadbabar/essex-work/FYPLatest/mobile-app/essex_dental_cleaning/build/connectivity_plus/intermediates/merged_manifest/release/processReleaseManifest/AndroidManifest.xml:7:5-79
+MERGED from [com.google.firebase:firebase-installations:19.0.0] /Users/muhammadbabar/.gradle/caches/8.12/transforms/a30e203d2176ae4ad215f5e593bcfbb1/transformed/jetified-firebase-installations-19.0.0/AndroidManifest.xml:7:5-79
+MERGED from [com.google.firebase:firebase-installations:19.0.0] /Users/muhammadbabar/.gradle/caches/8.12/transforms/a30e203d2176ae4ad215f5e593bcfbb1/transformed/jetified-firebase-installations-19.0.0/AndroidManifest.xml:7:5-79
+MERGED from [com.google.android.datatransport:transport-backend-cct:3.3.0] /Users/muhammadbabar/.gradle/caches/8.12/transforms/69b81c61d31559929685d2b991222041/transformed/jetified-transport-backend-cct-3.3.0/AndroidManifest.xml:22:5-79
+MERGED from [com.google.android.datatransport:transport-backend-cct:3.3.0] /Users/muhammadbabar/.gradle/caches/8.12/transforms/69b81c61d31559929685d2b991222041/transformed/jetified-transport-backend-cct-3.3.0/AndroidManifest.xml:22:5-79
+MERGED from [com.google.android.datatransport:transport-runtime:3.3.0] /Users/muhammadbabar/.gradle/caches/8.12/transforms/4cc4dd6f9015a1494098b1d856aef30b/transformed/jetified-transport-runtime-3.3.0/AndroidManifest.xml:20:5-79
+MERGED from [com.google.android.datatransport:transport-runtime:3.3.0] /Users/muhammadbabar/.gradle/caches/8.12/transforms/4cc4dd6f9015a1494098b1d856aef30b/transformed/jetified-transport-runtime-3.3.0/AndroidManifest.xml:20:5-79
+	android:name
+		ADDED from [:connectivity_plus] /Users/muhammadbabar/essex-work/FYPLatest/mobile-app/essex_dental_cleaning/build/connectivity_plus/intermediates/merged_manifest/release/processReleaseManifest/AndroidManifest.xml:7:22-76
+service#com.google.firebase.components.ComponentDiscoveryService
+ADDED from [:firebase_crashlytics] /Users/muhammadbabar/essex-work/FYPLatest/mobile-app/essex_dental_cleaning/build/firebase_crashlytics/intermediates/merged_manifest/release/processReleaseManifest/AndroidManifest.xml:8:9-12:19
+MERGED from [:firebase_core] /Users/muhammadbabar/essex-work/FYPLatest/mobile-app/essex_dental_cleaning/build/firebase_core/intermediates/merged_manifest/release/processReleaseManifest/AndroidManifest.xml:8:9-12:19
+MERGED from [:firebase_core] /Users/muhammadbabar/essex-work/FYPLatest/mobile-app/essex_dental_cleaning/build/firebase_core/intermediates/merged_manifest/release/processReleaseManifest/AndroidManifest.xml:8:9-12:19
+MERGED from [com.google.firebase:firebase-crashlytics:20.0.0] /Users/muhammadbabar/.gradle/caches/8.12/transforms/5f92548e1be4dadcda204064edeee47f/transformed/jetified-firebase-crashlytics-20.0.0/AndroidManifest.xml:12:9-21:19
+MERGED from [com.google.firebase:firebase-crashlytics:20.0.0] /Users/muhammadbabar/.gradle/caches/8.12/transforms/5f92548e1be4dadcda204064edeee47f/transformed/jetified-firebase-crashlytics-20.0.0/AndroidManifest.xml:12:9-21:19
+MERGED from [com.google.firebase:firebase-sessions:3.0.0] /Users/muhammadbabar/.gradle/caches/8.12/transforms/5e0031da7ccbe49fe06d4c31df9958b5/transformed/jetified-firebase-sessions-3.0.0/AndroidManifest.xml:22:9-28:19
+MERGED from [com.google.firebase:firebase-sessions:3.0.0] /Users/muhammadbabar/.gradle/caches/8.12/transforms/5e0031da7ccbe49fe06d4c31df9958b5/transformed/jetified-firebase-sessions-3.0.0/AndroidManifest.xml:22:9-28:19
+MERGED from [com.google.firebase:firebase-installations:19.0.0] /Users/muhammadbabar/.gradle/caches/8.12/transforms/a30e203d2176ae4ad215f5e593bcfbb1/transformed/jetified-firebase-installations-19.0.0/AndroidManifest.xml:12:9-21:19
+MERGED from [com.google.firebase:firebase-installations:19.0.0] /Users/muhammadbabar/.gradle/caches/8.12/transforms/a30e203d2176ae4ad215f5e593bcfbb1/transformed/jetified-firebase-installations-19.0.0/AndroidManifest.xml:12:9-21:19
+MERGED from [com.google.firebase:firebase-common:22.0.0] /Users/muhammadbabar/.gradle/caches/8.12/transforms/2e2b4bdc8814f8bbf51937324533b9f1/transformed/jetified-firebase-common-22.0.0/AndroidManifest.xml:30:9-38:19
+MERGED from [com.google.firebase:firebase-common:22.0.0] /Users/muhammadbabar/.gradle/caches/8.12/transforms/2e2b4bdc8814f8bbf51937324533b9f1/transformed/jetified-firebase-common-22.0.0/AndroidManifest.xml:30:9-38:19
+MERGED from [com.google.firebase:firebase-datatransport:19.0.0] /Users/muhammadbabar/.gradle/caches/8.12/transforms/66f71c2635b4169f5d74b19880db9110/transformed/jetified-firebase-datatransport-19.0.0/AndroidManifest.xml:22:9-28:19
+MERGED from [com.google.firebase:firebase-datatransport:19.0.0] /Users/muhammadbabar/.gradle/caches/8.12/transforms/66f71c2635b4169f5d74b19880db9110/transformed/jetified-firebase-datatransport-19.0.0/AndroidManifest.xml:22:9-28:19
+	android:exported
+		ADDED from [com.google.firebase:firebase-crashlytics:20.0.0] /Users/muhammadbabar/.gradle/caches/8.12/transforms/5f92548e1be4dadcda204064edeee47f/transformed/jetified-firebase-crashlytics-20.0.0/AndroidManifest.xml:14:13-37
+	tools:targetApi
+		ADDED from [com.google.firebase:firebase-common:22.0.0] /Users/muhammadbabar/.gradle/caches/8.12/transforms/2e2b4bdc8814f8bbf51937324533b9f1/transformed/jetified-firebase-common-22.0.0/AndroidManifest.xml:34:13-32
+	android:directBootAware
+		ADDED from [com.google.firebase:firebase-common:22.0.0] /Users/muhammadbabar/.gradle/caches/8.12/transforms/2e2b4bdc8814f8bbf51937324533b9f1/transformed/jetified-firebase-common-22.0.0/AndroidManifest.xml:32:13-43
+	android:name
+		ADDED from [:firebase_crashlytics] /Users/muhammadbabar/essex-work/FYPLatest/mobile-app/essex_dental_cleaning/build/firebase_crashlytics/intermediates/merged_manifest/release/processReleaseManifest/AndroidManifest.xml:8:18-89
+meta-data#com.google.firebase.components:io.flutter.plugins.firebase.crashlytics.FlutterFirebaseAppRegistrar
+ADDED from [:firebase_crashlytics] /Users/muhammadbabar/essex-work/FYPLatest/mobile-app/essex_dental_cleaning/build/firebase_crashlytics/intermediates/merged_manifest/release/processReleaseManifest/AndroidManifest.xml:9:13-11:85
+	android:value
+		ADDED from [:firebase_crashlytics] /Users/muhammadbabar/essex-work/FYPLatest/mobile-app/essex_dental_cleaning/build/firebase_crashlytics/intermediates/merged_manifest/release/processReleaseManifest/AndroidManifest.xml:11:17-82
+	android:name
+		ADDED from [:firebase_crashlytics] /Users/muhammadbabar/essex-work/FYPLatest/mobile-app/essex_dental_cleaning/build/firebase_crashlytics/intermediates/merged_manifest/release/processReleaseManifest/AndroidManifest.xml:10:17-130
+meta-data#com.google.firebase.components:io.flutter.plugins.firebase.core.FlutterFirebaseCoreRegistrar
+ADDED from [:firebase_core] /Users/muhammadbabar/essex-work/FYPLatest/mobile-app/essex_dental_cleaning/build/firebase_core/intermediates/merged_manifest/release/processReleaseManifest/AndroidManifest.xml:9:13-11:85
+	android:value
+		ADDED from [:firebase_core] /Users/muhammadbabar/essex-work/FYPLatest/mobile-app/essex_dental_cleaning/build/firebase_core/intermediates/merged_manifest/release/processReleaseManifest/AndroidManifest.xml:11:17-82
+	android:name
+		ADDED from [:firebase_core] /Users/muhammadbabar/essex-work/FYPLatest/mobile-app/essex_dental_cleaning/build/firebase_core/intermediates/merged_manifest/release/processReleaseManifest/AndroidManifest.xml:10:17-124
+activity#io.flutter.plugins.urllauncher.WebViewActivity
+ADDED from [:url_launcher_android] /Users/muhammadbabar/essex-work/FYPLatest/mobile-app/essex_dental_cleaning/build/url_launcher_android/intermediates/merged_manifest/release/processReleaseManifest/AndroidManifest.xml:8:9-11:74
+	android:exported
+		ADDED from [:url_launcher_android] /Users/muhammadbabar/essex-work/FYPLatest/mobile-app/essex_dental_cleaning/build/url_launcher_android/intermediates/merged_manifest/release/processReleaseManifest/AndroidManifest.xml:10:13-37
+	android:theme
+		ADDED from [:url_launcher_android] /Users/muhammadbabar/essex-work/FYPLatest/mobile-app/essex_dental_cleaning/build/url_launcher_android/intermediates/merged_manifest/release/processReleaseManifest/AndroidManifest.xml:11:13-71
+	android:name
+		ADDED from [:url_launcher_android] /Users/muhammadbabar/essex-work/FYPLatest/mobile-app/essex_dental_cleaning/build/url_launcher_android/intermediates/merged_manifest/release/processReleaseManifest/AndroidManifest.xml:9:13-74
+meta-data#com.google.firebase.components:com.google.firebase.crashlytics.FirebaseCrashlyticsKtxRegistrar
+ADDED from [com.google.firebase:firebase-crashlytics:20.0.0] /Users/muhammadbabar/.gradle/caches/8.12/transforms/5f92548e1be4dadcda204064edeee47f/transformed/jetified-firebase-crashlytics-20.0.0/AndroidManifest.xml:15:13-17:85
+	android:value
+		ADDED from [com.google.firebase:firebase-crashlytics:20.0.0] /Users/muhammadbabar/.gradle/caches/8.12/transforms/5f92548e1be4dadcda204064edeee47f/transformed/jetified-firebase-crashlytics-20.0.0/AndroidManifest.xml:17:17-82
+	android:name
+		ADDED from [com.google.firebase:firebase-crashlytics:20.0.0] /Users/muhammadbabar/.gradle/caches/8.12/transforms/5f92548e1be4dadcda204064edeee47f/transformed/jetified-firebase-crashlytics-20.0.0/AndroidManifest.xml:16:17-126
+meta-data#com.google.firebase.components:com.google.firebase.crashlytics.CrashlyticsRegistrar
+ADDED from [com.google.firebase:firebase-crashlytics:20.0.0] /Users/muhammadbabar/.gradle/caches/8.12/transforms/5f92548e1be4dadcda204064edeee47f/transformed/jetified-firebase-crashlytics-20.0.0/AndroidManifest.xml:18:13-20:85
+	android:value
+		ADDED from [com.google.firebase:firebase-crashlytics:20.0.0] /Users/muhammadbabar/.gradle/caches/8.12/transforms/5f92548e1be4dadcda204064edeee47f/transformed/jetified-firebase-crashlytics-20.0.0/AndroidManifest.xml:20:17-82
+	android:name
+		ADDED from [com.google.firebase:firebase-crashlytics:20.0.0] /Users/muhammadbabar/.gradle/caches/8.12/transforms/5f92548e1be4dadcda204064edeee47f/transformed/jetified-firebase-crashlytics-20.0.0/AndroidManifest.xml:19:17-115
+meta-data#com.google.firebase.components:com.google.firebase.sessions.FirebaseSessionsRegistrar
+ADDED from [com.google.firebase:firebase-sessions:3.0.0] /Users/muhammadbabar/.gradle/caches/8.12/transforms/5e0031da7ccbe49fe06d4c31df9958b5/transformed/jetified-firebase-sessions-3.0.0/AndroidManifest.xml:25:13-27:85
+	android:value
+		ADDED from [com.google.firebase:firebase-sessions:3.0.0] /Users/muhammadbabar/.gradle/caches/8.12/transforms/5e0031da7ccbe49fe06d4c31df9958b5/transformed/jetified-firebase-sessions-3.0.0/AndroidManifest.xml:27:17-82
+	android:name
+		ADDED from [com.google.firebase:firebase-sessions:3.0.0] /Users/muhammadbabar/.gradle/caches/8.12/transforms/5e0031da7ccbe49fe06d4c31df9958b5/transformed/jetified-firebase-sessions-3.0.0/AndroidManifest.xml:26:17-117
+meta-data#com.google.firebase.components:com.google.firebase.installations.FirebaseInstallationsKtxRegistrar
+ADDED from [com.google.firebase:firebase-installations:19.0.0] /Users/muhammadbabar/.gradle/caches/8.12/transforms/a30e203d2176ae4ad215f5e593bcfbb1/transformed/jetified-firebase-installations-19.0.0/AndroidManifest.xml:15:13-17:85
+	android:value
+		ADDED from [com.google.firebase:firebase-installations:19.0.0] /Users/muhammadbabar/.gradle/caches/8.12/transforms/a30e203d2176ae4ad215f5e593bcfbb1/transformed/jetified-firebase-installations-19.0.0/AndroidManifest.xml:17:17-82
+	android:name
+		ADDED from [com.google.firebase:firebase-installations:19.0.0] /Users/muhammadbabar/.gradle/caches/8.12/transforms/a30e203d2176ae4ad215f5e593bcfbb1/transformed/jetified-firebase-installations-19.0.0/AndroidManifest.xml:16:17-130
+meta-data#com.google.firebase.components:com.google.firebase.installations.FirebaseInstallationsRegistrar
+ADDED from [com.google.firebase:firebase-installations:19.0.0] /Users/muhammadbabar/.gradle/caches/8.12/transforms/a30e203d2176ae4ad215f5e593bcfbb1/transformed/jetified-firebase-installations-19.0.0/AndroidManifest.xml:18:13-20:85
+	android:value
+		ADDED from [com.google.firebase:firebase-installations:19.0.0] /Users/muhammadbabar/.gradle/caches/8.12/transforms/a30e203d2176ae4ad215f5e593bcfbb1/transformed/jetified-firebase-installations-19.0.0/AndroidManifest.xml:20:17-82
+	android:name
+		ADDED from [com.google.firebase:firebase-installations:19.0.0] /Users/muhammadbabar/.gradle/caches/8.12/transforms/a30e203d2176ae4ad215f5e593bcfbb1/transformed/jetified-firebase-installations-19.0.0/AndroidManifest.xml:19:17-127
+provider#com.google.firebase.provider.FirebaseInitProvider
+ADDED from [com.google.firebase:firebase-common:22.0.0] /Users/muhammadbabar/.gradle/caches/8.12/transforms/2e2b4bdc8814f8bbf51937324533b9f1/transformed/jetified-firebase-common-22.0.0/AndroidManifest.xml:23:9-28:39
+	android:authorities
+		ADDED from [com.google.firebase:firebase-common:22.0.0] /Users/muhammadbabar/.gradle/caches/8.12/transforms/2e2b4bdc8814f8bbf51937324533b9f1/transformed/jetified-firebase-common-22.0.0/AndroidManifest.xml:25:13-72
+	android:exported
+		ADDED from [com.google.firebase:firebase-common:22.0.0] /Users/muhammadbabar/.gradle/caches/8.12/transforms/2e2b4bdc8814f8bbf51937324533b9f1/transformed/jetified-firebase-common-22.0.0/AndroidManifest.xml:27:13-37
+	android:directBootAware
+		ADDED from [com.google.firebase:firebase-common:22.0.0] /Users/muhammadbabar/.gradle/caches/8.12/transforms/2e2b4bdc8814f8bbf51937324533b9f1/transformed/jetified-firebase-common-22.0.0/AndroidManifest.xml:26:13-43
+	android:initOrder
+		ADDED from [com.google.firebase:firebase-common:22.0.0] /Users/muhammadbabar/.gradle/caches/8.12/transforms/2e2b4bdc8814f8bbf51937324533b9f1/transformed/jetified-firebase-common-22.0.0/AndroidManifest.xml:28:13-36
+	android:name
+		ADDED from [com.google.firebase:firebase-common:22.0.0] /Users/muhammadbabar/.gradle/caches/8.12/transforms/2e2b4bdc8814f8bbf51937324533b9f1/transformed/jetified-firebase-common-22.0.0/AndroidManifest.xml:24:13-77
+meta-data#com.google.firebase.components:com.google.firebase.FirebaseCommonKtxRegistrar
+ADDED from [com.google.firebase:firebase-common:22.0.0] /Users/muhammadbabar/.gradle/caches/8.12/transforms/2e2b4bdc8814f8bbf51937324533b9f1/transformed/jetified-firebase-common-22.0.0/AndroidManifest.xml:35:13-37:85
+	android:value
+		ADDED from [com.google.firebase:firebase-common:22.0.0] /Users/muhammadbabar/.gradle/caches/8.12/transforms/2e2b4bdc8814f8bbf51937324533b9f1/transformed/jetified-firebase-common-22.0.0/AndroidManifest.xml:37:17-82
+	android:name
+		ADDED from [com.google.firebase:firebase-common:22.0.0] /Users/muhammadbabar/.gradle/caches/8.12/transforms/2e2b4bdc8814f8bbf51937324533b9f1/transformed/jetified-firebase-common-22.0.0/AndroidManifest.xml:36:17-109
+uses-library#androidx.window.extensions
+ADDED from [androidx.window:window:1.2.0] /Users/muhammadbabar/.gradle/caches/8.12/transforms/619bf495b387e1683a1eec1d6c7238ae/transformed/jetified-window-1.2.0/AndroidManifest.xml:23:9-25:40
+	android:required
+		ADDED from [androidx.window:window:1.2.0] /Users/muhammadbabar/.gradle/caches/8.12/transforms/619bf495b387e1683a1eec1d6c7238ae/transformed/jetified-window-1.2.0/AndroidManifest.xml:25:13-37
+	android:name
+		ADDED from [androidx.window:window:1.2.0] /Users/muhammadbabar/.gradle/caches/8.12/transforms/619bf495b387e1683a1eec1d6c7238ae/transformed/jetified-window-1.2.0/AndroidManifest.xml:24:13-54
+uses-library#androidx.window.sidecar
+ADDED from [androidx.window:window:1.2.0] /Users/muhammadbabar/.gradle/caches/8.12/transforms/619bf495b387e1683a1eec1d6c7238ae/transformed/jetified-window-1.2.0/AndroidManifest.xml:26:9-28:40
+	android:required
+		ADDED from [androidx.window:window:1.2.0] /Users/muhammadbabar/.gradle/caches/8.12/transforms/619bf495b387e1683a1eec1d6c7238ae/transformed/jetified-window-1.2.0/AndroidManifest.xml:28:13-37
+	android:name
+		ADDED from [androidx.window:window:1.2.0] /Users/muhammadbabar/.gradle/caches/8.12/transforms/619bf495b387e1683a1eec1d6c7238ae/transformed/jetified-window-1.2.0/AndroidManifest.xml:27:13-51
+permission#${applicationId}.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
+ADDED from [androidx.core:core:1.16.0] /Users/muhammadbabar/.gradle/caches/8.12/transforms/42020cd026c5d2ea491616526967369a/transformed/core-1.16.0/AndroidManifest.xml:22:5-24:47
+	android:protectionLevel
+		ADDED from [androidx.core:core:1.16.0] /Users/muhammadbabar/.gradle/caches/8.12/transforms/42020cd026c5d2ea491616526967369a/transformed/core-1.16.0/AndroidManifest.xml:24:9-44
+	android:name
+		ADDED from [androidx.core:core:1.16.0] /Users/muhammadbabar/.gradle/caches/8.12/transforms/42020cd026c5d2ea491616526967369a/transformed/core-1.16.0/AndroidManifest.xml:23:9-81
+permission#com.ai.dental.studio.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
+ADDED from [androidx.core:core:1.16.0] /Users/muhammadbabar/.gradle/caches/8.12/transforms/42020cd026c5d2ea491616526967369a/transformed/core-1.16.0/AndroidManifest.xml:22:5-24:47
+	android:protectionLevel
+		ADDED from [androidx.core:core:1.16.0] /Users/muhammadbabar/.gradle/caches/8.12/transforms/42020cd026c5d2ea491616526967369a/transformed/core-1.16.0/AndroidManifest.xml:24:9-44
+	android:name
+		ADDED from [androidx.core:core:1.16.0] /Users/muhammadbabar/.gradle/caches/8.12/transforms/42020cd026c5d2ea491616526967369a/transformed/core-1.16.0/AndroidManifest.xml:23:9-81
+uses-permission#${applicationId}.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
+ADDED from [androidx.core:core:1.16.0] /Users/muhammadbabar/.gradle/caches/8.12/transforms/42020cd026c5d2ea491616526967369a/transformed/core-1.16.0/AndroidManifest.xml:26:5-97
+	android:name
+		ADDED from [androidx.core:core:1.16.0] /Users/muhammadbabar/.gradle/caches/8.12/transforms/42020cd026c5d2ea491616526967369a/transformed/core-1.16.0/AndroidManifest.xml:26:22-94
+uses-permission#com.ai.dental.studio.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
+ADDED from [androidx.core:core:1.16.0] /Users/muhammadbabar/.gradle/caches/8.12/transforms/42020cd026c5d2ea491616526967369a/transformed/core-1.16.0/AndroidManifest.xml:26:5-97
+	android:name
+		ADDED from [androidx.core:core:1.16.0] /Users/muhammadbabar/.gradle/caches/8.12/transforms/42020cd026c5d2ea491616526967369a/transformed/core-1.16.0/AndroidManifest.xml:26:22-94
+provider#androidx.startup.InitializationProvider
+ADDED from [androidx.lifecycle:lifecycle-process:2.7.0] /Users/muhammadbabar/.gradle/caches/8.12/transforms/bf0e46b12ccf15fb2e9d4c488cf40064/transformed/jetified-lifecycle-process-2.7.0/AndroidManifest.xml:24:9-32:20
+MERGED from [androidx.profileinstaller:profileinstaller:1.4.0] /Users/muhammadbabar/.gradle/caches/8.12/transforms/dfd941ae61223fc7164cc9d3bc3a7993/transformed/jetified-profileinstaller-1.4.0/AndroidManifest.xml:24:9-32:20
+MERGED from [androidx.profileinstaller:profileinstaller:1.4.0] /Users/muhammadbabar/.gradle/caches/8.12/transforms/dfd941ae61223fc7164cc9d3bc3a7993/transformed/jetified-profileinstaller-1.4.0/AndroidManifest.xml:24:9-32:20
+MERGED from [androidx.startup:startup-runtime:1.1.1] /Users/muhammadbabar/.gradle/caches/8.12/transforms/4ca6b61544ee65963087a46c3c02d938/transformed/jetified-startup-runtime-1.1.1/AndroidManifest.xml:26:9-30:34
+MERGED from [androidx.startup:startup-runtime:1.1.1] /Users/muhammadbabar/.gradle/caches/8.12/transforms/4ca6b61544ee65963087a46c3c02d938/transformed/jetified-startup-runtime-1.1.1/AndroidManifest.xml:26:9-30:34
+	tools:node
+		ADDED from [androidx.lifecycle:lifecycle-process:2.7.0] /Users/muhammadbabar/.gradle/caches/8.12/transforms/bf0e46b12ccf15fb2e9d4c488cf40064/transformed/jetified-lifecycle-process-2.7.0/AndroidManifest.xml:28:13-31
+	android:authorities
+		ADDED from [androidx.lifecycle:lifecycle-process:2.7.0] /Users/muhammadbabar/.gradle/caches/8.12/transforms/bf0e46b12ccf15fb2e9d4c488cf40064/transformed/jetified-lifecycle-process-2.7.0/AndroidManifest.xml:26:13-68
+	android:exported
+		ADDED from [androidx.lifecycle:lifecycle-process:2.7.0] /Users/muhammadbabar/.gradle/caches/8.12/transforms/bf0e46b12ccf15fb2e9d4c488cf40064/transformed/jetified-lifecycle-process-2.7.0/AndroidManifest.xml:27:13-37
+	android:name
+		ADDED from [androidx.lifecycle:lifecycle-process:2.7.0] /Users/muhammadbabar/.gradle/caches/8.12/transforms/bf0e46b12ccf15fb2e9d4c488cf40064/transformed/jetified-lifecycle-process-2.7.0/AndroidManifest.xml:25:13-67
+meta-data#androidx.lifecycle.ProcessLifecycleInitializer
+ADDED from [androidx.lifecycle:lifecycle-process:2.7.0] /Users/muhammadbabar/.gradle/caches/8.12/transforms/bf0e46b12ccf15fb2e9d4c488cf40064/transformed/jetified-lifecycle-process-2.7.0/AndroidManifest.xml:29:13-31:52
+	android:value
+		ADDED from [androidx.lifecycle:lifecycle-process:2.7.0] /Users/muhammadbabar/.gradle/caches/8.12/transforms/bf0e46b12ccf15fb2e9d4c488cf40064/transformed/jetified-lifecycle-process-2.7.0/AndroidManifest.xml:31:17-49
+	android:name
+		ADDED from [androidx.lifecycle:lifecycle-process:2.7.0] /Users/muhammadbabar/.gradle/caches/8.12/transforms/bf0e46b12ccf15fb2e9d4c488cf40064/transformed/jetified-lifecycle-process-2.7.0/AndroidManifest.xml:30:17-78
+meta-data#com.google.android.gms.version
+ADDED from [com.google.android.gms:play-services-basement:18.3.0] /Users/muhammadbabar/.gradle/caches/8.12/transforms/6652d56b32da6184ff6e0ee77f3a9f33/transformed/jetified-play-services-basement-18.3.0/AndroidManifest.xml:21:9-23:69
+	android:value
+		ADDED from [com.google.android.gms:play-services-basement:18.3.0] /Users/muhammadbabar/.gradle/caches/8.12/transforms/6652d56b32da6184ff6e0ee77f3a9f33/transformed/jetified-play-services-basement-18.3.0/AndroidManifest.xml:23:13-66
+	android:name
+		ADDED from [com.google.android.gms:play-services-basement:18.3.0] /Users/muhammadbabar/.gradle/caches/8.12/transforms/6652d56b32da6184ff6e0ee77f3a9f33/transformed/jetified-play-services-basement-18.3.0/AndroidManifest.xml:22:13-58
+meta-data#androidx.profileinstaller.ProfileInstallerInitializer
+ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] /Users/muhammadbabar/.gradle/caches/8.12/transforms/dfd941ae61223fc7164cc9d3bc3a7993/transformed/jetified-profileinstaller-1.4.0/AndroidManifest.xml:29:13-31:52
+	android:value
+		ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] /Users/muhammadbabar/.gradle/caches/8.12/transforms/dfd941ae61223fc7164cc9d3bc3a7993/transformed/jetified-profileinstaller-1.4.0/AndroidManifest.xml:31:17-49
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] /Users/muhammadbabar/.gradle/caches/8.12/transforms/dfd941ae61223fc7164cc9d3bc3a7993/transformed/jetified-profileinstaller-1.4.0/AndroidManifest.xml:30:17-85
+receiver#androidx.profileinstaller.ProfileInstallReceiver
+ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] /Users/muhammadbabar/.gradle/caches/8.12/transforms/dfd941ae61223fc7164cc9d3bc3a7993/transformed/jetified-profileinstaller-1.4.0/AndroidManifest.xml:34:9-52:20
+	android:enabled
+		ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] /Users/muhammadbabar/.gradle/caches/8.12/transforms/dfd941ae61223fc7164cc9d3bc3a7993/transformed/jetified-profileinstaller-1.4.0/AndroidManifest.xml:37:13-35
+	android:exported
+		ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] /Users/muhammadbabar/.gradle/caches/8.12/transforms/dfd941ae61223fc7164cc9d3bc3a7993/transformed/jetified-profileinstaller-1.4.0/AndroidManifest.xml:38:13-36
+	android:permission
+		ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] /Users/muhammadbabar/.gradle/caches/8.12/transforms/dfd941ae61223fc7164cc9d3bc3a7993/transformed/jetified-profileinstaller-1.4.0/AndroidManifest.xml:39:13-57
+	android:directBootAware
+		ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] /Users/muhammadbabar/.gradle/caches/8.12/transforms/dfd941ae61223fc7164cc9d3bc3a7993/transformed/jetified-profileinstaller-1.4.0/AndroidManifest.xml:36:13-44
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] /Users/muhammadbabar/.gradle/caches/8.12/transforms/dfd941ae61223fc7164cc9d3bc3a7993/transformed/jetified-profileinstaller-1.4.0/AndroidManifest.xml:35:13-76
+intent-filter#action:name:androidx.profileinstaller.action.INSTALL_PROFILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] /Users/muhammadbabar/.gradle/caches/8.12/transforms/dfd941ae61223fc7164cc9d3bc3a7993/transformed/jetified-profileinstaller-1.4.0/AndroidManifest.xml:40:13-42:29
+action#androidx.profileinstaller.action.INSTALL_PROFILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] /Users/muhammadbabar/.gradle/caches/8.12/transforms/dfd941ae61223fc7164cc9d3bc3a7993/transformed/jetified-profileinstaller-1.4.0/AndroidManifest.xml:41:17-91
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] /Users/muhammadbabar/.gradle/caches/8.12/transforms/dfd941ae61223fc7164cc9d3bc3a7993/transformed/jetified-profileinstaller-1.4.0/AndroidManifest.xml:41:25-88
+intent-filter#action:name:androidx.profileinstaller.action.SKIP_FILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] /Users/muhammadbabar/.gradle/caches/8.12/transforms/dfd941ae61223fc7164cc9d3bc3a7993/transformed/jetified-profileinstaller-1.4.0/AndroidManifest.xml:43:13-45:29
+action#androidx.profileinstaller.action.SKIP_FILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] /Users/muhammadbabar/.gradle/caches/8.12/transforms/dfd941ae61223fc7164cc9d3bc3a7993/transformed/jetified-profileinstaller-1.4.0/AndroidManifest.xml:44:17-85
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] /Users/muhammadbabar/.gradle/caches/8.12/transforms/dfd941ae61223fc7164cc9d3bc3a7993/transformed/jetified-profileinstaller-1.4.0/AndroidManifest.xml:44:25-82
+intent-filter#action:name:androidx.profileinstaller.action.SAVE_PROFILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] /Users/muhammadbabar/.gradle/caches/8.12/transforms/dfd941ae61223fc7164cc9d3bc3a7993/transformed/jetified-profileinstaller-1.4.0/AndroidManifest.xml:46:13-48:29
+action#androidx.profileinstaller.action.SAVE_PROFILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] /Users/muhammadbabar/.gradle/caches/8.12/transforms/dfd941ae61223fc7164cc9d3bc3a7993/transformed/jetified-profileinstaller-1.4.0/AndroidManifest.xml:47:17-88
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] /Users/muhammadbabar/.gradle/caches/8.12/transforms/dfd941ae61223fc7164cc9d3bc3a7993/transformed/jetified-profileinstaller-1.4.0/AndroidManifest.xml:47:25-85
+intent-filter#action:name:androidx.profileinstaller.action.BENCHMARK_OPERATION
+ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] /Users/muhammadbabar/.gradle/caches/8.12/transforms/dfd941ae61223fc7164cc9d3bc3a7993/transformed/jetified-profileinstaller-1.4.0/AndroidManifest.xml:49:13-51:29
+action#androidx.profileinstaller.action.BENCHMARK_OPERATION
+ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] /Users/muhammadbabar/.gradle/caches/8.12/transforms/dfd941ae61223fc7164cc9d3bc3a7993/transformed/jetified-profileinstaller-1.4.0/AndroidManifest.xml:50:17-95
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] /Users/muhammadbabar/.gradle/caches/8.12/transforms/dfd941ae61223fc7164cc9d3bc3a7993/transformed/jetified-profileinstaller-1.4.0/AndroidManifest.xml:50:25-92
+meta-data#com.google.firebase.components:com.google.firebase.datatransport.TransportRegistrar
+ADDED from [com.google.firebase:firebase-datatransport:19.0.0] /Users/muhammadbabar/.gradle/caches/8.12/transforms/66f71c2635b4169f5d74b19880db9110/transformed/jetified-firebase-datatransport-19.0.0/AndroidManifest.xml:25:13-27:85
+	android:value
+		ADDED from [com.google.firebase:firebase-datatransport:19.0.0] /Users/muhammadbabar/.gradle/caches/8.12/transforms/66f71c2635b4169f5d74b19880db9110/transformed/jetified-firebase-datatransport-19.0.0/AndroidManifest.xml:27:17-82
+	android:name
+		ADDED from [com.google.firebase:firebase-datatransport:19.0.0] /Users/muhammadbabar/.gradle/caches/8.12/transforms/66f71c2635b4169f5d74b19880db9110/transformed/jetified-firebase-datatransport-19.0.0/AndroidManifest.xml:26:17-115
+service#com.google.android.datatransport.runtime.backends.TransportBackendDiscovery
+ADDED from [com.google.android.datatransport:transport-backend-cct:3.3.0] /Users/muhammadbabar/.gradle/caches/8.12/transforms/69b81c61d31559929685d2b991222041/transformed/jetified-transport-backend-cct-3.3.0/AndroidManifest.xml:26:9-32:19
+MERGED from [com.google.android.datatransport:transport-runtime:3.3.0] /Users/muhammadbabar/.gradle/caches/8.12/transforms/4cc4dd6f9015a1494098b1d856aef30b/transformed/jetified-transport-runtime-3.3.0/AndroidManifest.xml:34:9-36:40
+MERGED from [com.google.android.datatransport:transport-runtime:3.3.0] /Users/muhammadbabar/.gradle/caches/8.12/transforms/4cc4dd6f9015a1494098b1d856aef30b/transformed/jetified-transport-runtime-3.3.0/AndroidManifest.xml:34:9-36:40
+	android:exported
+		ADDED from [com.google.android.datatransport:transport-backend-cct:3.3.0] /Users/muhammadbabar/.gradle/caches/8.12/transforms/69b81c61d31559929685d2b991222041/transformed/jetified-transport-backend-cct-3.3.0/AndroidManifest.xml:28:13-37
+	android:name
+		ADDED from [com.google.android.datatransport:transport-backend-cct:3.3.0] /Users/muhammadbabar/.gradle/caches/8.12/transforms/69b81c61d31559929685d2b991222041/transformed/jetified-transport-backend-cct-3.3.0/AndroidManifest.xml:27:13-103
+meta-data#backend:com.google.android.datatransport.cct.CctBackendFactory
+ADDED from [com.google.android.datatransport:transport-backend-cct:3.3.0] /Users/muhammadbabar/.gradle/caches/8.12/transforms/69b81c61d31559929685d2b991222041/transformed/jetified-transport-backend-cct-3.3.0/AndroidManifest.xml:29:13-31:39
+	android:value
+		ADDED from [com.google.android.datatransport:transport-backend-cct:3.3.0] /Users/muhammadbabar/.gradle/caches/8.12/transforms/69b81c61d31559929685d2b991222041/transformed/jetified-transport-backend-cct-3.3.0/AndroidManifest.xml:31:17-36
+	android:name
+		ADDED from [com.google.android.datatransport:transport-backend-cct:3.3.0] /Users/muhammadbabar/.gradle/caches/8.12/transforms/69b81c61d31559929685d2b991222041/transformed/jetified-transport-backend-cct-3.3.0/AndroidManifest.xml:30:17-94
+service#com.google.android.datatransport.runtime.scheduling.jobscheduling.JobInfoSchedulerService
+ADDED from [com.google.android.datatransport:transport-runtime:3.3.0] /Users/muhammadbabar/.gradle/caches/8.12/transforms/4cc4dd6f9015a1494098b1d856aef30b/transformed/jetified-transport-runtime-3.3.0/AndroidManifest.xml:24:9-28:19
+	android:exported
+		ADDED from [com.google.android.datatransport:transport-runtime:3.3.0] /Users/muhammadbabar/.gradle/caches/8.12/transforms/4cc4dd6f9015a1494098b1d856aef30b/transformed/jetified-transport-runtime-3.3.0/AndroidManifest.xml:26:13-37
+	android:permission
+		ADDED from [com.google.android.datatransport:transport-runtime:3.3.0] /Users/muhammadbabar/.gradle/caches/8.12/transforms/4cc4dd6f9015a1494098b1d856aef30b/transformed/jetified-transport-runtime-3.3.0/AndroidManifest.xml:27:13-69
+	android:name
+		ADDED from [com.google.android.datatransport:transport-runtime:3.3.0] /Users/muhammadbabar/.gradle/caches/8.12/transforms/4cc4dd6f9015a1494098b1d856aef30b/transformed/jetified-transport-runtime-3.3.0/AndroidManifest.xml:25:13-117
+receiver#com.google.android.datatransport.runtime.scheduling.jobscheduling.AlarmManagerSchedulerBroadcastReceiver
+ADDED from [com.google.android.datatransport:transport-runtime:3.3.0] /Users/muhammadbabar/.gradle/caches/8.12/transforms/4cc4dd6f9015a1494098b1d856aef30b/transformed/jetified-transport-runtime-3.3.0/AndroidManifest.xml:30:9-32:40
+	android:exported
+		ADDED from [com.google.android.datatransport:transport-runtime:3.3.0] /Users/muhammadbabar/.gradle/caches/8.12/transforms/4cc4dd6f9015a1494098b1d856aef30b/transformed/jetified-transport-runtime-3.3.0/AndroidManifest.xml:32:13-37
+	android:name
+		ADDED from [com.google.android.datatransport:transport-runtime:3.3.0] /Users/muhammadbabar/.gradle/caches/8.12/transforms/4cc4dd6f9015a1494098b1d856aef30b/transformed/jetified-transport-runtime-3.3.0/AndroidManifest.xml:31:13-132

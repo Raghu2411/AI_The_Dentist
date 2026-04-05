@@ -1,0 +1,4 @@
+#Sat Dec 06 23:08:26 GMT 2025
+base.0=/Users/muhammadbabar/essex-work/FYPLatest/mobile-app/essex_dental_cleaning/build/app/intermediates/dex/release/minifyReleaseWithR8/classes.dex
+path.0=classes.dex
+renamed.0=classes.dex

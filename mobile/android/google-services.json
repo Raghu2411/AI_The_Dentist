@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "932479859490",
+    "project_id": "ai-dental-studio",
+    "storage_bucket": "ai-dental-studio.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:932479859490:android:ed7dbaf9bfb9737eb6837b",
+        "android_client_info": {
+          "package_name": "com.ai.dental.studio"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBoGvpFdPr3U9aQ5enQAE9Dh_4vfAqGpcw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

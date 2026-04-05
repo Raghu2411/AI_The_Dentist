@@ -1,0 +1,35 @@
+name: kernel
+description: "Kernel"
+version: 0.0.1
+
+environment:
+  sdk: 3.9.2
+  flutter: 3.35.3
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+  # logger
+  logger:
+  firebase_crashlytics:
+
+  # di
+  get_it:
+  injectable:
+
+  # tools
+  freezed_annotation:
+
+dev_dependencies:
+  build_runner:
+  flutter_lints:
+
+  # tools
+  freezed:
+  injectable_generator:
+
+  # linter
+  analyzer:
+
+resolution: workspace

@@ -1,0 +1,9 @@
+// **************************************************************************
+// JsonSerializableGenerator
+// **************************************************************************
+
+ChatbotDto _$ChatbotDtoFromJson(Map<String, dynamic> json) =>
+    ChatbotDto(response: json['response'] as String?);
+
+Map<String, dynamic> _$ChatbotDtoToJson(ChatbotDto instance) =>
+    <String, dynamic>{'response': ?instance.response};

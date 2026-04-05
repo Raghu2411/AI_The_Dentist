@@ -1,0 +1,4 @@
+/Users/muhammadbabar/Library/Android/sdk/cmake/3.22.1/bin/ninja \
+  -C \
+  /Users/muhammadbabar/.pub-cache/hosted/pub.dev/pdfrx-2.2.8/android/.cxx/RelWithDebInfo/3s2j6o18/x86_64 \
+  pdfrx

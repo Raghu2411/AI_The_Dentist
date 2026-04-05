@@ -1,0 +1,26 @@
+<lint-module
+    format="1"
+    dir="/Users/muhammadbabar/.pub-cache/hosted/pub.dev/firebase_crashlytics-5.0.2/android"
+    name=":firebase_crashlytics"
+    type="LIBRARY"
+    maven="io.flutter.plugins.firebase.crashlytics:firebase_crashlytics:1.0-SNAPSHOT"
+    agpVersion="8.9.1"
+    buildFolder="/Users/muhammadbabar/essex-work/FYPLatest/mobile-app/essex_dental_cleaning/build/firebase_crashlytics"
+    bootClassPath="/Users/muhammadbabar/Library/Android/sdk/platforms/android-34/android.jar:/Users/muhammadbabar/Library/Android/sdk/build-tools/35.0.0/core-lambda-stubs.jar"
+    javaSourceLevel="17"
+    compileTarget="android-34"
+    neverShrinking="true">
+  <lintOptions
+      disable="InvalidPackage"
+      abortOnError="true"
+      absolutePaths="true"
+      checkReleaseBuilds="true"
+      explainIssues="true">
+    <severities>
+      <severity
+        id="InvalidPackage"
+        severity="IGNORE" />
+    </severities>
+  </lintOptions>
+  <variant name="release"/>
+</lint-module>

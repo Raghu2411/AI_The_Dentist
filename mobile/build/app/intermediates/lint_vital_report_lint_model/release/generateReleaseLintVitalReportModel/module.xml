@@ -1,0 +1,18 @@
+<lint-module
+    format="1"
+    dir="/Users/muhammadbabar/essex-work/FYPLatest/mobile-app/essex_dental_cleaning/android/app"
+    name=":app"
+    type="APP"
+    maven="android:app:unspecified"
+    agpVersion="8.9.1"
+    buildFolder="/Users/muhammadbabar/essex-work/FYPLatest/mobile-app/essex_dental_cleaning/build/app"
+    bootClassPath="/Users/muhammadbabar/Library/Android/sdk/platforms/android-36/android.jar:/Users/muhammadbabar/Library/Android/sdk/build-tools/35.0.0/core-lambda-stubs.jar"
+    javaSourceLevel="11"
+    compileTarget="android-36">
+  <lintOptions
+      abortOnError="true"
+      absolutePaths="true"
+      checkReleaseBuilds="true"
+      explainIssues="true"/>
+  <variant name="release"/>
+</lint-module>

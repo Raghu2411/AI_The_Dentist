@@ -1,0 +1,26 @@
+<lint-module
+    format="1"
+    dir="/Users/muhammadbabar/.pub-cache/hosted/pub.dev/share_plus-12.0.1/android"
+    name=":share_plus"
+    type="LIBRARY"
+    maven="dev.fluttercommunity.plus.share:share_plus:1.0-SNAPSHOT"
+    agpVersion="8.9.1"
+    buildFolder="/Users/muhammadbabar/essex-work/FYPLatest/mobile-app/essex_dental_cleaning/build/share_plus"
+    bootClassPath="/Users/muhammadbabar/Library/Android/sdk/platforms/android-36/android.jar:/Users/muhammadbabar/Library/Android/sdk/build-tools/35.0.0/core-lambda-stubs.jar"
+    javaSourceLevel="17"
+    compileTarget="android-36"
+    neverShrinking="true">
+  <lintOptions
+      disable="InvalidPackage"
+      abortOnError="true"
+      absolutePaths="true"
+      checkReleaseBuilds="true"
+      explainIssues="true">
+    <severities>
+      <severity
+        id="InvalidPackage"
+        severity="IGNORE" />
+    </severities>
+  </lintOptions>
+  <variant name="release"/>
+</lint-module>

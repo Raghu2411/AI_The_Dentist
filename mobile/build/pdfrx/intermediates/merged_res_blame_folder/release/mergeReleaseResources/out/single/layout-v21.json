@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "jp.espresso3389.pdfrx-release-25:/layout-v21/notification_action.xml",
+        "source": "jp.espresso3389.pdfrx-core-1.13.1-18:/layout-v21/notification_action.xml"
+    },
+    {
+        "merged": "jp.espresso3389.pdfrx-release-25:/layout-v21/notification_action_tombstone.xml",
+        "source": "jp.espresso3389.pdfrx-core-1.13.1-18:/layout-v21/notification_action_tombstone.xml"
+    },
+    {
+        "merged": "jp.espresso3389.pdfrx-release-25:/layout-v21/notification_template_icon_group.xml",
+        "source": "jp.espresso3389.pdfrx-core-1.13.1-18:/layout-v21/notification_template_icon_group.xml"
+    },
+    {
+        "merged": "jp.espresso3389.pdfrx-release-25:/layout-v21/notification_template_custom_big.xml",
+        "source": "jp.espresso3389.pdfrx-core-1.13.1-18:/layout-v21/notification_template_custom_big.xml"
+    }
+]
