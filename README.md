@@ -189,6 +189,14 @@ If you use this work or codebase in your research, please cite the dissertation:
   year = {2026},
   type = {Master Thesis}
 }
+
+@thesis{aiDentist2025,
+  author = {Muhammad Babar},
+  title = {AI The Dentist: Multimodal Dental Diagnostics: Comparative Detection Modeling and LLM-Powered Report Generation with Interactive RAG Assistance},
+  school = {University of Essex},
+  year = {2026},
+  type = {Master Thesis}
+}
 ```
 
-Created by Tun Ye Minn | Supervisor: Dr Haider Raza
+Created by Tun Ye Minn | Muhammad Babar | Supervisor: Dr Haider Raza
