@@ -1,0 +1,1051 @@
+**** GRID ENGINE GPU ASSIGNMENT: your job has been assigned GPU device(s): 0
+Using device: cuda
+GPU: NVIDIA GeForce GTX 1080 Ti
+GPU Memory: 10.90 GB
+
+================================================================================
+UNIFIED DENTAL MODEL TRAINING PIPELINE
+Classification: Vision Transformer, ResNet50
+Object Detection: YOLOv8, YOLOv10, RetinaNet
+================================================================================
+
+Classes (41): ['11', '12', '13', '14', '15', '16', '17', '18', '21', '22', '23', '24', '25', '26', '27', '28', '31', '32', '33', '34', '35', '36', '37', '38', '41', '42', '43', '44', '45', '46', '47', '48', 'calculus', 'caries', 'crown', 'impacted', 'implant', 'periapical radiolucency', 'rc-treated', 'restoration', 'root-stump']
+
+
+================================================================================
+MODEL: VISION_TRANSFORMER
+================================================================================
+
+
+--- Training Classification Model: vision_transformer ---
+
+================================================================================
+CLASS IMBALANCE ANALYSIS
+================================================================================
+Total images: 1839
+Weight calculation: Dynamic (based on class distribution)
+
+Per-class statistics:
+Class                               Count    Frequency   Pos_Weight
+--------------------------------------------------------------------------------
+11                                   1435       78.03%         1.00
+12                                   1429       77.71%         1.00
+13                                   1457       79.23%         1.00
+14                                   1310       71.23%         1.00
+15                                   1320       71.78%         1.00
+16                                   1193       64.87%         1.00
+17                                   1309       71.18%         1.00
+18                                    719       39.10%         1.56
+21                                   1438       78.19%         1.00
+22                                   1428       77.65%         1.00
+23                                   1428       77.65%         1.00
+24                                   1312       71.34%         1.00
+25                                   1301       70.74%         1.00
+26                                   1184       64.38%         1.00
+27                                   1300       70.69%         1.00
+28                                    683       37.14%         1.69
+31                                   1429       77.71%         1.00
+32                                   1451       78.90%         1.00
+33                                   1480       80.48%         1.00
+34                                   1412       76.78%         1.00
+35                                   1355       73.68%         1.00
+36                                   1064       57.86%         1.00
+37                                   1221       66.39%         1.00
+38                                    629       34.20%         1.92
+41                                   1440       78.30%         1.00
+42                                   1470       79.93%         1.00
+43                                   1493       81.19%         1.00
+44                                   1397       75.97%         1.00
+45                                   1336       72.65%         1.00
+46                                   1070       58.18%         1.00
+47                                   1237       67.26%         1.00
+48                                    635       34.53%         1.90
+calculus                             2406      130.83%         1.00
+caries                               4310      234.37%         1.00
+crown                                1282       69.71%         1.00
+impacted                             1648       89.61%         1.00
+implant                               250       13.59%         6.36
+periapical radiolucency              1221       66.39%         1.00
+rc-treated                           1961      106.63%         1.00
+restoration                          1911      103.92%         1.00
+root-stump                           1009       54.87%         1.00
+--------------------------------------------------------------------------------
+Mean pos_weight: 1.21
+Median pos_weight: 1.00
+Min pos_weight: 1.00
+Max pos_weight: 6.36
+================================================================================
+
+Pos Weights: [          1           1           1           1           1           1           1      1.5577           1           1           1           1           1           1           1      1.6925           1           1           1           1           1           1           1      1.9237           1           1
+           1           1           1           1           1      1.8961           1           1           1           1       6.356           1           1           1           1]
+
+
+--- Starting Training ---
+
+--- Epoch 1/20 ---
+Epoch 1/20, Train Loss: 0.4970, Val Loss: 0.6141, Train F1: 0.8093, Val F1: 0.7733
+✅ Model saved: /home/mb24134/Dissertation/training_outputs/classification_vision_transformer/best_model_vision_transformer.pth
+✅ New best F1: 0.7733
+
+--- Epoch 2/20 ---
+Epoch 2/20, Train Loss: 0.4638, Val Loss: 0.4349, Train F1: 0.8181, Val F1: 0.8237
+✅ Model saved: /home/mb24134/Dissertation/training_outputs/classification_vision_transformer/best_model_vision_transformer.pth
+✅ New best F1: 0.8237
+
+--- Epoch 3/20 ---
+Epoch 3/20, Train Loss: 0.4279, Val Loss: 0.4492, Train F1: 0.8339, Val F1: 0.8248
+✅ Model saved: /home/mb24134/Dissertation/training_outputs/classification_vision_transformer/best_model_vision_transformer.pth
+✅ New best F1: 0.8248
+
+--- Epoch 4/20 ---
+Epoch 4/20, Train Loss: 0.4186, Val Loss: 0.4228, Train F1: 0.8382, Val F1: 0.8329
+✅ Model saved: /home/mb24134/Dissertation/training_outputs/classification_vision_transformer/best_model_vision_transformer.pth
+✅ New best F1: 0.8329
+
+--- Epoch 5/20 ---
+Epoch 5/20, Train Loss: 0.4433, Val Loss: 0.4297, Train F1: 0.8255, Val F1: 0.8152
+
+--- Epoch 6/20 ---
+Epoch 6/20, Train Loss: 0.4325, Val Loss: 0.4101, Train F1: 0.8268, Val F1: 0.8293
+
+--- Epoch 7/20 ---
+Epoch 7/20, Train Loss: 0.4115, Val Loss: 0.4205, Train F1: 0.8417, Val F1: 0.8348
+✅ Model saved: /home/mb24134/Dissertation/training_outputs/classification_vision_transformer/best_model_vision_transformer.pth
+✅ New best F1: 0.8348
+
+--- Epoch 8/20 ---
+Epoch 8/20, Train Loss: 0.4116, Val Loss: 0.4139, Train F1: 0.8422, Val F1: 0.8373
+✅ Model saved: /home/mb24134/Dissertation/training_outputs/classification_vision_transformer/best_model_vision_transformer.pth
+✅ New best F1: 0.8373
+
+--- Epoch 9/20 ---
+Epoch 9/20, Train Loss: 0.4080, Val Loss: 0.4067, Train F1: 0.8459, Val F1: 0.8422
+✅ Model saved: /home/mb24134/Dissertation/training_outputs/classification_vision_transformer/best_model_vision_transformer.pth
+✅ New best F1: 0.8422
+
+--- Epoch 10/20 ---
+Epoch 10/20, Train Loss: 0.4008, Val Loss: 0.4130, Train F1: 0.8492, Val F1: 0.8415
+
+--- Epoch 11/20 ---
+Epoch 11/20, Train Loss: 0.3934, Val Loss: 0.4127, Train F1: 0.8535, Val F1: 0.8404
+
+--- Epoch 12/20 ---
+Epoch 12/20, Train Loss: 0.3910, Val Loss: 0.4059, Train F1: 0.8559, Val F1: 0.8456
+✅ Model saved: /home/mb24134/Dissertation/training_outputs/classification_vision_transformer/best_model_vision_transformer.pth
+✅ New best F1: 0.8456
+
+--- Epoch 13/20 ---
+Epoch 13/20, Train Loss: 0.3854, Val Loss: 0.3992, Train F1: 0.8587, Val F1: 0.8493
+✅ Model saved: /home/mb24134/Dissertation/training_outputs/classification_vision_transformer/best_model_vision_transformer.pth
+✅ New best F1: 0.8493
+
+--- Epoch 14/20 ---
+Epoch 14/20, Train Loss: 0.3802, Val Loss: 0.3935, Train F1: 0.8620, Val F1: 0.8520
+✅ Model saved: /home/mb24134/Dissertation/training_outputs/classification_vision_transformer/best_model_vision_transformer.pth
+✅ New best F1: 0.8520
+
+--- Epoch 15/20 ---
+Epoch 15/20, Train Loss: 0.3810, Val Loss: 0.4058, Train F1: 0.8606, Val F1: 0.8520
+✅ Model saved: /home/mb24134/Dissertation/training_outputs/classification_vision_transformer/best_model_vision_transformer.pth
+✅ New best F1: 0.8520
+
+--- Epoch 16/20 ---
+Epoch 16/20, Train Loss: 0.3759, Val Loss: 0.3978, Train F1: 0.8634, Val F1: 0.8519
+
+--- Epoch 17/20 ---
+Epoch 17/20, Train Loss: 0.3716, Val Loss: 0.4161, Train F1: 0.8641, Val F1: 0.8435
+
+--- Epoch 18/20 ---
+Epoch 18/20, Train Loss: 0.3726, Val Loss: 0.3961, Train F1: 0.8649, Val F1: 0.8483
+
+--- Epoch 19/20 ---
+Epoch 19/20, Train Loss: 0.3761, Val Loss: 0.4071, Train F1: 0.8617, Val F1: 0.8538
+✅ Model saved: /home/mb24134/Dissertation/training_outputs/classification_vision_transformer/best_model_vision_transformer.pth
+✅ New best F1: 0.8538
+
+--- Epoch 20/20 ---
+Epoch 20/20, Train Loss: 0.3607, Val Loss: 0.3947, Train F1: 0.8704, Val F1: 0.8600
+✅ Model saved: /home/mb24134/Dissertation/training_outputs/classification_vision_transformer/best_model_vision_transformer.pth
+✅ New best F1: 0.8600
+📊 Saved learning curves to: /home/mb24134/Dissertation/training_outputs/classification_vision_transformer
+✅ Model loaded: /home/mb24134/Dissertation/training_outputs/classification_vision_transformer/best_model_vision_transformer.pth
+
+--- Evaluating on Test Set ---
+
+============================================================
+=== OVERALL METRICS (ALL CLASSES) ===
+============================================================
+Loss: 0.3781
+Subset Accuracy: 0.0106
+Accuracy (Macro): 0.8205
+Precision (Macro): 0.7771
+Recall (Macro): 0.8543
+F1 (Macro): 0.8007
+Precision (Weighted): 0.8365
+Recall (Weighted): 0.9117
+F1 (Weighted): 0.8664
+ROC-AUC (Macro): 0.7419
+
+============================================================
+=== PRESERVED CLASSES METRICS ===
+============================================================
+Subset Accuracy: 0.0686
+Accuracy (Macro): 0.7083
+Precision (Macro): 0.5580
+Recall (Macro): 0.4768
+F1 (Macro): 0.4832
+Precision (Weighted): 0.6165
+Recall (Weighted): 0.5167
+F1 (Weighted): 0.5471
+ROC-AUC (Macro): 0.6188
+
+============================================================
+=== PER-CLASS METRICS ===
+============================================================
+
+11:
+  precision: 0.9219
+  recall: 0.9903
+  f1: 0.9549
+  accuracy: 0.9235
+  roc_auc: 0.8068
+  support: 310
+
+12:
+  precision: 0.9134
+  recall: 0.9903
+  f1: 0.9503
+  accuracy: 0.9156
+  roc_auc: 0.7880
+  support: 309
+
+13:
+  precision: 0.9429
+  recall: 0.9968
+  f1: 0.9691
+  accuracy: 0.9472
+  roc_auc: 0.8500
+  support: 315
+
+14:
+  precision: 0.8323
+  recall: 0.9785
+  f1: 0.8995
+  accuracy: 0.8391
+  roc_auc: 0.7142
+  support: 279
+
+15:
+  precision: 0.8712
+  recall: 0.9895
+  f1: 0.9266
+  accuracy: 0.8813
+  roc_auc: 0.7665
+  support: 287
+
+16:
+  precision: 0.8224
+  recall: 0.9615
+  f1: 0.8865
+  accuracy: 0.8311
+  roc_auc: 0.7539
+  support: 260
+
+17:
+  precision: 0.8615
+  recall: 0.9964
+  f1: 0.9241
+  accuracy: 0.8786
+  roc_auc: 0.7686
+  support: 281
+
+18:
+  precision: 0.5125
+  recall: 0.8834
+  f1: 0.6486
+  accuracy: 0.5884
+  roc_auc: 0.6246
+  support: 163
+
+21:
+  precision: 0.9157
+  recall: 0.9870
+  f1: 0.9500
+  accuracy: 0.9156
+  roc_auc: 0.7963
+  support: 308
+
+22:
+  precision: 0.9124
+  recall: 0.9869
+  f1: 0.9482
+  accuracy: 0.9129
+  roc_auc: 0.7948
+  support: 306
+
+23:
+  precision: 0.9544
+  recall: 0.9843
+  f1: 0.9691
+  accuracy: 0.9472
+  roc_auc: 0.8672
+  support: 319
+
+24:
+  precision: 0.8858
+  recall: 0.9863
+  f1: 0.9333
+  accuracy: 0.8918
+  roc_auc: 0.7829
+  support: 291
+
+25:
+  precision: 0.8580
+  recall: 0.9754
+  f1: 0.9130
+  accuracy: 0.8602
+  roc_auc: 0.7430
+  support: 285
+
+26:
+  precision: 0.8322
+  recall: 0.9205
+  f1: 0.8741
+  accuracy: 0.8153
+  roc_auc: 0.7472
+  support: 264
+
+27:
+  precision: 0.8789
+  recall: 0.9792
+  f1: 0.9264
+  accuracy: 0.8813
+  roc_auc: 0.7730
+  support: 289
+
+28:
+  precision: 0.4699
+  recall: 0.8621
+  f1: 0.6083
+  accuracy: 0.5752
+  roc_auc: 0.6298
+  support: 145
+
+31:
+  precision: 0.9367
+  recall: 0.9936
+  f1: 0.9643
+  accuracy: 0.9393
+  roc_auc: 0.8377
+  support: 313
+
+32:
+  precision: 0.9551
+  recall: 0.9969
+  f1: 0.9755
+  accuracy: 0.9578
+  roc_auc: 0.8713
+  support: 320
+
+33:
+  precision: 0.9734
+  recall: 1.0000
+  f1: 0.9865
+  accuracy: 0.9763
+  roc_auc: 0.9100
+  support: 329
+
+34:
+  precision: 0.9313
+  recall: 0.9968
+  f1: 0.9630
+  accuracy: 0.9367
+  roc_auc: 0.8242
+  support: 313
+
+35:
+  precision: 0.9088
+  recall: 0.9868
+  f1: 0.9462
+  accuracy: 0.9103
+  roc_auc: 0.7960
+  support: 303
+
+36:
+  precision: 0.7530
+  recall: 0.8571
+  f1: 0.8017
+  accuracy: 0.7573
+  roc_auc: 0.7403
+  support: 217
+
+37:
+  precision: 0.8292
+  recall: 0.9031
+  f1: 0.8646
+  accuracy: 0.8074
+  roc_auc: 0.7532
+  support: 258
+
+38:
+  precision: 0.4242
+  recall: 0.9065
+  f1: 0.5780
+  accuracy: 0.5145
+  roc_auc: 0.5970
+  support: 139
+
+41:
+  precision: 0.9401
+  recall: 1.0000
+  f1: 0.9691
+  accuracy: 0.9472
+  roc_auc: 0.8462
+  support: 314
+
+42:
+  precision: 0.9315
+  recall: 0.9968
+  f1: 0.9631
+  accuracy: 0.9367
+  roc_auc: 0.8215
+  support: 314
+
+43:
+  precision: 0.9645
+  recall: 1.0000
+  f1: 0.9819
+  accuracy: 0.9683
+  roc_auc: 0.8868
+  support: 326
+
+44:
+  precision: 0.9339
+  recall: 0.9936
+  f1: 0.9628
+  accuracy: 0.9367
+  roc_auc: 0.8301
+  support: 313
+
+45:
+  precision: 0.8851
+  recall: 0.9727
+  f1: 0.9268
+  accuracy: 0.8813
+  roc_auc: 0.7712
+  support: 293
+
+46:
+  precision: 0.7946
+  recall: 0.9152
+  f1: 0.8506
+  accuracy: 0.8100
+  roc_auc: 0.7866
+  support: 224
+
+47:
+  precision: 0.8459
+  recall: 0.9251
+  f1: 0.8837
+  accuracy: 0.8285
+  roc_auc: 0.7617
+  support: 267
+
+48:
+  precision: 0.4462
+  recall: 0.8227
+  f1: 0.5786
+  accuracy: 0.5541
+  roc_auc: 0.6088
+  support: 141
+
+calculus:
+  precision: 0.5200
+  recall: 0.3562
+  f1: 0.4228
+  accuracy: 0.6253
+  roc_auc: 0.5751
+  support: 146
+
+caries:
+  precision: 0.8247
+  recall: 0.9410
+  f1: 0.8790
+  accuracy: 0.7916
+  roc_auc: 0.5583
+  support: 305
+
+crown:
+  precision: 0.4423
+  recall: 0.2110
+  f1: 0.2857
+  accuracy: 0.6966
+  roc_auc: 0.5518
+  support: 109
+
+impacted:
+  precision: 0.5789
+  recall: 0.4611
+  f1: 0.5133
+  accuracy: 0.6148
+  roc_auc: 0.5985
+  support: 167
+
+implant:
+  precision: 0.3333
+  recall: 0.8182
+  f1: 0.4737
+  accuracy: 0.9472
+  roc_auc: 0.8846
+  support: 11
+
+periapical radiolucency:
+  precision: 0.5824
+  recall: 0.3985
+  f1: 0.4732
+  accuracy: 0.6887
+  roc_auc: 0.6220
+  support: 133
+
+rc-treated:
+  precision: 0.5227
+  recall: 0.4539
+  f1: 0.4859
+  accuracy: 0.6148
+  roc_auc: 0.5882
+  support: 152
+
+restoration:
+  precision: 0.6048
+  recall: 0.4573
+  f1: 0.5208
+  accuracy: 0.6359
+  roc_auc: 0.6147
+  support: 164
+
+root-stump:
+  precision: 0.6129
+  recall: 0.1939
+  f1: 0.2946
+  accuracy: 0.7599
+  roc_auc: 0.5756
+  support: 98
+
+================================================================================
+MODEL: RESNET50
+================================================================================
+
+
+--- Training Classification Model: resnet50 ---
+
+================================================================================
+CLASS IMBALANCE ANALYSIS
+================================================================================
+Total images: 1839
+Weight calculation: Dynamic (based on class distribution)
+
+Per-class statistics:
+Class                               Count    Frequency   Pos_Weight
+--------------------------------------------------------------------------------
+11                                   1435       78.03%         1.00
+12                                   1429       77.71%         1.00
+13                                   1457       79.23%         1.00
+14                                   1310       71.23%         1.00
+15                                   1320       71.78%         1.00
+16                                   1193       64.87%         1.00
+17                                   1309       71.18%         1.00
+18                                    719       39.10%         1.56
+21                                   1438       78.19%         1.00
+22                                   1428       77.65%         1.00
+23                                   1428       77.65%         1.00
+24                                   1312       71.34%         1.00
+25                                   1301       70.74%         1.00
+26                                   1184       64.38%         1.00
+27                                   1300       70.69%         1.00
+28                                    683       37.14%         1.69
+31                                   1429       77.71%         1.00
+32                                   1451       78.90%         1.00
+33                                   1480       80.48%         1.00
+34                                   1412       76.78%         1.00
+35                                   1355       73.68%         1.00
+36                                   1064       57.86%         1.00
+37                                   1221       66.39%         1.00
+38                                    629       34.20%         1.92
+41                                   1440       78.30%         1.00
+42                                   1470       79.93%         1.00
+43                                   1493       81.19%         1.00
+44                                   1397       75.97%         1.00
+45                                   1336       72.65%         1.00
+46                                   1070       58.18%         1.00
+47                                   1237       67.26%         1.00
+48                                    635       34.53%         1.90
+calculus                             2406      130.83%         1.00
+caries                               4310      234.37%         1.00
+crown                                1282       69.71%         1.00
+impacted                             1648       89.61%         1.00
+implant                               250       13.59%         6.36
+periapical radiolucency              1221       66.39%         1.00
+rc-treated                           1961      106.63%         1.00
+restoration                          1911      103.92%         1.00
+root-stump                           1009       54.87%         1.00
+--------------------------------------------------------------------------------
+Mean pos_weight: 1.21
+Median pos_weight: 1.00
+Min pos_weight: 1.00
+Max pos_weight: 6.36
+================================================================================
+
+Pos Weights: [          1           1           1           1           1           1           1      1.5577           1           1           1           1           1           1           1      1.6925           1           1           1           1           1           1           1      1.9237           1           1
+           1           1           1           1           1      1.8961           1           1           1           1       6.356           1           1           1           1]
+
+
+--- Starting Training ---
+
+--- Epoch 1/20 ---
+Epoch 1/20, Train Loss: 0.4747, Val Loss: 0.3675, Train F1: 0.8096, Val F1: 0.8691
+✅ Model saved: /home/mb24134/Dissertation/training_outputs/classification_resnet50/best_model_resnet50.pth
+✅ New best F1: 0.8691
+
+--- Epoch 2/20 ---
+Epoch 2/20, Train Loss: 0.3767, Val Loss: 0.3855, Train F1: 0.8632, Val F1: 0.8697
+✅ Model saved: /home/mb24134/Dissertation/training_outputs/classification_resnet50/best_model_resnet50.pth
+✅ New best F1: 0.8697
+
+--- Epoch 3/20 ---
+Epoch 3/20, Train Loss: 0.3457, Val Loss: 0.4294, Train F1: 0.8784, Val F1: 0.8464
+
+--- Epoch 4/20 ---
+Epoch 4/20, Train Loss: 0.3167, Val Loss: 0.3601, Train F1: 0.8889, Val F1: 0.8851
+✅ Model saved: /home/mb24134/Dissertation/training_outputs/classification_resnet50/best_model_resnet50.pth
+✅ New best F1: 0.8851
+
+--- Epoch 5/20 ---
+Epoch 5/20, Train Loss: 0.2776, Val Loss: 0.3297, Train F1: 0.9016, Val F1: 0.8882
+✅ Model saved: /home/mb24134/Dissertation/training_outputs/classification_resnet50/best_model_resnet50.pth
+✅ New best F1: 0.8882
+
+--- Epoch 6/20 ---
+Epoch 6/20, Train Loss: 0.2541, Val Loss: 0.3269, Train F1: 0.9111, Val F1: 0.8925
+✅ Model saved: /home/mb24134/Dissertation/training_outputs/classification_resnet50/best_model_resnet50.pth
+✅ New best F1: 0.8925
+
+--- Epoch 7/20 ---
+Epoch 7/20, Train Loss: 0.2259, Val Loss: 0.3338, Train F1: 0.9213, Val F1: 0.8988
+✅ Model saved: /home/mb24134/Dissertation/training_outputs/classification_resnet50/best_model_resnet50.pth
+✅ New best F1: 0.8988
+
+--- Epoch 8/20 ---
+Epoch 8/20, Train Loss: 0.2020, Val Loss: 0.3347, Train F1: 0.9305, Val F1: 0.8910
+
+--- Epoch 9/20 ---
+Epoch 9/20, Train Loss: 0.1844, Val Loss: 0.3375, Train F1: 0.9378, Val F1: 0.8982
+
+--- Epoch 10/20 ---
+Epoch 10/20, Train Loss: 0.1631, Val Loss: 0.3444, Train F1: 0.9463, Val F1: 0.8989
+✅ Model saved: /home/mb24134/Dissertation/training_outputs/classification_resnet50/best_model_resnet50.pth
+✅ New best F1: 0.8989
+
+--- Epoch 11/20 ---
+Epoch 11/20, Train Loss: 0.1450, Val Loss: 0.3265, Train F1: 0.9539, Val F1: 0.8995
+✅ Model saved: /home/mb24134/Dissertation/training_outputs/classification_resnet50/best_model_resnet50.pth
+✅ New best F1: 0.8995
+
+--- Epoch 12/20 ---
+Epoch 12/20, Train Loss: 0.1231, Val Loss: 0.4356, Train F1: 0.9620, Val F1: 0.8968
+
+--- Epoch 13/20 ---
+Epoch 13/20, Train Loss: 0.1053, Val Loss: 0.3281, Train F1: 0.9687, Val F1: 0.9018
+✅ Model saved: /home/mb24134/Dissertation/training_outputs/classification_resnet50/best_model_resnet50.pth
+✅ New best F1: 0.9018
+
+--- Epoch 14/20 ---
+Epoch 14/20, Train Loss: 0.0882, Val Loss: 0.3606, Train F1: 0.9752, Val F1: 0.9024
+✅ Model saved: /home/mb24134/Dissertation/training_outputs/classification_resnet50/best_model_resnet50.pth
+✅ New best F1: 0.9024
+
+--- Epoch 15/20 ---
+Epoch 15/20, Train Loss: 0.0736, Val Loss: 0.4167, Train F1: 0.9803, Val F1: 0.8979
+
+--- Epoch 16/20 ---
+Epoch 16/20, Train Loss: 0.0617, Val Loss: 0.4030, Train F1: 0.9840, Val F1: 0.9043
+✅ Model saved: /home/mb24134/Dissertation/training_outputs/classification_resnet50/best_model_resnet50.pth
+✅ New best F1: 0.9043
+
+--- Epoch 17/20 ---
+Epoch 17/20, Train Loss: 0.0616, Val Loss: 0.4261, Train F1: 0.9847, Val F1: 0.9008
+
+--- Epoch 18/20 ---
+Epoch 18/20, Train Loss: 0.0405, Val Loss: 0.4372, Train F1: 0.9914, Val F1: 0.9014
+
+--- Epoch 19/20 ---
+Epoch 19/20, Train Loss: 0.0333, Val Loss: 0.4297, Train F1: 0.9932, Val F1: 0.9041
+
+--- Epoch 20/20 ---
+Epoch 20/20, Train Loss: 0.0298, Val Loss: 0.4502, Train F1: 0.9942, Val F1: 0.9021
+📊 Saved learning curves to: /home/mb24134/Dissertation/training_outputs/classification_resnet50
+✅ Model loaded: /home/mb24134/Dissertation/training_outputs/classification_resnet50/best_model_resnet50.pth
+
+--- Evaluating on Test Set ---
+
+============================================================
+=== OVERALL METRICS (ALL CLASSES) ===
+============================================================
+Loss: 0.3722
+Subset Accuracy: 0.0475
+Accuracy (Macro): 0.8813
+Precision (Macro): 0.8750
+Recall (Macro): 0.8876
+F1 (Macro): 0.8766
+Precision (Weighted): 0.9035
+Recall (Weighted): 0.9198
+F1 (Weighted): 0.9087
+ROC-AUC (Macro): 0.8394
+
+============================================================
+=== PRESERVED CLASSES METRICS ===
+============================================================
+Subset Accuracy: 0.1398
+Accuracy (Macro): 0.7968
+Precision (Macro): 0.7673
+Recall (Macro): 0.6880
+F1 (Macro): 0.7146
+Precision (Weighted): 0.7611
+Recall (Weighted): 0.6809
+F1 (Weighted): 0.7072
+ROC-AUC (Macro): 0.7459
+
+============================================================
+=== PER-CLASS METRICS ===
+============================================================
+
+11:
+  precision: 0.9586
+  recall: 0.9710
+  f1: 0.9647
+  accuracy: 0.9420
+  roc_auc: 0.8913
+  support: 310
+
+12:
+  precision: 0.9558
+  recall: 0.9806
+  f1: 0.9681
+  accuracy: 0.9472
+  roc_auc: 0.8903
+  support: 309
+
+13:
+  precision: 0.9623
+  recall: 0.9714
+  f1: 0.9668
+  accuracy: 0.9446
+  roc_auc: 0.8920
+  support: 315
+
+14:
+  precision: 0.8810
+  recall: 0.9283
+  f1: 0.9040
+  accuracy: 0.8549
+  roc_auc: 0.7892
+  support: 279
+
+15:
+  precision: 0.9444
+  recall: 0.9477
+  f1: 0.9461
+  accuracy: 0.9182
+  roc_auc: 0.8869
+  support: 287
+
+16:
+  precision: 0.8780
+  recall: 0.9692
+  f1: 0.9214
+  accuracy: 0.8865
+  roc_auc: 0.8376
+  support: 260
+
+17:
+  precision: 0.8967
+  recall: 0.9573
+  f1: 0.9260
+  accuracy: 0.8865
+  roc_auc: 0.8205
+  support: 281
+
+18:
+  precision: 0.6512
+  recall: 0.8589
+  f1: 0.7407
+  accuracy: 0.7414
+  roc_auc: 0.7558
+  support: 163
+
+21:
+  precision: 0.9589
+  recall: 0.9838
+  f1: 0.9712
+  accuracy: 0.9525
+  roc_auc: 0.9003
+  support: 308
+
+22:
+  precision: 0.9551
+  recall: 0.9739
+  f1: 0.9644
+  accuracy: 0.9420
+  roc_auc: 0.8910
+  support: 306
+
+23:
+  precision: 0.9685
+  recall: 0.9624
+  f1: 0.9654
+  accuracy: 0.9420
+  roc_auc: 0.8979
+  support: 319
+
+24:
+  precision: 0.9251
+  recall: 0.9759
+  f1: 0.9498
+  accuracy: 0.9208
+  roc_auc: 0.8573
+  support: 291
+
+25:
+  precision: 0.8871
+  recall: 0.9649
+  f1: 0.9244
+  accuracy: 0.8813
+  roc_auc: 0.7963
+  support: 285
+
+26:
+  precision: 0.9455
+  recall: 0.9205
+  f1: 0.9328
+  accuracy: 0.9077
+  roc_auc: 0.8994
+  support: 264
+
+27:
+  precision: 0.9264
+  recall: 0.9585
+  f1: 0.9422
+  accuracy: 0.9103
+  roc_auc: 0.8570
+  support: 289
+
+28:
+  precision: 0.5508
+  recall: 0.8966
+  f1: 0.6824
+  accuracy: 0.6807
+  roc_auc: 0.7218
+  support: 145
+
+31:
+  precision: 0.9571
+  recall: 0.9968
+  f1: 0.9765
+  accuracy: 0.9604
+  roc_auc: 0.8923
+  support: 313
+
+32:
+  precision: 0.9753
+  recall: 0.9875
+  f1: 0.9814
+  accuracy: 0.9683
+  roc_auc: 0.9260
+  support: 320
+
+33:
+  precision: 0.9820
+  recall: 0.9939
+  f1: 0.9879
+  accuracy: 0.9789
+  roc_auc: 0.9370
+  support: 329
+
+34:
+  precision: 0.9652
+  recall: 0.9744
+  f1: 0.9698
+  accuracy: 0.9499
+  roc_auc: 0.9039
+  support: 313
+
+35:
+  precision: 0.9505
+  recall: 0.9505
+  f1: 0.9505
+  accuracy: 0.9208
+  roc_auc: 0.8766
+  support: 303
+
+36:
+  precision: 0.9671
+  recall: 0.9493
+  f1: 0.9581
+  accuracy: 0.9525
+  roc_auc: 0.9530
+  support: 217
+
+37:
+  precision: 0.8832
+  recall: 0.9380
+  f1: 0.9098
+  accuracy: 0.8734
+  roc_auc: 0.8368
+  support: 258
+
+38:
+  precision: 0.5886
+  recall: 0.7410
+  f1: 0.6561
+  accuracy: 0.7150
+  roc_auc: 0.7205
+  support: 139
+
+41:
+  precision: 0.9630
+  recall: 0.9936
+  f1: 0.9781
+  accuracy: 0.9631
+  roc_auc: 0.9045
+  support: 314
+
+42:
+  precision: 0.9480
+  recall: 0.9873
+  f1: 0.9672
+  accuracy: 0.9446
+  roc_auc: 0.8629
+  support: 314
+
+43:
+  precision: 0.9760
+  recall: 0.9969
+  f1: 0.9863
+  accuracy: 0.9763
+  roc_auc: 0.9230
+  support: 326
+
+44:
+  precision: 0.9516
+  recall: 0.9425
+  f1: 0.9470
+  accuracy: 0.9129
+  roc_auc: 0.8576
+  support: 313
+
+45:
+  precision: 0.9498
+  recall: 0.9693
+  f1: 0.9595
+  accuracy: 0.9367
+  roc_auc: 0.8974
+  support: 293
+
+46:
+  precision: 0.9764
+  recall: 0.9241
+  f1: 0.9495
+  accuracy: 0.9420
+  roc_auc: 0.9459
+  support: 224
+
+47:
+  precision: 0.9423
+  recall: 0.9176
+  f1: 0.9298
+  accuracy: 0.9024
+  roc_auc: 0.8918
+  support: 267
+
+48:
+  precision: 0.7481
+  recall: 0.7163
+  f1: 0.7319
+  accuracy: 0.8047
+  roc_auc: 0.7867
+  support: 141
+
+calculus:
+  precision: 0.6944
+  recall: 0.3425
+  f1: 0.4587
+  accuracy: 0.6887
+  roc_auc: 0.6240
+  support: 146
+
+caries:
+  precision: 0.8160
+  recall: 0.8721
+  f1: 0.8431
+  accuracy: 0.7388
+  roc_auc: 0.5307
+  support: 305
+
+crown:
+  precision: 0.8922
+  recall: 0.8349
+  f1: 0.8626
+  accuracy: 0.9235
+  roc_auc: 0.8971
+  support: 109
+
+impacted:
+  precision: 0.5942
+  recall: 0.7365
+  f1: 0.6578
+  accuracy: 0.6623
+  roc_auc: 0.6702
+  support: 167
+
+implant:
+  precision: 0.9167
+  recall: 1.0000
+  f1: 0.9565
+  accuracy: 0.9974
+  roc_auc: 0.9986
+  support: 11
+
+periapical radiolucency:
+  precision: 0.5862
+  recall: 0.5113
+  f1: 0.5462
+  accuracy: 0.7018
+  roc_auc: 0.6581
+  support: 133
+
+rc-treated:
+  precision: 0.9118
+  recall: 0.8158
+  f1: 0.8611
+  accuracy: 0.8945
+  roc_auc: 0.8815
+  support: 152
+
+restoration:
+  precision: 0.8824
+  recall: 0.5488
+  f1: 0.6767
+  accuracy: 0.7731
+  roc_auc: 0.7465
+  support: 164
+
+root-stump:
+  precision: 0.6118
+  recall: 0.5306
+  f1: 0.5683
+  accuracy: 0.7916
+  roc_auc: 0.7066
+  support: 98
+
+================================================================================
+ALL TRAINING COMPLETE!
+================================================================================
