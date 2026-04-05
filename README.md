@@ -183,15 +183,7 @@ If you use this work or codebase in your research, please cite the dissertation:
 
 ```bash
 @thesis{aiDentist2025,
-  author = {Tun Ye Minn},
-  title = {AI The Dentist: Multimodal Dental Diagnostics: Comparative Detection Modeling and LLM-Powered Report Generation with Interactive RAG Assistance},
-  school = {University of Essex},
-  year = {2026},
-  type = {Master Thesis}
-}
-
-@thesis{aiDentist2025,
-  author = {Muhammad Babar},
+  author = {Tun Ye Minn, Muhammad Babar},
   title = {AI The Dentist: Multimodal Dental Diagnostics: Comparative Detection Modeling and LLM-Powered Report Generation with Interactive RAG Assistance},
   school = {University of Essex},
   year = {2026},
